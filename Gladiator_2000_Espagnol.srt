@@ -1,5299 +1,5653 @@
 1
-00:01:04,517 --> 00:01:07,058
+00:00:55,338 --> 00:01:01,607
+GLADIADOR
+
+2
+00:01:03,780 --> 00:01:06,806
 EN SU APOGEO,
 EL VASTO IMPERIO ROMANO
 
-2
-00:01:07,142 --> 00:01:09,558
-SE EXTENDÍA DE LOS DESIERTOS
-DE ÁFRICA
-
 3
-00:01:09,642 --> 00:01:13,517
-HASTA EL NORTE DE INGLATERRA.
+00:01:06,916 --> 00:01:09,578
+SE EXTENDÍA
+DESDE LOS DESIERTOS AFRICANOS
 
 4
-00:01:13,600 --> 00:01:17,100
-MÁS DE UN CUARTO DE
-LA POBLACIÓN MUNDIAL VIVÍA Y MORÍA
+00:01:09,686 --> 00:01:12,986
+HASTA LAS FRONTERAS
+DEL NORTE DE INGLATERRA.
 
 5
-00:01:17,183 --> 00:01:21,308
-BAJO EL PODER DE LOS CÉSARES.
+00:01:13,090 --> 00:01:16,685
+MÁS DE LA CUARTA PARTE
+DE LA POBLACIÓN MUNDIAL
 
 6
-00:01:22,017 --> 00:01:24,558
-EN EL INVIERNO DEL 180 DC,
-LA CAMPAÑA DE DOCE AÑOS
+00:01:16,794 --> 00:01:20,286
+VIVÍA Y MORÍA
+BAJO EL IMPERIO DE LOS CÉSARES.
 
 7
-00:01:24,642 --> 00:01:28,017
-DEL EMPERADOR MARCO AURELIO
-CONTRA LAS TRIBUS BÁRBARAS
+00:01:21,198 --> 00:01:22,893
+EN EL INVIERNO DEL AÑO 180 D.C.
 
 8
-00:01:28,100 --> 00:01:30,350
-SE ACERCABA A SU FIN.
+00:01:23,000 --> 00:01:25,628
+LA CAMPAÑA DE 12 AÑOS
+DEL EMPERADOR MARCO AURELIO
 
 9
-00:01:30,433 --> 00:01:34,933
-UN ÚLTIMO REDUCTO OBSTACULIZABA
-LA VICTORIA DE LOS ROMANOS
+00:01:25,736 --> 00:01:29,069
+CONTRA LAS TRIBUS BÁRBARAS
+GERMANAS LLEGABA A SU FIN.
 
 10
-00:01:35,017 --> 00:01:39,267
-Y LA PROMESA DE PAZ
-POR TODO EL IMPERIO.
+00:01:29,173 --> 00:01:31,004
+SÓLO UN REDUCTO SE INTERPONÍA
 
 11
-00:03:18,225 --> 00:03:19,308
-Señor.
+00:01:31,108 --> 00:01:34,305
+ENTRE LA VICTORIA ROMANA
 
 12
-00:03:19,392 --> 00:03:20,683
-General.
+00:01:34,411 --> 00:01:38,177
+Y LA PROMESA DE PAZ
+PARA TODO EL IMPERIO.
 
 13
-00:03:23,183 --> 00:03:24,517
+00:03:17,618 --> 00:03:19,586
 - Señor.
 - General.
 
 14
-00:03:26,267 --> 00:03:27,392
-Señor.
+00:03:20,621 --> 00:03:22,749
+- General.
+- Señor.
 
 15
-00:03:28,683 --> 00:03:29,808
-General.
+00:03:46,948 --> 00:03:48,916
+Delgados y hambrientos.
 
 16
-00:03:31,558 --> 00:03:32,683
-Señor.
-
-17
-00:03:47,558 --> 00:03:49,308
-Débiles y hambrientos.
-
-18
-00:03:52,433 --> 00:03:55,392
-- ¿Aún nada?
+00:03:51,719 --> 00:03:54,450
+- ¿Nada aún?
 - Ni una señal.
 
-19
-00:03:55,475 --> 00:03:58,475
-- ¿Cuánto hace que salió?
+17
+00:03:54,556 --> 00:03:57,423
+- ¿Cuánto hace que se ha ido?
 - Casi dos horas.
 
+18
+00:04:00,296 --> 00:04:03,390
+- ¿Pelearán, señor?
+- Lo sabremos pronto.
+
+19
+00:04:03,499 --> 00:04:06,127
+Soldado, ordené
+adelantar esas catapultas.
+
 20
-00:04:01,267 --> 00:04:03,058
-¿Querrán luchar, señor?
+00:04:06,235 --> 00:04:09,033
+- Están fuera de alcance.
+- Están bien.
 
 21
-00:04:03,142 --> 00:04:04,475
-Pronto lo sabremos.
+00:04:10,372 --> 00:04:13,808
+- El daño para la caballería...
+- Es aceptable. ¿De acuerdo?
 
 22
-00:04:04,558 --> 00:04:07,142
-Soldado, le he ordenado
-que adelante esas catapultas.
-
-23
-00:04:07,225 --> 00:04:09,808
-- Están fuera del alcance.
-- Están bien así.
-
-24
-00:04:11,350 --> 00:04:15,100
-- Es peligroso para la caballería...
-- Un peligro aceptable. ¿Entendido?
-
-25
-00:04:24,183 --> 00:04:25,517
+00:04:23,519 --> 00:04:25,487
 Dicen que no.
 
+23
+00:04:34,030 --> 00:04:36,089
+Quieto. Quieto.
+
+24
+00:04:50,380 --> 00:04:53,213
+Deberían reconocer su derrota.
+
+25
+00:05:03,494 --> 00:05:06,952
+¿Tú la reconocerías, Quinto?
+¿Yo lo haría?
+
 26
-00:04:51,225 --> 00:04:53,892
-La gente debería saber
-cuándo están vencidos.
+00:05:24,215 --> 00:05:26,410
+- Fuerza y honor.
+- Fuerza y honor.
 
 27
-00:05:04,267 --> 00:05:06,267
-¿Lo sabrías tú, Quinto?
+00:05:32,657 --> 00:05:35,558
+Cuando dé la señal,
+que se desate el infierno.
 
 28
-00:05:07,142 --> 00:05:08,267
-¿Y yo?
+00:05:58,417 --> 00:06:00,977
+Carguen las catapultas.
 
 29
-00:05:25,183 --> 00:05:26,725
-- Fuerza y honor.
-- Fuerza y honor.
+00:06:01,086 --> 00:06:03,145
+Infantería formarse para avanzar.
 
 30
-00:05:26,808 --> 00:05:28,267
-Fuerza y honor.
+00:06:04,189 --> 00:06:06,522
+- Arqueros listos.
+- Arqueros.
 
 31
-00:05:33,350 --> 00:05:36,517
-Cuando dé la señal, atacad.
+00:06:06,626 --> 00:06:08,457
+- Golpear.
+- Golpear.
 
 32
-00:05:59,475 --> 00:06:00,975
-Cargad las catapultas.
+00:06:32,185 --> 00:06:34,915
+- Patres.
+- Máximo.
 
 33
-00:06:01,725 --> 00:06:04,058
-Infantería, formación para el avance.
+00:06:36,889 --> 00:06:40,189
+Dentro de tres semanas,
+cosecharé mis cultivos.
 
 34
-00:06:05,267 --> 00:06:07,558
-- Arqueros, preparados.
-- ¡Arqueros!
+00:06:41,128 --> 00:06:45,258
+Imaginen dónde estarán
+ustedes y así será.
 
 35
-00:06:07,642 --> 00:06:09,183
-- ¡Cargad!
-- ¡Cargad!
+00:06:46,400 --> 00:06:48,868
+Mantengan la línea.
+Quédense conmigo.
 
 36
-00:06:32,933 --> 00:06:34,183
-Fratres.
+00:06:49,636 --> 00:06:52,298
+Si se encuentran solos...
 
 37
-00:06:34,267 --> 00:06:36,308
-¡Máximo!
+00:06:52,406 --> 00:06:55,102
+...cabalgando en campos verdes
+con el sol en el rostro...
 
 38
-00:06:37,308 --> 00:06:41,475
-Dentro de tres semanas
-estaré cosechando mis tierras.
+00:06:56,710 --> 00:06:58,678
+...no se preocupen.
 
 39
-00:06:41,892 --> 00:06:46,433
-Imaginad dónde estaréis y así será.
+00:06:59,713 --> 00:07:03,205
+Significa que ya han muerto
+y que están en los Campos Elíseos.
 
 40
-00:06:47,100 --> 00:06:50,267
-¡Mantened la formación! ¡Seguidme!
+00:07:05,552 --> 00:07:07,042
+Hermanos...
 
 41
-00:06:50,350 --> 00:06:53,225
-Si os encontráis solos,
+00:07:08,455 --> 00:07:10,424
+...lo que hacemos en vida...
 
 42
-00:06:53,308 --> 00:06:56,517
-cabalgando por verdes praderas
-con el sol en el rostro,
+00:07:11,392 --> 00:07:13,326
+...resuena en la eternidad.
 
 43
-00:06:57,350 --> 00:06:59,517
-no os angustiéis.
+00:07:19,167 --> 00:07:20,134
+Tiren.
 
 44
-00:07:00,308 --> 00:07:04,142
-Porque estáis en el Elíseo,
-¡y ya estáis muertos!
+00:07:20,235 --> 00:07:22,465
+- Tiren.
+- Tiren.
 
 45
-00:07:06,308 --> 00:07:07,892
-Hermanos,
+00:07:38,286 --> 00:07:40,277
+Catapultas listas, señor.
 
 46
-00:07:09,350 --> 00:07:11,142
-lo que hacemos en vida
+00:07:51,200 --> 00:07:53,532
+Arqueros, enciendan.
 
 47
-00:07:12,225 --> 00:07:14,183
-resuena toda la eternidad.
+00:07:53,636 --> 00:07:55,797
+- Enciendan.
+- Enciendan.
 
 48
-00:07:22,433 --> 00:07:23,558
-¡Tensión!
+00:08:02,378 --> 00:08:04,505
+Arqueros, apunten.
 
 49
-00:07:39,267 --> 00:07:41,350
-¡Catapultas preparadas, señor!
+00:08:08,317 --> 00:08:09,841
+Lancen.
 
 50
-00:07:51,975 --> 00:07:54,392
-¡Arqueros, encended!
+00:08:39,082 --> 00:08:41,243
+Está bien, señores, listos.
 
 51
-00:07:54,475 --> 00:07:57,017
-- ¡Encended!
-- ¡Encended!
+00:08:46,790 --> 00:08:48,520
+Mantengan la línea.
 
 52
-00:08:03,058 --> 00:08:05,642
-¡Arqueros, tensad los arcos!
+00:08:56,167 --> 00:08:57,828
+Lancen. Lancen.
 
 53
-00:08:09,267 --> 00:08:10,433
-¡Disparad!
+00:08:59,170 --> 00:09:00,660
+Recarguen.
 
 54
-00:08:39,600 --> 00:08:41,600
-¡Vamos, todos preparados!
+00:09:05,776 --> 00:09:07,539
+Mantengan la línea.
 
 55
-00:08:47,475 --> 00:08:49,558
-¡Mantened la formación!
+00:09:07,645 --> 00:09:09,943
+Apunten. Lancen.
 
 56
-00:08:57,642 --> 00:08:59,808
-¡Disparad!
+00:09:12,850 --> 00:09:14,818
+Quédense conmigo.
 
 57
-00:08:59,892 --> 00:09:01,475
-¡Cargad de nuevo!
+00:09:19,725 --> 00:09:21,522
+Quédense conmigo.
 
 58
-00:09:06,517 --> 00:09:08,475
-¡Mantened la formación!
+00:09:49,788 --> 00:09:52,724
+Roma a la victoria.
 
 59
-00:09:08,558 --> 00:09:10,808
-- ¡Tensión!
-- ¡Disparad!
+00:12:25,849 --> 00:12:27,840
+Roma a la victoria.
 
 60
-00:09:13,517 --> 00:09:15,225
-¡Seguidme!
-
-61
-00:09:20,642 --> 00:09:21,975
-¡Seguidme!
-
-62
-00:09:50,642 --> 00:09:53,517
-¡Roma victor!
-
-63
-00:12:26,683 --> 00:12:28,683
-¡Roma victor!
-
-64
-00:13:10,683 --> 00:13:13,058
+00:13:10,095 --> 00:13:12,256
 ¿Crees que realmente se está muriendo?
 
+61
+00:13:13,532 --> 00:13:15,500
+Hace 10 años que se está muriendo.
+
+62
+00:13:17,102 --> 00:13:20,162
+Si no fuera cierto,
+no nos habría enviado a buscar.
+
+63
+00:13:20,272 --> 00:13:22,001
+Quizá simplemente nos extraña.
+
+64
+00:13:22,107 --> 00:13:24,701
+¿Y los senadores?
+No los habría convocado si--
+
 65
-00:13:14,308 --> 00:13:16,308
-Lleva diez años muriéndose.
+00:13:24,810 --> 00:13:26,243
+Tranquilo, Cómodo.
 
 66
-00:13:17,850 --> 00:13:20,600
-Si no estuviera muriéndose de verdad,
-no nos habría llamado.
+00:13:26,345 --> 00:13:30,304
+Tus intrigas constantes me dan dolor
+de cabeza tras dos semanas de viaje.
 
 67
-00:13:20,683 --> 00:13:22,600
-Tal vez solo nos echa de menos.
+00:13:37,623 --> 00:13:40,923
+Ha tomado una decisión.
+Y la anunciará.
 
 68
-00:13:22,683 --> 00:13:25,558
-¿Y los senadores?
-No los habría convocado si...
+00:13:44,697 --> 00:13:46,824
+Me nombrará.
 
 69
-00:13:25,642 --> 00:13:26,642
-Silencio, Cómodo.
+00:13:49,502 --> 00:13:51,527
+Lo primero que haré...
 
 70
-00:13:26,683 --> 00:13:28,118
-Llevo dos semanas oyendo tus intrigas
+00:13:52,338 --> 00:13:53,965
+...será...
 
 71
-00:13:28,142 --> 00:13:30,933
-y ya me duele la cabeza.
+00:13:56,009 --> 00:13:59,137
+...honrarlo con juegos dignos
+de Su Majestad.
 
 72
-00:13:38,308 --> 00:13:41,808
-Ha tomado una decisión.
-Va a hacerla pública.
+00:13:59,245 --> 00:14:04,046
+Por ahora, lo primero que haré
+será tomar un baño caliente.
 
 73
-00:13:45,350 --> 00:13:47,267
-Me va a nombrar a mí.
+00:14:05,952 --> 00:14:07,442
+¿Su Alteza?
 
 74
-00:13:50,100 --> 00:13:53,892
-Lo primero que haré cuando...
+00:14:11,357 --> 00:14:13,485
+Parece que casi llegamos, señor.
 
 75
-00:13:56,600 --> 00:13:59,767
-Es organizar en su honor
-unos juegos dignos de Su Majestad.
+00:14:19,800 --> 00:14:21,461
+- Señor.
+- ¿Y el Emperador?
 
 76
-00:13:59,850 --> 00:14:04,892
-Por el momento, lo primero que haré
-será darme un baño caliente.
+00:14:21,569 --> 00:14:24,732
+En el frente, señor.
+Ya llevan 19 días.
 
 77
-00:14:06,558 --> 00:14:08,267
-¿Alteza?
+00:14:25,573 --> 00:14:27,837
+Los heridos aún siguen llegando.
 
 78
-00:14:11,892 --> 00:14:13,975
-Ya casi hemos llegado, señor.
-
-79
-00:14:20,392 --> 00:14:22,517
-- Señor.
-- ¿Dónde está el emperador?
-
-80
-00:14:22,600 --> 00:14:26,142
-Está en el frente, señor.
-Llevan 19 días fuera.
-
-81
-00:14:26,225 --> 00:14:28,558
-Todavía están llegando heridos.
-
-82
-00:14:28,642 --> 00:14:30,225
+00:14:27,942 --> 00:14:29,569
 Mi caballo.
 
-83
-00:14:30,308 --> 00:14:31,892
+79
+00:14:29,677 --> 00:14:31,304
 Mi señor.
 
-84
-00:14:35,558 --> 00:14:36,642
+80
+00:14:34,848 --> 00:14:36,475
 ¿Un beso?
 
-85
-00:15:12,475 --> 00:15:15,850
-Has demostrado tu valor
-una vez más, Máximo.
+81
+00:15:11,786 --> 00:15:14,914
+Has vuelto a demostrar tu valor,
+Máximo.
 
-86
-00:15:18,183 --> 00:15:20,808
+82
+00:15:17,560 --> 00:15:20,188
 Esperemos que sea por última vez.
 
-87
-00:15:21,267 --> 00:15:23,725
-No queda nadie contra quien luchar, señor.
+83
+00:15:20,296 --> 00:15:22,093
+No han quedado adversarios, señor.
 
-88
-00:15:23,808 --> 00:15:26,558
-Siempre queda alguien contra quien luchar.
+84
+00:15:23,065 --> 00:15:25,192
+Siempre queda alguno.
 
-89
-00:15:26,642 --> 00:15:29,683
+85
+00:15:25,735 --> 00:15:28,602
 ¿Cómo puedo recompensar
-al general más grande de Roma?
+al máximo general de Roma?
 
-90
-00:15:34,892 --> 00:15:36,267
-Dejadme ir a casa.
+86
+00:15:34,176 --> 00:15:36,144
+Déjeme ir a casa.
 
-91
-00:15:38,808 --> 00:15:40,058
+87
+00:15:38,214 --> 00:15:39,408
 A casa.
 
-92
-00:15:59,058 --> 00:16:00,558
-Os aclaman, César.
+88
+00:15:58,235 --> 00:15:59,964
+Te honran, césar.
 
-93
-00:16:00,642 --> 00:16:03,392
-Es a ti, Máximo. Te aclaman a ti.
+89
+00:16:00,070 --> 00:16:02,163
+Es para ti, Máximo.
+Te honran a ti.
 
-94
-00:16:26,350 --> 00:16:29,142
-¿Me lo he perdido?
+90
+00:16:25,596 --> 00:16:28,064
+¿Me la he perdido?
 ¿Me he perdido la batalla?
 
-95
-00:16:30,850 --> 00:16:32,600
+91
+00:16:30,101 --> 00:16:32,001
 Te has perdido la guerra.
 
-96
-00:16:32,683 --> 00:16:34,933
-Padre, enhorabuena.
+92
+00:16:32,103 --> 00:16:34,367
+Padre, felicitaciones.
 
-97
-00:16:35,267 --> 00:16:37,808
-Sacrificaré 100 toros
-en honor a tu triunfo.
+93
+00:16:34,472 --> 00:16:37,407
+Sacrificaré cien toros
+para honrar tu triunfo.
 
-98
-00:16:37,892 --> 00:16:39,475
+94
+00:16:37,508 --> 00:16:39,499
 Ahórrate los toros.
+Honra a Máximo.
 
-99
-00:16:39,558 --> 00:16:41,975
-Felicita a Máximo. Él ha ganado la batalla.
+95
+00:16:40,178 --> 00:16:41,736
+Él ganó la batalla.
 
-100
-00:16:42,433 --> 00:16:44,850
+96
+00:16:41,846 --> 00:16:43,837
 - General.
 - Alteza.
 
-101
-00:16:45,850 --> 00:16:49,392
-Roma te saluda
-y yo te abrazo como a un hermano.
+97
+00:16:45,083 --> 00:16:47,881
+Roma te saluda y yo te
+abrazo como un hermano.
 
-102
-00:16:49,475 --> 00:16:51,225
-Hace ya demasiado tiempo, viejo amigo.
+98
+00:16:48,820 --> 00:16:51,311
+- Ha pasado mucho tiempo, viejo amigo.
+- Alteza.
 
-103
-00:16:51,308 --> 00:16:52,850
-Alteza.
+99
+00:16:52,190 --> 00:16:54,215
+Toma, Padre. Toma mi brazo.
 
-104
-00:16:52,933 --> 00:16:55,433
-Ven, padre. Cógeme del brazo.
-
-105
-00:16:56,892 --> 00:17:00,142
+100
+00:16:56,395 --> 00:16:59,193
 Creo que es hora de que me vaya.
 
-106
-00:17:15,308 --> 00:17:18,725
-He aquí la gloria de Roma.
+101
+00:17:14,179 --> 00:17:17,326
+Eso basta en cuanto a la gloria de Roma.
 
-107
-00:17:39,100 --> 00:17:40,642
+102
+00:18:47,454 --> 00:18:49,422
 Una batalla magnífica.
 
+103
+00:19:00,294 --> 00:19:03,627
+Tres de nuestras legiones
+contra miles de ellos.
+
+104
+00:19:12,541 --> 00:19:14,099
+¿Aún sigues vivo?
+
+105
+00:19:14,209 --> 00:19:17,042
+- Aún.
+- Los dioses deben de tener humor.
+
+106
+00:19:17,146 --> 00:19:19,273
+Los dioses deben de amarte.
+
+107
+00:19:19,381 --> 00:19:21,713
+- Valerio.
+- ¿Vuelves al cuartel, general?
+
 108
-00:18:04,475 --> 00:18:06,142
-General. ¿Sigues aún con vida?
+00:19:21,817 --> 00:19:24,012
+- ¿O a Roma?
+- A casa.
 
 109
-00:18:06,225 --> 00:18:07,767
-Sigo con vida.
+00:19:24,119 --> 00:19:26,747
+Mi esposa, mi hijo, la cosecha.
 
 110
-00:18:07,850 --> 00:18:09,326
-Los dioses deben tener sentido del humor.
+00:19:26,855 --> 00:19:30,086
+Máximo el agricultor.
+Aún me cuesta imaginarlo.
 
 111
-00:18:09,350 --> 00:18:12,392
-- Los dioses deben de quererte.
-- Valerio.
+00:19:30,192 --> 00:19:33,320
+Ya sabes, la tierra se limpia más
+fácil que la sangre, Quinto.
 
 112
-00:18:12,475 --> 00:18:15,100
-¿De vuelta al cuartel, general? ¿O a Roma?
-
-113
-00:18:15,183 --> 00:18:18,058
-A casa. Mi esposa, mi hijo, la cosecha.
-
-114
-00:18:18,850 --> 00:18:22,058
-Máximo, el granjero.
-Todavía me cuesta imaginármelo.
-
-115
-00:18:22,142 --> 00:18:25,892
-La tierra es mucho más fácil de lavar
-que la sangre, Quinto.
-
-116
-00:18:25,975 --> 00:18:27,933
+00:19:34,096 --> 00:19:36,064
 - Aquí está.
 - Alteza.
 
+113
+00:19:36,165 --> 00:19:38,031
+Senador Gayo, senador Falco.
+
+114
+00:19:38,134 --> 00:19:41,501
+Cuidado con Gayo.
+Te dirá palabras melifluas...
+
+115
+00:19:41,604 --> 00:19:45,233
+...y un día amanecerás diciendo sólo:
+"República, república".
+
+116
+00:19:45,341 --> 00:19:47,707
+¿Por qué no?
+Roma fue fundada como república.
+
 117
-00:18:28,017 --> 00:18:30,350
-Senador Cayo, senador Falco.
+00:19:47,811 --> 00:19:50,211
+Sí, y en una república,
+el Senado es el que manda.
 
 118
-00:18:30,433 --> 00:18:33,225
-Cuidado con Cayo.
-Te enredará con dulces palabras
+00:19:50,313 --> 00:19:52,941
+Claro que el senador Gayo
+no está influenciado por eso.
 
 119
-00:18:33,308 --> 00:18:37,225
-y un día despertarás
-y lo único que dirás es: "República".
+00:19:53,049 --> 00:19:55,711
+¿De qué lado estás?
+¿Del emperador o del senado?
 
 120
-00:18:37,308 --> 00:18:39,725
-¿Y por qué no?
-Roma se fundó como una república.
+00:19:56,219 --> 00:19:57,811
+El soldado tiene la ventaja...
 
 121
-00:18:39,808 --> 00:18:42,350
-Sí, y en una república
-el poder reside en el senado.
+00:19:57,921 --> 00:20:01,015
+...de poder mirar a los ojos
+a su enemigo, senador.
 
 122
-00:18:42,433 --> 00:18:45,058
-Pero el senador Cayo
-no se deja influir por eso.
+00:20:01,124 --> 00:20:05,117
+Pues, con un ejército detrás de ti,
+podrías ser un gran político.
 
 123
-00:18:45,142 --> 00:18:47,892
-¿Cuál es tu postura, general?
-¿El emperador o el senado?
+00:20:05,228 --> 00:20:07,696
+Te lo advertí. Ahora te salvaré.
+Senadores.
 
 124
-00:18:47,975 --> 00:18:52,683
-Un soldado tiene la ventaja de poder mirar
-al enemigo a los ojos, senador.
-
-125
-00:18:53,100 --> 00:18:57,017
-Con un ejército apoyándote,
-podrías ser sumamente político.
-
-126
-00:18:57,100 --> 00:19:00,225
-Te lo advertí.
-Ahora te voy a salvar. Senadores.
-
-127
-00:19:10,100 --> 00:19:11,350
+00:20:17,975 --> 00:20:19,602
 Máximo.
 
+125
+00:20:20,711 --> 00:20:23,009
+Necesitaré buenos hombres como tú.
+
+126
+00:20:25,316 --> 00:20:27,716
+¿Cómo puedo servirte, Alteza?
+
+127
+00:20:27,818 --> 00:20:30,787
+Eres un hombre que sabe
+qué significa mandar.
+
 128
-00:19:12,642 --> 00:19:15,100
-Voy a necesitar hombres valiosos como tú.
+00:20:30,888 --> 00:20:34,289
+Ordenas, las órdenes se obedecen
+y la batalla se gana.
 
 129
-00:19:17,225 --> 00:19:20,017
-¿Cómo puedo servirle, Alteza?
+00:20:34,391 --> 00:20:38,953
+Pero estos senadores traman,
+riñen, adulan y engañan.
 
 130
-00:19:20,100 --> 00:19:23,183
-Eres un hombre que sabe lo que es mandar.
+00:20:39,697 --> 00:20:42,495
+Debemos salvar a Roma
+de los políticos, amigo.
 
 131
-00:19:23,267 --> 00:19:26,392
-Tú das las órdenes, las órdenes
-se obedecen y la batalla se gana.
+00:20:42,600 --> 00:20:45,536
+¿Puedo contar contigo,
+cuando llegue el momento?
 
 132
-00:19:26,475 --> 00:19:31,225
-Pero estos senadores traman, riñen
-y adulan y traicionan.
+00:20:51,877 --> 00:20:55,176
+Alteza, pretendo volver a casa
+cuando tu padre me releve.
 
 133
-00:19:31,767 --> 00:19:34,892
-Máximo, amigo,
-tenemos que salvar a Roma de los políticos.
+00:20:55,280 --> 00:20:57,976
+¿A casa?
+Pues, nadie se lo merece más.
 
 134
-00:19:34,975 --> 00:19:38,058
-¿Puedo contar contigo
-para cuando llegue el momento?
+00:20:59,417 --> 00:21:02,716
+No te pongas demasiado cómodo.
+Puedo convocarte en poco tiempo.
 
 135
-00:19:43,850 --> 00:19:46,683
-Alteza, cuando tu padre me releve
-tengo pensado volver a casa.
+00:21:05,323 --> 00:21:07,621
+Lucilla está aquí. ¿Lo sabías?
 
 136
-00:19:46,767 --> 00:19:50,017
-¿A casa?
-Bueno, nadie se lo merece tanto como tú.
+00:21:08,393 --> 00:21:10,361
+No te ha olvidado.
 
 137
-00:19:51,683 --> 00:19:55,433
-No te acomodes demasiado.
-Tal vez no tarde mucho en llamarte.
+00:21:11,596 --> 00:21:13,621
+Y ahora eres el gran hombre.
 
 138
-00:19:57,475 --> 00:20:00,225
-Lucila está aquí. ¿Lo sabías?
+00:21:26,212 --> 00:21:28,578
+Si sólo hubieras nacido hombre.
 
 139
-00:20:00,642 --> 00:20:02,517
-No se ha olvidado de ti.
+00:21:29,849 --> 00:21:32,477
+Qué gran césar habrías sido.
 
 140
-00:20:03,892 --> 00:20:06,058
-Y ahora eres un gran héroe.
-
-141
-00:20:18,433 --> 00:20:21,058
-Si hubieras nacido hombre,
-
-142
-00:20:22,142 --> 00:20:24,225
-¡qué gran César habrías sido!
-
-143
-00:20:26,058 --> 00:20:27,392
+00:21:33,786 --> 00:21:35,413
 Padre.
 
-144
-00:20:33,225 --> 00:20:35,225
+141
+00:21:41,127 --> 00:21:43,152
 Habrías sido fuerte.
 
+142
+00:21:43,262 --> 00:21:46,231
+Me pregunto si habrías sido ecuánime.
+
+143
+00:21:47,066 --> 00:21:49,535
+Habría sido según tus enseñanzas.
+
+144
+00:21:51,939 --> 00:21:53,497
+¿Cómo estuvo tu viaje?
+
 145
-00:20:35,308 --> 00:20:38,558
-Me pregunto si habrías sido justo.
+00:21:53,607 --> 00:21:57,805
+Fue largo. Incómodo.
+¿A qué he venido?
 
 146
-00:20:39,517 --> 00:20:42,475
-Tú me habrías enseñado a serlo.
+00:21:57,911 --> 00:22:00,379
+Necesito tu ayuda. Con tu hermano.
 
 147
-00:20:44,267 --> 00:20:45,683
-¿Qué tal el viaje?
-
-148
-00:20:45,767 --> 00:20:49,975
-Largo. Incómodo.
-¿Por qué nos has llamado?
-
-149
-00:20:50,058 --> 00:20:52,600
-Necesito tu ayuda. Junto con tu hermano.
-
-150
-00:20:53,017 --> 00:20:54,558
+00:22:00,480 --> 00:22:02,573
 Por supuesto.
 
+148
+00:22:02,683 --> 00:22:04,981
+Te ama. Siempre te ha amado.
+
+149
+00:22:05,852 --> 00:22:07,376
+Y ahora...
+
+150
+00:22:08,956 --> 00:22:11,857
+...te necesitará más que nunca.
+
 151
-00:20:54,850 --> 00:20:57,058
-Él te quiere. Siempre te ha querido.
-
-152
-00:20:58,058 --> 00:20:59,267
-Y...
-
-153
-00:21:01,183 --> 00:21:04,142
-ahora va a necesitarte, más que nunca.
-
-154
-00:21:09,183 --> 00:21:11,350
+00:22:17,197 --> 00:22:19,188
 Basta de política.
 
+152
+00:22:19,299 --> 00:22:22,701
+Finjamos que eres una hija cariñosa...
+
+153
+00:22:22,804 --> 00:22:24,965
+...y yo un buen padre.
+
+154
+00:22:30,778 --> 00:22:33,076
+Qué ficción agradable, ¿no?
+
 155
-00:21:11,433 --> 00:21:14,475
-Hagamos como si tú fueras
-una hija cariñosa,
+00:22:46,527 --> 00:22:48,392
+Buen día, general.
 
 156
-00:21:15,017 --> 00:21:17,225
-y yo fuera un buen padre.
+00:23:01,310 --> 00:23:03,471
+Necesito tres caballos de guerra.
 
 157
-00:21:22,975 --> 00:21:25,642
-Qué ficción más bonita, ¿no crees?
+00:23:13,889 --> 00:23:15,720
+Dos. Tres.
 
 158
-00:21:38,475 --> 00:21:40,058
-Buenos días.
+00:23:16,492 --> 00:23:17,686
+Cuatro.
 
 159
-00:21:53,308 --> 00:21:55,683
-Necesito tres caballos más.
+00:23:17,793 --> 00:23:19,852
+Uno. Dos.
 
 160
-00:22:06,058 --> 00:22:08,058
-¡Dos! ¡Tres!
+00:23:36,346 --> 00:23:38,473
+¿Me buscaba, césar?
 
 161
-00:22:08,642 --> 00:22:09,975
-¡Cuatro!
+00:23:43,086 --> 00:23:45,646
+- ¿César?
+- Máximo, vuelve a decírmelo.
 
 162
-00:22:10,058 --> 00:22:12,642
-¡Uno! ¡Dos!
-
-163
-00:22:28,392 --> 00:22:30,308
-¿Me has llamado, César?
-
-164
-00:22:35,308 --> 00:22:38,142
-- ¿César?
-- Dímelo otra vez, Máximo.
-
-165
-00:22:39,267 --> 00:22:40,892
+00:23:47,023 --> 00:23:48,991
 ¿Por qué estamos aquí?
 
+163
+00:23:50,026 --> 00:23:52,290
+Por la gloria del Imperio, señor.
+
+164
+00:23:53,163 --> 00:23:54,630
+Ah, sí.
+
+165
+00:23:56,099 --> 00:23:58,466
+Ah, sí, me acuerdo.
+
 166
-00:22:42,267 --> 00:22:44,683
-Por la gloria del imperio, señor.
-
-167
-00:22:45,267 --> 00:22:46,350
-Sí.
-
-168
-00:22:48,350 --> 00:22:50,350
-Sí, ya lo recuerdo.
-
-169
-00:22:53,392 --> 00:22:55,475
+00:24:01,138 --> 00:24:03,368
 ¿Ves ese mapa, Máximo?
 
+167
+00:24:04,241 --> 00:24:06,607
+Es el mundo que creé.
+
+168
+00:24:07,611 --> 00:24:09,704
+Durante 25 años...
+
+169
+00:24:09,814 --> 00:24:13,272
+...he conquistado, derramado
+sangre y expandido el Imperio.
+
 170
-00:22:56,475 --> 00:22:58,892
-Es el mundo que he creado.
+00:24:15,119 --> 00:24:18,919
+Desde que devine césar, sólo
+no hubo guerra durante cuatro años.
 
 171
-00:22:59,725 --> 00:23:01,475
-Durante 25 años
+00:24:19,023 --> 00:24:21,218
+Cuatro años de paz
+sobre un total de veinte.
 
 172
-00:23:01,933 --> 00:23:05,767
-he conquistado, derramado sangre,
-agrandado el imperio.
-
-173
-00:23:07,267 --> 00:23:11,058
-Desde que soy César,
-he conocido cuatro años sin guerra.
-
-174
-00:23:11,142 --> 00:23:13,475
-Cuatro años de paz en 20.
-
-175
-00:23:13,850 --> 00:23:15,475
+00:24:21,659 --> 00:24:23,627
 ¿Y para qué?
 
+173
+00:24:30,736 --> 00:24:32,704
+Traje la espada.
+
+174
+00:24:33,472 --> 00:24:35,736
+Nada más.
+
+175
+00:24:35,841 --> 00:24:39,140
+- César, su vida...
+- Por favor, no me llames así.
+
 176
-00:23:22,767 --> 00:23:26,517
-He traído la espada. Nada más.
-
-177
-00:23:27,892 --> 00:23:29,267
-César, tu vida...
-
-178
-00:23:29,350 --> 00:23:31,808
-Por favor. No me llames así.
-
-179
-00:23:32,142 --> 00:23:34,517
+00:24:40,145 --> 00:24:42,113
 Ven. Por favor.
 
-180
-00:23:35,225 --> 00:23:36,475
+177
+00:24:43,115 --> 00:24:45,083
 Siéntate.
 
+178
+00:24:45,283 --> 00:24:51,046
+Ahora hablemos, lisa y llanamente,
+de hombre a hombre.
+
+179
+00:24:51,623 --> 00:24:53,716
+¿Y bien, Máximo?
+
+180
+00:24:55,827 --> 00:24:57,624
+Habla.
+
 181
-00:23:37,517 --> 00:23:40,142
-Ahora hablemos juntos...
+00:25:00,098 --> 00:25:03,033
+Tengo 5.000 hombres congelándose
+ahí afuera en el barro.
 
 182
-00:23:40,975 --> 00:23:43,225
-sencilla y llanamente, como hombres.
+00:25:03,136 --> 00:25:06,572
+3.000 están heridos y ensangrentados.
+2.000 jamás saldrán de aquí.
 
 183
-00:23:43,725 --> 00:23:45,517
-Bueno, Máximo,
+00:25:06,672 --> 00:25:09,869
+Me niego a creer que
+pelearon y murieron en vano.
 
 184
-00:23:47,975 --> 00:23:49,183
-habla.
+00:25:09,976 --> 00:25:13,139
+- ¿Y qué prefieres creer?
+- Pelearon por usted.
 
 185
-00:23:52,142 --> 00:23:55,142
-Cinco mil de mis hombres
-están congelándose en el fango.
+00:25:14,046 --> 00:25:17,140
+- Y por Roma.
+- ¿Y qué es Roma, Máximo?
 
 186
-00:23:55,225 --> 00:23:58,308
-Tres mil están ensangrentados y heridos.
-Dos mil no regresarán nunca.
+00:25:19,418 --> 00:25:21,716
+He visto mucho del resto del mundo.
 
 187
-00:23:58,392 --> 00:24:01,850
-No quiero creer que hayan luchado
-y muerto por nada.
+00:25:21,821 --> 00:25:25,723
+Es brutal, cruel y siniestro.
+Roma es la luz.
 
 188
-00:24:01,933 --> 00:24:03,392
-¿Qué estás dispuesto a creer?
+00:25:25,825 --> 00:25:27,986
+Sin embargo, nunca estuviste allí.
 
 189
-00:24:03,475 --> 00:24:07,475
-Que lucharon por ti y por Roma.
-
-190
-00:24:07,558 --> 00:24:09,308
-¿Y qué es Roma?
-
-191
-00:24:11,392 --> 00:24:13,933
-He visto el resto del mundo.
-
-192
-00:24:14,017 --> 00:24:17,892
-Es brutal, cruel y oscuro. Roma es la luz.
-
-193
-00:24:17,975 --> 00:24:20,058
-Pero nunca has estado allí.
-
-194
-00:24:20,142 --> 00:24:22,350
+00:25:28,094 --> 00:25:30,392
 No has visto en qué se ha convertido.
 
-195
-00:24:22,433 --> 00:24:25,475
-Me estoy muriendo, Máximo.
+190
+00:25:30,496 --> 00:25:33,522
+Agonizo, Máximo.
 
-196
-00:24:26,433 --> 00:24:27,493
-Cuando un hombre ve llegar su fin
+191
+00:25:34,400 --> 00:25:35,925
+Cuando un hombre ve su final...
 
-197
-00:24:27,517 --> 00:24:30,808
-quiere estar seguro
-de que su vida ha tenido sentido.
+192
+00:25:36,036 --> 00:25:39,096
+...quiere saber que su
+vida tuvo un propósito.
 
-198
-00:24:31,808 --> 00:24:35,058
-¿Cómo hablará el mundo de mí
+193
+00:25:39,807 --> 00:25:42,708
+¿Qué dirá el mundo de mí
 en los años venideros?
 
+194
+00:25:42,810 --> 00:25:45,176
+¿Seré conocido como el filósofo?
+
+195
+00:25:45,279 --> 00:25:48,305
+¿El guerrero? ¿El tirano?
+
+196
+00:25:50,083 --> 00:25:54,611
+¿O seré el emperador que le
+devolvió a Roma su identidad?
+
+197
+00:25:55,856 --> 00:26:00,919
+Había una vez un sueño llamado Roma.
+Sólo se lo podía susurrar.
+
+198
+00:26:01,028 --> 00:26:03,963
+Con un poco más que un suspiro,
+desaparecía.
+
 199
-00:24:35,142 --> 00:24:37,267
-¿Me recordarán como filósofo?
+00:26:04,064 --> 00:26:06,225
+Era muy frágil.
 
 200
-00:24:37,350 --> 00:24:38,933
-¿Como guerrero?
+00:26:06,333 --> 00:26:09,701
+Y me temo que
+no sobrevivirá el invierno.
 
 201
-00:24:39,350 --> 00:24:40,600
-¿Como tirano?
+00:26:13,975 --> 00:26:16,535
+Hablemos en voz baja.
 
 202
-00:24:42,183 --> 00:24:46,683
-¿O seré el emperador que devolvió
-a Roma su verdadera identidad?
+00:26:16,845 --> 00:26:18,813
+Tú y yo.
 
 203
-00:24:47,808 --> 00:24:50,308
-Una vez hubo un sueño que era Roma.
-
-204
-00:24:50,392 --> 00:24:53,100
-Solo se podía susurrar.
-
-205
-00:24:53,183 --> 00:24:56,392
-Si alzabas la voz, se esfumaba,
-
-206
-00:24:56,475 --> 00:24:58,183
-de delicado que era.
-
-207
-00:24:58,600 --> 00:25:02,225
-Me temo que no sobrevivirá al invierno.
-
-208
-00:25:03,600 --> 00:25:05,058
-Máximo...
-
-209
-00:25:06,058 --> 00:25:08,975
-susurremos ahora
-
-210
-00:25:09,267 --> 00:25:10,975
-juntos, tú y yo.
-
-211
-00:25:11,600 --> 00:25:13,225
+00:26:19,480 --> 00:26:21,448
 Tienes un hijo.
 
-212
-00:25:14,642 --> 00:25:16,433
-Háblame de tu hogar.
+204
+00:26:22,483 --> 00:26:24,644
+Cuéntame sobre tu hogar.
 
-213
-00:25:22,683 --> 00:25:25,600
-Mi hogar está en las colinas de Trujillo.
+205
+00:26:30,725 --> 00:26:33,785
+Mi casa está en las
+colinas sobre Tiujillo.
 
-214
-00:25:27,100 --> 00:25:28,767
+206
+00:26:34,963 --> 00:26:36,931
 Es un lugar muy sencillo.
 
-215
-00:25:29,308 --> 00:25:32,267
-Piedras rosadas que se calientan al sol.
+207
+00:26:37,031 --> 00:26:39,522
+Las piedras rosas se calientan al sol.
 
-216
-00:25:32,350 --> 00:25:35,683
-Un huerto que huele
-a hierbas aromáticas de día,
+208
+00:26:40,301 --> 00:26:44,295
+Hay un huerto que
+huele a hierbas de día...
 
-217
-00:25:36,600 --> 00:25:38,517
-y a jazmín al anochecer.
+209
+00:26:44,406 --> 00:26:46,374
+...y a jazmines por la noche.
 
-218
-00:25:39,892 --> 00:25:42,600
-En la entrada hay un álamo gigante.
+210
+00:26:47,910 --> 00:26:50,105
+En la puerta hay un álamo enorme.
 
-219
-00:25:42,933 --> 00:25:45,767
+211
+00:26:50,880 --> 00:26:53,747
 Higos, manzanas, peras.
 
+212
+00:26:53,849 --> 00:26:57,649
+La tierra, Marcos... es negra.
+Como el cabello de mi esposa.
+
+213
+00:26:58,621 --> 00:27:01,021
+Hay viñedos en el sur
+y olivos en el norte.
+
+214
+00:27:01,190 --> 00:27:04,785
+Los ponis juegan junto a mi casa.
+Mi hijo quiere ser uno de ellos.
+
+215
+00:27:04,894 --> 00:27:10,161
+- ¿Cuándo estuviste por última vez?
+- Hace dos años, 264 días y esta mañana.
+
+216
+00:27:11,734 --> 00:27:13,760
+Te envidio, Máximo.
+
+217
+00:27:13,870 --> 00:27:17,567
+Tienes un buen hogar.
+Vale la pena luchar por él.
+
+218
+00:27:21,211 --> 00:27:26,171
+Debo pedirte una sola tarea más
+antes de que partas a tu casa.
+
+219
+00:27:28,451 --> 00:27:30,578
+¿Qué tarea es esa, César?
+
 220
-00:25:45,850 --> 00:25:49,683
-La tierra, Marco, es negra.
-Negra como los cabellos de mi esposa.
+00:27:30,687 --> 00:27:34,817
+Quiero que seas el protector
+de Roma tras mi muerte.
 
 221
-00:25:50,683 --> 00:25:52,892
-Viñas en las laderas
-sur, olivos en el norte.
+00:27:35,659 --> 00:27:38,287
+Te facultaré con un sólo propósito:
 
 222
-00:25:52,975 --> 00:25:55,308
-Cerca hay potros salvajes
-que juegan con mi hijo.
+00:27:39,095 --> 00:27:42,758
+Devolverle el poder al pueblo de Roma...
 
 223
-00:25:55,392 --> 00:25:56,975
-Quiere ser uno de ellos.
+00:27:42,866 --> 00:27:45,528
+...y acabar con la corrupción
+que la ha paralizado.
 
 224
-00:25:57,058 --> 00:25:58,850
-¿Cuándo estuviste allí por última vez?
+00:27:52,310 --> 00:27:55,575
+Y bien, ¿aceptarás el gran
+honor que te he ofrecido?
 
 225
-00:25:58,933 --> 00:26:02,058
-Hace dos años, 264 días y una mañana.
-
-226
-00:26:03,558 --> 00:26:06,975
-Te envidio, Máximo. Es un buen hogar.
-
-227
-00:26:08,600 --> 00:26:10,475
-Merece la pena luchar por él.
-
-228
-00:26:13,308 --> 00:26:17,683
-Quiero pedirte un último servicio...
-antes de que regreses a casa.
-
-229
-00:26:20,475 --> 00:26:22,642
-¿Qué quieres que haga, César?
-
-230
-00:26:22,725 --> 00:26:26,517
-Quiero que tras mi muerte
-seas el protector de Roma.
-
-231
-00:26:27,475 --> 00:26:30,475
-Te daré plenos poderes
-con un solo objetivo:
-
-232
-00:26:31,058 --> 00:26:34,808
-devolver el poder al pueblo de Roma,
-
-233
-00:26:34,892 --> 00:26:37,975
-y acabar con la corrupción que la aflige.
-
-234
-00:26:44,308 --> 00:26:47,933
-¿Aceptas este gran honor que te ofrezco?
-
-235
-00:26:49,350 --> 00:26:51,267
+00:27:57,448 --> 00:27:59,575
 De todo corazón, no.
 
-236
-00:26:53,725 --> 00:26:55,642
-Máximo,
+226
+00:28:04,021 --> 00:28:06,683
+Por eso debes ser tú.
 
-237
-00:26:56,142 --> 00:26:59,058
-precisamente por eso debes de ser tú.
+227
+00:28:06,791 --> 00:28:09,351
+Sin duda, un prefecto, un senador...
 
-238
-00:26:59,142 --> 00:27:01,308
-Pero sin duda habrá un prefecto,
-un senador,
+228
+00:28:09,460 --> 00:28:12,327
+...alguien que conozca la ciudad
+y entienda su política...
 
-239
-00:27:01,392 --> 00:27:04,058
-alguien que conozca la ciudad,
-que comprenda su política.
+229
+00:28:12,430 --> 00:28:15,888
+Pero tú no has sido contaminado
+por su política.
 
-240
-00:27:04,142 --> 00:27:07,142
-Pero tú no estás
-corrompido por su política.
-
-241
-00:27:12,058 --> 00:27:15,600
+230
+00:28:19,972 --> 00:28:23,430
 - ¿Y Cómodo?
-- Cómodo no es un hombre moral.
+- Cómodo no es un hombre con moral.
 
-242
-00:27:16,683 --> 00:27:19,308
-Eso lo sabes desde que eras joven.
+231
+00:28:24,543 --> 00:28:27,171
+Lo has sabido desde que eran chicos.
 
-243
-00:27:19,392 --> 00:27:21,350
+232
+00:28:27,279 --> 00:28:29,247
 Cómodo no puede gobernar.
 
-244
-00:27:21,433 --> 00:27:23,642
+233
+00:28:29,348 --> 00:28:31,475
 No debe gobernar.
 
-245
-00:27:25,350 --> 00:27:28,058
-Tú eres el hijo que debería haber tenido.
+234
+00:28:33,251 --> 00:28:36,220
+Tú eres el hijo que
+debería haber tenido.
 
-246
-00:27:30,558 --> 00:27:33,558
-Cómodo acatará mi decisión.
+235
+00:28:38,690 --> 00:28:41,284
+Cómodo aceptará mi decisión.
 
-247
-00:27:35,767 --> 00:27:40,725
-Sabe que cuentas con
+236
+00:28:43,895 --> 00:28:48,332
+Sabe que gozas de
 la lealtad del ejército.
 
-248
-00:27:45,683 --> 00:27:47,183
-Necesito un poco de tiempo, señor.
+237
+00:28:53,606 --> 00:28:56,074
+- Necesito tiempo, señor.
+- Sí.
 
-249
-00:27:47,267 --> 00:27:48,600
-Sí.
+238
+00:28:56,709 --> 00:28:59,837
+Espero que hayas aceptado
+para el atardecer.
 
-250
-00:27:48,683 --> 00:27:52,433
-Antes de anochecer,
-espero que hayas aceptado.
+239
+00:29:01,247 --> 00:29:03,374
+Y ahora abrázame como mi hijo.
 
-251
-00:27:53,475 --> 00:27:55,683
-Ahora abrázame como un hijo.
+240
+00:29:07,020 --> 00:29:09,318
+Y tráele otra manta al viejo.
 
-252
-00:27:58,975 --> 00:28:01,600
-Y tráele otra manta a este anciano.
-
-253
-00:28:17,933 --> 00:28:20,600
+241
+00:29:25,839 --> 00:29:28,706
 - Ahora mi padre te favorece.
-- Señora.
+- Mi señora.
 
-254
-00:28:20,975 --> 00:28:24,058
-- No siempre ha sido así.
+242
+00:29:28,942 --> 00:29:32,105
+- No siempre fue así.
 - Muchas cosas cambian.
 
-255
-00:28:24,350 --> 00:28:27,558
-Muchas cosas. No todas.
+243
+00:29:32,212 --> 00:29:34,180
+Muchas.
 
-256
-00:28:30,475 --> 00:28:32,058
-Máximo, para.
+244
+00:29:34,281 --> 00:29:36,340
+No todas.
 
-257
-00:28:35,725 --> 00:28:37,600
-Déjame que vea tu rostro.
-
-258
-00:28:40,100 --> 00:28:42,892
-- Pareces preocupado.
-- He perdido a muchos hombres.
-
-259
-00:28:43,808 --> 00:28:46,142
-¿Para qué quería hablar contigo mi padre?
-
-260
-00:28:47,100 --> 00:28:50,058
-Para desearme suerte
-antes de que regrese a casa.
-
-261
-00:28:50,642 --> 00:28:52,308
-Estás mintiendo.
-
-262
-00:28:52,392 --> 00:28:55,725
-Siempre he sabido cuándo mientes
-porque nunca supiste mentir bien.
-
-263
-00:28:55,808 --> 00:28:57,642
-Nunca me resultó tan cómodo como a ti.
-
-264
-00:28:57,725 --> 00:29:00,183
-Cierto. Pero nunca lo has necesitado.
-
-265
-00:29:01,308 --> 00:29:03,933
-La vida es más simple para un soldado.
-
-266
-00:29:05,683 --> 00:29:07,933
-¿Acaso crees que no tengo corazón?
-
-267
-00:29:08,933 --> 00:29:11,850
-Creo que tienes talento para sobrevivir.
-
-268
-00:29:17,850 --> 00:29:19,308
+245
+00:29:38,318 --> 00:29:40,286
 Máximo, detente.
 
-269
-00:29:21,725 --> 00:29:24,433
-¿Realmente es tan terrible volver a verme?
+246
+00:29:43,590 --> 00:29:45,558
+Déjame verte el rostro.
 
-270
-00:29:24,517 --> 00:29:26,892
-No. Estoy cansado por la batalla.
+247
+00:29:48,028 --> 00:29:50,428
+- Pareces preocupado.
+- Perdí muchos hombres.
 
-271
-00:29:27,642 --> 00:29:30,392
-Duele ver a mi padre tan débil.
+248
+00:29:51,698 --> 00:29:53,666
+¿Qué quería mi padre de ti?
 
-272
-00:29:33,558 --> 00:29:37,683
-Cómodo cree que mi padre anunciará
-a su sucesor en los próximos días.
+249
+00:29:55,035 --> 00:29:57,402
+Desearme suerte antes
+de que me vaya a casa.
 
-273
-00:29:39,058 --> 00:29:42,600
+250
+00:29:58,640 --> 00:30:00,073
+Estás mintiendo.
+
+251
+00:30:00,175 --> 00:30:03,838
+Siempre me daba cuenta cuando mentías.
+Nunca fuiste bueno para mentir.
+
+252
+00:30:03,945 --> 00:30:08,382
+- Nunca le tomé la mano como tú.
+- Cierto. Pero no te hizo falta mentir.
+
+253
+00:30:09,184 --> 00:30:11,379
+La vida es más sencilla
+para un soldado.
+
+254
+00:30:13,688 --> 00:30:15,815
+¿O piensas que no tengo corazón?
+
+255
+00:30:16,991 --> 00:30:19,516
+Creo que tienes talento para sobrevivir.
+
+256
+00:30:25,700 --> 00:30:27,327
+Máximo, detente.
+
+257
+00:30:29,538 --> 00:30:32,166
+¿En verdad es tan terrible
+volverme a ver?
+
+258
+00:30:32,274 --> 00:30:34,674
+No. Estoy cansado de la batalla.
+
+259
+00:30:35,678 --> 00:30:38,340
+Te lastima ver tan débil a mi padre.
+
+260
+00:30:41,484 --> 00:30:45,784
+Cómodo espera que mi padre
+anuncie su sucesión en pocos días.
+
+261
+00:30:47,089 --> 00:30:50,058
 ¿Servirás a mi hermano
 como serviste a su padre?
 
-274
-00:29:44,767 --> 00:29:46,725
+262
+00:30:52,628 --> 00:30:54,858
 Siempre serviré a Roma.
 
-275
-00:29:48,850 --> 00:29:50,683
-¿Sabes?
+263
+00:30:56,699 --> 00:31:00,932
+Aún te recuerdo en mis plegarias,
+¿sabes?
 
-276
-00:29:50,767 --> 00:29:53,142
-Todavía te recuerdo en mis oraciones.
+264
+00:31:01,938 --> 00:31:04,566
+Oh, sí. Rezo.
 
-277
-00:29:54,183 --> 00:29:57,017
-Sí. Rezo.
+265
+00:31:09,479 --> 00:31:12,448
+Sentí mucho la muerte de tu marido.
+Lo lamento.
 
-278
-00:30:01,767 --> 00:30:05,267
-Sentí mucho la muerte de tu esposo.
-Lloré su pérdida.
-
-279
-00:30:06,725 --> 00:30:09,767
+266
+00:31:14,751 --> 00:31:17,481
 - Gracias.
-- He oído que tienes un hijo.
+- Me dijeron que tienes un hijo.
 
-280
-00:30:11,350 --> 00:30:13,850
+267
+00:31:19,256 --> 00:31:21,520
 Sí. Lucio.
 
-281
-00:30:15,142 --> 00:30:17,392
-Va a cumplir ocho años.
+268
+00:31:23,460 --> 00:31:27,123
+- Pronto cumplirá ocho años.
+- El mío también cumplirá ocho.
 
-282
-00:30:17,475 --> 00:30:19,808
-Mi hijo también tiene casi ocho años.
+269
+00:31:30,367 --> 00:31:32,335
+Gracias por tus plegarias.
 
-283
-00:30:22,517 --> 00:30:24,725
-Gracias por tus oraciones.
+270
+00:31:40,444 --> 00:31:42,742
+Antepasados, les pido que me guíen.
 
-284
-00:30:32,433 --> 00:30:34,850
-Antepasados míos, os pido consejo.
+271
+00:31:44,248 --> 00:31:47,581
+Madre bendita, dime qué
+desean los dioses para mi futuro.
 
-285
-00:30:36,308 --> 00:30:40,142
-Madre bendita,
-dime qué futuro me desean los dioses.
+272
+00:31:49,353 --> 00:31:52,550
+Padre bendito, protege a mi esposa
+e hijo con una espada lista.
 
-286
-00:30:41,475 --> 00:30:45,392
-Padre bendito, vela por mi esposa
-y por mi hijo con la espada dispuesta.
+273
+00:31:54,458 --> 00:31:57,256
+Diles que sólo vivo
+para volver a abrazarlos.
 
-287
-00:30:46,475 --> 00:30:49,267
-Susúrrales que vivo
-solo para abrazarlos de nuevo.
+274
+00:31:58,396 --> 00:32:00,387
+Antepasados, alabados sean.
 
-288
-00:30:50,475 --> 00:30:52,683
-Antepasados míos, os honro
+275
+00:32:01,599 --> 00:32:04,568
+Intentaré vivir con la dignidad
+que ustedes me han enseñado.
 
-289
-00:30:53,933 --> 00:30:57,267
-y trataré de vivir con la dignidad
-que me habéis enseñado.
-
-290
-00:31:19,933 --> 00:31:21,183
+276
+00:32:27,926 --> 00:32:29,894
 Cicerón.
 
-291
-00:31:25,933 --> 00:31:26,933
+277
+00:32:33,765 --> 00:32:35,198
 Señor.
 
-292
-00:31:31,392 --> 00:31:34,058
-¿No te resulta duro cumplir con tu deber?
+278
+00:32:39,672 --> 00:32:41,833
+¿No te cuesta cumplir con tus deberes?
 
-293
-00:31:36,767 --> 00:31:39,308
-Algunas veces hago lo que quiero.
+279
+00:32:44,611 --> 00:32:46,977
+A veces hago lo que me gusta hacer.
 
-294
-00:31:39,933 --> 00:31:42,933
-El resto del tiempo
-hago lo que tengo que hacer.
+280
+00:32:47,981 --> 00:32:50,575
+El resto del tiempo, lo que debo.
 
-295
-00:31:45,600 --> 00:31:48,767
-Es posible que no podamos
-volver a casa después de todo.
+281
+00:32:53,519 --> 00:32:56,386
+Puede que no podamos volver a casa
+después de todo.
 
-296
-00:32:18,183 --> 00:32:21,017
-¿Estás dispuesto a cumplir
-con tu deber hacia Roma?
+282
+00:33:47,347 --> 00:33:49,815
+¿Estás listo para
+cumplir tu tarea con Roma?
 
-297
-00:32:24,183 --> 00:32:25,642
+283
+00:33:53,353 --> 00:33:55,548
 Sí, padre.
 
-298
-00:32:26,808 --> 00:32:28,892
+284
+00:33:55,655 --> 00:33:57,623
 No serás emperador.
 
-299
-00:32:31,892 --> 00:32:34,517
-¿Qué hombre más sabio y viejo
-va a ocupar mi lugar?
+285
+00:34:01,227 --> 00:34:03,388
+¿A qué sabio anciano designarás?
 
-300
-00:32:34,600 --> 00:32:37,017
-Entregaré mis poderes a Máximo
+286
+00:34:03,496 --> 00:34:06,329
+Cederé mi poder a Máximo...
 
-301
-00:32:38,267 --> 00:32:39,975
-provisionalmente
+287
+00:34:07,433 --> 00:34:12,837
+...provisionalmente hasta que el senado
+esté listo para volver a gobernar.
 
-302
-00:32:40,058 --> 00:32:44,017
-hasta que el senado esté en condiciones
-de gobernar de nuevo.
-
-303
-00:32:45,433 --> 00:32:49,017
+288
+00:34:14,507 --> 00:34:17,841
 Roma volverá a ser una república.
 
-304
-00:32:50,892 --> 00:32:53,350
-- Máximo.
+289
+00:34:19,980 --> 00:34:22,244
+- A Máximo.
 - Sí.
 
-305
-00:32:59,517 --> 00:33:01,767
+290
+00:34:28,622 --> 00:34:30,556
 ¿Te decepciona mi decisión?
 
-306
-00:33:05,267 --> 00:33:07,308
+291
+00:34:34,495 --> 00:34:36,463
 Una vez me escribiste...
 
-307
-00:33:09,142 --> 00:33:12,017
-una lista con las cuatro
-virtudes principales:
+292
+00:34:38,365 --> 00:34:40,526
+...enumerando
+las cuatro virtudes máximas.
 
-308
-00:33:13,350 --> 00:33:14,850
-sabiduría,
+293
+00:34:42,536 --> 00:34:45,528
+Sabiduría, justicia...
 
-309
-00:33:14,933 --> 00:33:16,142
-justicia,
+294
+00:34:45,639 --> 00:34:48,233
+...fortaleza y templanza.
 
-310
-00:33:16,392 --> 00:33:18,100
-fortaleza,
+295
+00:34:51,379 --> 00:34:54,109
+Al leer la lista, noté que
+no tenía ninguna de ellas.
 
-311
-00:33:18,183 --> 00:33:19,975
-y templanza.
+296
+00:34:55,483 --> 00:34:57,883
+Pero tengo otras, padre.
 
-312
-00:33:22,142 --> 00:33:25,308
-Cuando leí la lista,
-supe que no poseía ninguna de ellas.
-
-313
-00:33:26,267 --> 00:33:28,808
-Pero tengo otras virtudes, padre.
-
-314
-00:33:30,100 --> 00:33:31,267
+297
+00:34:58,987 --> 00:35:00,716
 Ambición.
 
-315
-00:33:32,517 --> 00:33:35,517
-Puede ser una virtud
-cuando nos lleva a superarnos.
+298
+00:35:01,756 --> 00:35:04,384
+Que puede ser una virtud
+que lleve a la excelencia.
 
-316
-00:33:36,933 --> 00:33:40,017
-Ingenio, valentía.
+299
+00:35:06,027 --> 00:35:08,825
+Ingenio.
+Coraje.
 
-317
-00:33:40,892 --> 00:33:45,308
-Quizás no en el campo de batalla,
-pero existen muchas clases de valentía.
+300
+00:35:10,265 --> 00:35:14,201
+Quizá no en el campo de batalla,
+pero hay muchas formas de coraje.
 
-318
-00:33:47,058 --> 00:33:50,142
-Devoción por mi familia,
+301
+00:35:16,104 --> 00:35:18,129
+Devoción.
 
-319
-00:33:51,308 --> 00:33:52,767
-por ti.
+302
+00:35:18,239 --> 00:35:21,174
+A mi familia. A ti.
 
-320
-00:33:54,142 --> 00:33:57,142
+303
+00:35:23,379 --> 00:35:26,177
 Pero ninguna de mis virtudes
-figuraba en tu lista.
+estaba en tu lista.
 
-321
-00:33:59,183 --> 00:34:02,642
-Ya entonces parecía
-que no me querías como hijo.
+304
+00:35:28,484 --> 00:35:31,783
+Aun entonces parecía que
+no querías que fuera tu hijo.
 
-322
-00:34:02,725 --> 00:34:04,142
-Cómodo,
+305
+00:35:34,156 --> 00:35:36,488
+Estás exagerando.
 
-323
-00:34:05,017 --> 00:34:06,600
-estás exagerando.
+306
+00:35:36,592 --> 00:35:38,787
+En los rostros de los dioses
+busqué formas...
 
-324
-00:34:07,350 --> 00:34:10,350
-He acudido a los dioses
+307
+00:35:40,196 --> 00:35:44,565
+...de complacerte,
+de que estés orgulloso.
 
-325
-00:34:11,017 --> 00:34:15,517
-buscando la forma de complacerte,
-de que te sintieras orgulloso de mí.
+308
+00:35:45,568 --> 00:35:47,866
+Una palabra amable...
 
-326
-00:34:16,350 --> 00:34:18,350
-Una palabra cariñosa,
+309
+00:35:47,970 --> 00:35:49,961
+...un abrazo auténtico...
 
-327
-00:34:18,850 --> 00:34:20,725
-un abrazo sincero
+310
+00:35:50,072 --> 00:35:53,007
+...bien apretado contra tu pecho...
 
-328
-00:34:20,975 --> 00:34:24,558
-con el que me acercaras a tu pecho
-y me apretaras con fuerza
+311
+00:35:54,878 --> 00:35:58,279
+...habría sido como iluminar mi
+corazón por la eternidad.
 
-329
-00:34:25,725 --> 00:34:29,392
-habría sido para mi corazón
-como el brillo del sol durante mil años.
+312
+00:36:01,051 --> 00:36:04,748
+- ¿Qué es lo que odias tanto de mí?
+- Cómodo...
 
-330
-00:34:32,017 --> 00:34:34,558
-¿Qué hay en mí que odias tanto?
+313
+00:36:06,056 --> 00:36:08,388
+Lo único que siempre deseé...
 
-331
-00:34:34,642 --> 00:34:35,975
-Cómodo.
+314
+00:36:08,492 --> 00:36:12,792
+...fue colmar tus expectativas, César.
 
-332
-00:34:36,975 --> 00:34:39,100
-Lo único que he querido
-
-333
-00:34:39,183 --> 00:34:43,475
-es ser digno de ti, César.
-
-334
-00:34:44,850 --> 00:34:47,350
-- Padre.
-- Cómodo,
-
-335
-00:34:51,892 --> 00:34:54,058
-tus defectos como hijo,
-
-336
-00:34:55,017 --> 00:34:58,142
-son mi fracaso como padre.
-
-337
-00:35:09,100 --> 00:35:10,433
-Ven.
-
-338
-00:35:14,142 --> 00:35:15,475
+315
+00:36:14,031 --> 00:36:15,362
 Padre.
 
-339
-00:35:30,308 --> 00:35:33,183
-¡Abriría el mundo de arriba abajo
+316
+00:36:20,804 --> 00:36:22,931
+Tus fallas como hijo...
 
-340
-00:35:34,100 --> 00:35:36,433
-con tal de que me quisieras!
+317
+00:36:24,007 --> 00:36:27,034
+...son mi fracaso como padre.
 
-341
-00:36:14,017 --> 00:36:17,142
+318
+00:36:38,523 --> 00:36:40,013
+Ven.
+
+319
+00:36:43,227 --> 00:36:44,888
+Padre.
+
+320
+00:36:59,912 --> 00:37:02,244
+Destruiría el mundo entero...
+
+321
+00:37:03,215 --> 00:37:05,513
+...con tal que me quisieras.
+
+322
+00:37:43,356 --> 00:37:45,916
 Máximo, el emperador te necesita.
 Es urgente.
 
-342
-00:36:22,683 --> 00:36:24,683
+323
+00:37:51,865 --> 00:37:53,992
 Llora conmigo, hermano.
 
-343
-00:36:25,558 --> 00:36:27,517
+324
+00:37:54,768 --> 00:37:56,895
 Nuestro gran padre ha muerto.
 
-344
-00:36:54,183 --> 00:36:55,933
+325
+00:38:23,364 --> 00:38:25,332
 ¿Cómo murió?
 
-345
-00:36:57,267 --> 00:36:59,767
-Los médicos dicen que no sintió dolor.
+326
+00:38:26,333 --> 00:38:28,631
+Los médicos dicen que fue sin dolor.
 
-346
-00:37:00,017 --> 00:37:02,100
-Falleció mientras dormía.
+327
+00:38:29,103 --> 00:38:31,196
+Dejó de respirar mientras dormía.
 
-347
-00:37:11,808 --> 00:37:13,183
+328
+00:38:41,049 --> 00:38:42,676
 Padre.
 
-348
-00:37:15,767 --> 00:37:18,683
-Tu emperador te pide
-que expreses tu lealtad, Máximo.
+329
+00:38:44,853 --> 00:38:47,845
+El emperador pide tu lealtad, Máximo.
 
-349
-00:37:19,767 --> 00:37:21,267
-Toma mi mano.
+330
+00:38:48,957 --> 00:38:50,925
+Te extiendo mi mano.
 
-350
-00:37:24,183 --> 00:37:25,975
-Solo te la ofreceré una vez.
+331
+00:38:53,195 --> 00:38:55,561
+La ofrezco sólo una vez.
 
-351
-00:37:40,183 --> 00:37:41,350
+332
+00:39:09,178 --> 00:39:10,702
 Quinto.
 
-352
-00:38:31,558 --> 00:38:33,267
-Ave César.
+333
+00:40:00,797 --> 00:40:02,992
+Ave, césar.
 
-353
-00:38:34,142 --> 00:38:36,725
+334
+00:40:03,100 --> 00:40:05,898
 Debo hablar con los senadores.
 Necesito su consejo.
 
-354
-00:38:36,808 --> 00:38:39,308
-- Despierta a Cayo y a Falco.
-- A Cayo y a Falco.
+335
+00:40:06,003 --> 00:40:08,699
+- Despierta a Gayo y a Falco.
+- A Gayo y Falco.
 
-355
-00:38:39,392 --> 00:38:41,725
-- Mi espada.
-- Mi espada.
+336
+00:40:08,805 --> 00:40:10,670
+- Espada.
+- Espada.
 
-356
-00:38:44,350 --> 00:38:47,225
-Máximo, por favor, ten cuidado.
-Eso no es prudente.
+337
+00:40:13,377 --> 00:40:16,347
+Máximo, por favor ten cuidado.
+Eso no fue prudente.
 
-357
-00:38:47,308 --> 00:38:50,267
-¿Prudente? El emperador
-ha sido asesinado.
+338
+00:40:16,447 --> 00:40:19,041
+¿Prudente?
+Han asesinado al emperador.
 
-358
-00:38:50,350 --> 00:38:52,975
-El emperador murió por causas naturales.
+339
+00:40:19,717 --> 00:40:21,844
+El emperador falleció de muerte natural.
 
-359
-00:38:54,683 --> 00:38:57,308
+340
+00:40:23,955 --> 00:40:26,355
 - ¿Por qué estás armado, Quinto?
-- ¡Guardias!
+- Guardias.
 
-360
-00:39:00,183 --> 00:39:02,267
-No te resistas, Máximo.
+341
+00:40:29,327 --> 00:40:31,454
+Por favor, no te resistas, Máximo.
 
-361
-00:39:04,142 --> 00:39:06,267
-Lo siento. Son órdenes del César.
+342
+00:40:33,364 --> 00:40:35,423
+Lo siento. Es orden del César.
 
-362
-00:39:06,808 --> 00:39:08,683
-Cabalgad hasta el amanecer...
+343
+00:40:36,034 --> 00:40:40,027
+Cabalguen hasta el alba
+y luego ejecútenlo.
 
-363
-00:39:09,892 --> 00:39:11,308
-y ejecutadlo.
+344
+00:40:40,138 --> 00:40:42,538
+Quinto, mírame.
 
-364
-00:39:11,392 --> 00:39:13,933
-Quinto, mírame. ¡Mírame!
+345
+00:40:42,640 --> 00:40:45,734
+Mírame. Prométeme
+que cuidarás de mi familia.
 
-365
-00:39:14,308 --> 00:39:17,350
-Prométeme que cuidarás de mi familia.
-
-366
-00:39:18,350 --> 00:39:20,933
+346
+00:40:47,246 --> 00:40:49,876
 Tu familia se reunirá
-contigo en la otra vida.
+contigo en el más allá.
 
-367
-00:39:45,767 --> 00:39:47,017
+347
+00:41:14,873 --> 00:41:16,431
 Arrodíllate.
 
-368
-00:39:50,433 --> 00:39:52,933
-Padre bendito, vela
-por mi esposa y mi hijo.
+348
+00:41:19,746 --> 00:41:22,408
+<i>Padre bendito,
+protege a mi esposa e hijo.</i>
 
-369
-00:39:53,017 --> 00:39:56,058
-Susúrrales que vivo
-solo para abrazarlos de nuevo.
+349
+00:41:22,515 --> 00:41:25,177
+<i>Diles que sólo vivo
+para volver a abrazarlos.</i>
 
-370
-00:39:58,683 --> 00:40:01,183
-Al menos dadme una muerte limpia.
+350
+00:41:27,887 --> 00:41:29,855
+Al menos, denme una muerte digna.
 
-371
-00:40:02,850 --> 00:40:04,558
-La muerte de un soldado.
+351
+00:41:32,158 --> 00:41:33,393
+La que merece un soldado.
 
-372
-00:40:25,933 --> 00:40:29,142
-Con el frío,
-algunas veces la hoja se agarrota.
+352
+00:41:55,082 --> 00:41:58,142
+La escarcha. A veces hace
+que la espada se atasque.
 
-373
-00:40:49,683 --> 00:40:51,183
-¡Pretoriano!
+353
+00:42:18,839 --> 00:42:20,329
+Soldado.
 
-374
-00:42:10,767 --> 00:42:12,767
-¿Cuándo estuviste allí por última vez?
+354
+00:43:40,290 --> 00:43:44,590
+<i>- ¿Cuándo estuviste por última vez?
+- Hace dos años, 264 días y esta mañana.</i>
 
-375
-00:42:12,850 --> 00:42:15,933
-Hace dos años, 264 días y una mañana.
+355
+00:43:46,730 --> 00:43:49,893
+<i>Padre bendito, protege a mi esposa
+e hijo con una espada lista.</i>
 
-376
-00:42:17,600 --> 00:42:19,433
-Padre bendito, vela por mi esposa e hijo...
+356
+00:43:50,000 --> 00:43:53,561
+<i>Diles que sólo vivo
+para volver a abrazarlos.</i>
 
-377
-00:42:19,517 --> 00:42:21,767
-Intentaré vivir con la dignidad
-que me has enseñado.
+357
+00:43:54,671 --> 00:43:58,630
+<i>El resto es vano. Diles que sólo
+vivo para volver a abrazarlos.</i>
 
-378
-00:42:21,850 --> 00:42:24,433
-Susúrrales que vivo solo
-para abrazarlos de nuevo.
+358
+00:43:59,309 --> 00:44:01,209
+<i>Todo lo demás es vano.</i>
 
-379
-00:42:24,517 --> 00:42:26,975
-...con una espada dispuesta,
-y lo demás no importa.
-
-380
-00:42:27,058 --> 00:42:30,100
-Susúrrales que vivo solo
-para abrazarlos de nuevo.
-
-381
-00:42:30,183 --> 00:42:32,558
-Y lo demás no importa.
-
-382
-00:43:32,642 --> 00:43:34,642
-¡Papá!
-
-383
-00:46:18,767 --> 00:46:20,392
+359
+00:47:47,945 --> 00:47:49,641
 No te mueras.
 
-384
-00:46:26,725 --> 00:46:28,850
-Volverás a encontrarte con ellos.
+360
+00:47:55,887 --> 00:47:57,855
+Volverás a verlos.
 
-385
-00:46:30,433 --> 00:46:31,725
-Todavía no.
+361
+00:47:59,858 --> 00:48:01,450
+Pero aún no.
 
-386
-00:46:40,267 --> 00:46:43,892
-No. Ellos la limpiarán. Ya lo verás.
+362
+00:48:09,400 --> 00:48:12,699
+No. Cicatrizarán.
+Espera y ya verás.
 
-387
-00:47:18,350 --> 00:47:19,892
+363
+00:48:47,406 --> 00:48:49,101
 No te mueras.
 
-388
-00:47:20,558 --> 00:47:22,850
+364
+00:48:49,508 --> 00:48:51,476
 Te echarán a los leones.
 
-389
-00:47:22,933 --> 00:47:25,308
-Valen más que nosotros.
+365
+00:48:52,278 --> 00:48:53,905
+Ellos valen más que nosotros.
 
-390
-00:47:35,308 --> 00:47:36,892
-¿Está mejor ahora?
+366
+00:49:04,658 --> 00:49:06,626
+¿Mejor ahora?
 
-391
-00:47:37,808 --> 00:47:39,975
-Está limpia. ¿Lo ves?
+367
+00:49:07,294 --> 00:49:09,421
+Cicatrizó. ¿Ves?
 
-392
-00:47:50,142 --> 00:47:54,225
-ZUCCHABAR - PROVINCIA ROMANA
+368
+00:49:19,172 --> 00:49:23,632
+ZUCABAR
+PROVINCIA ROMANA
 
-393
-00:48:10,558 --> 00:48:13,350
-¡Próximo! Viejo amigo.
+369
+00:49:39,594 --> 00:49:41,255
+Próximo.
 
-394
-00:48:14,808 --> 00:48:17,933
-Todos los días son maravillosos
-cuando estás aquí,
+370
+00:49:41,362 --> 00:49:43,330
+Mi viejo amigo.
 
-395
-00:48:18,183 --> 00:48:22,517
-pero hoy es tu día más afortunado.
+371
+00:49:44,065 --> 00:49:47,557
+El día se vuelve maravilloso
+cuando te veo.
 
-396
-00:48:25,017 --> 00:48:28,975
-Esas jirafas que me vendiste no se aparean.
+372
+00:49:47,668 --> 00:49:51,297
+Y hoy es el más maravilloso de todos.
 
-397
-00:48:29,475 --> 00:48:33,392
-Se pasean y comen, pero no se aparean.
+373
+00:49:54,275 --> 00:49:56,573
+Las jirafas que me vendiste...
 
-398
-00:48:34,767 --> 00:48:37,642
-Me has vendido jirafas afeminadas.
+374
+00:49:56,677 --> 00:49:58,668
+- ...no se aparean.
+- ¿Qué?
 
-399
-00:48:38,475 --> 00:48:41,142
-- Quiero que me devuelvas el dinero.
+375
+00:49:58,779 --> 00:50:02,477
+Andan por allí comiendo
+y no se aparean.
+
+376
+00:50:03,585 --> 00:50:06,383
+Me vendiste jirafas maricas.
+
+377
+00:50:07,022 --> 00:50:10,321
+- Devuélveme mi dinero.
 - Imposible.
 
-400
-00:48:44,850 --> 00:48:47,642
-- Te hago un precio especial.
+378
+00:50:13,996 --> 00:50:16,658
+- Te haré un precio especial.
 - ¿En qué?
 
-401
-00:48:49,767 --> 00:48:52,642
+379
+00:50:18,867 --> 00:50:21,665
 ¿Has visto mi nueva mercancía?
-Ven a verlos.
+Ven a verla.
 
-402
-00:49:06,600 --> 00:49:09,350
-¿Hay algún luchador?
-Pronto tendré un combate.
+380
+00:50:35,785 --> 00:50:38,549
+¿Alguno de ellos lucha?
+Tengo una pelea en puerta.
 
-403
-00:49:09,433 --> 00:49:12,183
-Algunos son buenos para luchar,
+381
+00:50:38,655 --> 00:50:41,249
+Algunos son buenos para pelear,
 otros para morir.
 
-404
-00:49:12,267 --> 00:49:14,600
-Creo que necesitas de los dos tipos.
+382
+00:50:41,357 --> 00:50:43,325
+Creo que necesitas ambos.
 
-405
-00:49:14,683 --> 00:49:15,933
-Arriba.
+383
+00:50:43,926 --> 00:50:45,223
+Levántate.
 
-406
-00:49:24,058 --> 00:49:25,642
-¿Cuál es tu profesión?
+384
+00:50:53,202 --> 00:50:56,603
+- ¿A qué te dedicabas?
+- Era cazador.
 
-407
-00:49:26,142 --> 00:49:27,558
-Era cazador.
+385
+00:50:56,706 --> 00:51:00,574
+Oh, no. Lo compré
+en una mina de sal en Cartago.
 
-408
-00:49:27,642 --> 00:49:31,267
-No, lo compré en una mina de sal
-en Cartago.
-
-409
-00:49:32,017 --> 00:49:33,475
+386
+00:51:01,344 --> 00:51:03,039
 Siéntate.
 
-410
-00:49:37,642 --> 00:49:38,767
-La marca de la legión.
+387
+00:51:07,051 --> 00:51:08,882
+Una marca de la legión.
 
-411
-00:49:39,975 --> 00:49:42,683
+388
+00:51:08,986 --> 00:51:11,580
 - Un desertor.
-- Tal vez. ¿Qué más da?
+- Tal vez. Pero ¿a quién le importa?
 
-412
-00:49:43,017 --> 00:49:44,183
-Es hispano.
+389
+00:51:12,156 --> 00:51:14,283
+- Es español.
+- Tomaré seis.
 
-413
-00:49:44,267 --> 00:49:46,225
-Me llevaré seis. Por 1.000.
+390
+00:51:14,391 --> 00:51:17,019
+- A 1.000.
+- ¿1.000?
 
-414
-00:49:46,308 --> 00:49:49,892
-¿Por mil? Solo el númida vale 2.000.
+391
+00:51:17,127 --> 00:51:19,357
+Sólo el númida vale 2.000.
 
-415
-00:49:49,975 --> 00:49:52,017
-Estos esclavos están en muy mal estado.
+392
+00:51:19,463 --> 00:51:22,694
+- Estos esclavos están echados a perder.
+- Es parte del sabor.
 
-416
-00:49:52,100 --> 00:49:55,808
-Eso le dará más emoción. ¡No, no, espera!
+393
+00:51:22,800 --> 00:51:24,768
+No. No, no, no.
+Espera. Espera.
 
-417
-00:49:55,892 --> 00:49:57,517
+394
+00:51:25,202 --> 00:51:27,227
 Podemos negociar.
 
-418
-00:49:58,600 --> 00:50:02,850
-Te doy 2.000 y 4.000 por los animales.
+395
+00:51:27,771 --> 00:51:31,764
+Te daré 2.000.
+Y 4.000 por las bestias.
 
-419
-00:50:02,933 --> 00:50:05,183
-Lo dejamos en 5.000 para un viejo amigo.
+396
+00:51:31,875 --> 00:51:34,309
+Para un viejo amigo eso es 5.000.
 
-420
-00:50:22,600 --> 00:50:25,933
-¡Vamos! ¿Cuánto se tarda
-en llegar a mi casa?
+397
+00:51:51,796 --> 00:51:55,232
+Vamos. ¿Cuánto se tarda
+en llegar a mi propia casa?
 
-421
-00:50:26,017 --> 00:50:27,933
-Soy Próximo.
+398
+00:51:55,333 --> 00:51:57,233
+Me llamo Próximo.
 
-422
-00:50:28,808 --> 00:50:30,933
-Estaré más cerca de vosotros
-en los próximos días,
+399
+00:51:57,335 --> 00:52:00,168
+Durante los próximos días,
+que serán los últimos...
 
-423
-00:50:31,017 --> 00:50:33,642
-los últimos de vuestras vidas miserables,
+400
+00:52:00,271 --> 00:52:03,934
+...de sus vidas miserables, estaré
+más cerca de ustedes que esa bastarda...
 
-424
-00:50:33,725 --> 00:50:37,642
-que la puta de la madre
-que os parió chillando a este mundo.
+401
+00:52:04,042 --> 00:52:06,704
+...que los trajo gritando
+a este mundo.
 
-425
-00:50:38,308 --> 00:50:41,725
-No he pagado todo ese dinero
-para que me hagáis compañía.
+402
+00:52:07,579 --> 00:52:10,378
+No pagué tanto para tener su compañía.
 
-426
-00:50:42,933 --> 00:50:45,933
-Lo pagué para sacar provecho
-de vuestra muerte.
+403
+00:52:12,051 --> 00:52:14,815
+Lo hice
+para poder beneficiarme con su muerte.
 
-427
-00:50:46,850 --> 00:50:50,558
-Igual que vuestra madre
-estaba presente cuando nacisteis,
+404
+00:52:16,055 --> 00:52:19,354
+Y así como su madre
+estuvo en el comienzo...
 
-428
-00:50:51,558 --> 00:50:54,100
-yo estaré presente cuando muráis.
+405
+00:52:20,860 --> 00:52:23,351
+...yo estaré en su final.
 
-429
-00:50:55,725 --> 00:50:58,725
-Y cuando muráis, porque vais a morir,
+406
+00:52:24,730 --> 00:52:27,392
+Y al morir,
+lo que es inexorable...
 
-430
-00:50:59,600 --> 00:51:02,558
-vuestro paso a la otra
-vida será al son de...
+407
+00:52:28,834 --> 00:52:31,598
+...su transición será al son de...
 
-431
-00:51:07,183 --> 00:51:08,767
-Gladiadores,
+408
+00:52:36,408 --> 00:52:39,900
+Gladiadores, los saludo.
 
-432
-00:51:09,975 --> 00:51:11,350
-os saludo.
-
-433
-00:51:16,017 --> 00:51:17,058
+409
+00:52:45,352 --> 00:52:46,979
 Rojo.
 
-434
-00:51:20,892 --> 00:51:22,058
+410
+00:52:49,823 --> 00:52:51,415
 Amarillo.
 
-435
-00:51:23,225 --> 00:51:24,600
+411
+00:52:52,592 --> 00:52:54,082
 Amarillo.
 
-436
-00:51:35,225 --> 00:51:36,392
+412
+00:53:04,538 --> 00:53:05,903
 Bien.
 
-437
-00:51:37,142 --> 00:51:38,350
-Rojo.
+413
+00:53:06,173 --> 00:53:08,266
+- Rojo.
+- Rojo.
 
-438
-00:51:43,475 --> 00:51:44,850
-Hispano.
+414
+00:53:12,646 --> 00:53:14,273
+Español.
 
-439
-00:52:18,100 --> 00:52:20,517
-¡Basta por el momento!
+415
+00:53:47,349 --> 00:53:49,840
+Suficiente por ahora.
 
-440
-00:52:20,933 --> 00:52:22,475
-Ya le llegará la hora.
+416
+00:53:49,952 --> 00:53:51,510
+Ya llegará su hora.
 
-441
-00:52:25,517 --> 00:52:26,558
+417
+00:53:54,656 --> 00:53:55,860
 El siguiente.
 
-442
-00:52:40,058 --> 00:52:41,392
-Hispano,
+418
+00:54:08,940 --> 00:54:10,237
+Español...
 
-443
-00:52:42,058 --> 00:52:43,725
-¿por qué no luchas?
+419
+00:54:12,043 --> 00:54:15,535
+...¿por qué no peleas?
+Todos debemos hacerlo.
 
-444
-00:52:44,142 --> 00:52:46,183
-Todos tenemos que luchar.
+420
+00:54:15,646 --> 00:54:17,614
+Yo no peleo.
 
-445
-00:53:00,183 --> 00:53:02,475
-¿Es un símbolo de tus dioses?
+421
+00:54:18,082 --> 00:54:21,052
+No debería estar aquí.
+Soy escriba, escribo palabras.
 
-446
-00:53:07,725 --> 00:53:09,808
-¿No se ofenderán?
+422
+00:54:21,153 --> 00:54:23,121
+Hablo siete idiomas.
 
-447
-00:53:31,225 --> 00:53:33,142
-Los dioses están de tu parte.
+423
+00:54:23,222 --> 00:54:27,522
+Bien.
+Mañana podrás gritar en siete idiomas.
 
-448
-00:53:33,225 --> 00:53:35,267
+424
+00:54:36,668 --> 00:54:39,762
+Quizá el escriba sea
+quien obtenga su libertad.
+
+425
+00:54:40,806 --> 00:54:42,467
+¿Su libertad?
+
+426
+00:54:43,342 --> 00:54:45,469
+¿Qué tengo que hacer?
+
+427
+00:54:45,577 --> 00:54:47,807
+Entras en la arena y me matas.
+
+428
+00:54:47,913 --> 00:54:49,540
+Y lo matas a él...
+
+429
+00:54:50,249 --> 00:54:53,048
+...y al númida, y al desertor.
+
+430
+00:54:55,155 --> 00:54:56,782
+Y a cien más.
+
+431
+00:54:56,890 --> 00:55:00,257
+Y cuando no haya más adversarios,
+serás libre.
+
+432
+00:55:00,360 --> 00:55:02,385
+No puedo hacer eso.
+
+433
+00:55:10,503 --> 00:55:12,232
+Pero yo sí puedo.
+
+434
+00:55:27,455 --> 00:55:29,446
+¿Esa es la señal de tus dioses?
+
+435
+00:55:34,662 --> 00:55:37,130
+¿Eso no los enojará?
+
+436
+00:55:58,510 --> 00:56:00,478
+Los dioses te favorecen.
+
+437
+00:56:00,579 --> 00:56:02,740
 El rojo es el color de los dioses.
 
+438
+00:56:03,749 --> 00:56:05,910
+Hoy necesitarás su ayuda.
+
+439
+00:56:52,405 --> 00:56:54,999
+¿Aún empieza el germano?
+
+440
+00:56:55,108 --> 00:56:57,076
+A la multitud le
+gusta que sea un bárbaro.
+
+441
+00:56:57,177 --> 00:56:59,145
+Además, me está haciendo rico.
+
+442
+00:56:59,246 --> 00:57:01,646
+¿Ese númida ha peleado antes?
+
+443
+00:57:02,850 --> 00:57:04,647
+No, es la primera vez.
+
+444
+00:57:04,752 --> 00:57:07,186
+¿Y aquél? ¿Es peón? ¿Soldado?
+
+445
+00:57:07,788 --> 00:57:11,690
+Es un español. Bien podría ser
+un eunuco por lo que aporta.
+
+446
+00:57:13,161 --> 00:57:17,154
+500 sestercios a que el equipo
+del númida y el español lo logran.
+
+447
+00:57:17,265 --> 00:57:20,996
+Y 1.000 a que el númida lo logra solo.
+
+448
+00:57:22,703 --> 00:57:25,638
+¿Me pides que apueste
+contra mi propio hombre?
+
 449
-00:53:36,725 --> 00:53:39,100
-Hoy vas a necesitar su ayuda.
+00:57:27,742 --> 00:57:30,768
+- No es ético.
+- ¿Y si son 2.000?
 
 450
-00:53:56,642 --> 00:53:59,642
-Algunos de vosotros pensáis
-que no vais a luchar...
+00:57:44,960 --> 00:57:47,827
+Algunos de ustedes
+piensan que no pelearán.
 
 451
-00:54:01,017 --> 00:54:03,017
-y otros que no podréis luchar.
+00:57:49,698 --> 00:57:51,771
+Otros, que no pueden.
 
 452
-00:54:03,558 --> 00:54:07,183
-Todos dicen lo mismo
-hasta que están ahí fuera.
+00:57:52,568 --> 00:57:55,867
+Todos dicen eso, hasta que salen.
 
 453
-00:54:09,892 --> 00:54:11,225
-Escuchad.
+00:57:58,708 --> 00:58:01,302
+- Escuchen.
+- Mátalo. Mátalo. Mátalo.
 
 454
-00:54:11,892 --> 00:54:14,558
-¡Muerte!
+00:58:10,054 --> 00:58:12,318
+Entierren esto en el
+cuerpo de otro hombre...
 
 455
-00:54:21,183 --> 00:54:23,808
-Clavad esto en la carne de otro hombre,
+00:58:13,657 --> 00:58:16,125
+...y ellos los aplaudirán y los amarán.
 
 456
-00:54:24,183 --> 00:54:27,017
-y os aplaudirán y amarán por ello.
+00:58:19,496 --> 00:58:22,761
+Y puede que ustedes también
+los quieran por ello.
 
 457
-00:54:27,100 --> 00:54:28,392
-Y vosotros,
+00:58:27,671 --> 00:58:31,038
+En última instancia, todos moriremos.
 
 458
-00:54:30,350 --> 00:54:32,600
-vosotros podéis empezar a amarlos
+00:58:33,644 --> 00:58:37,015
+Lamentablemente,
+no podemos elegir el modo, pero...
 
 459
-00:54:33,308 --> 00:54:34,600
-por ello.
+00:58:37,016 --> 00:58:40,717
+...sí podemos decidir cómo encararlo...
 
 460
-00:54:38,933 --> 00:54:42,308
-A fin de cuentas,
-todos somos hombres muertos.
+00:58:40,885 --> 00:58:43,319
+...para ser recordados...
 
 461
-00:54:44,642 --> 00:54:47,267
-Desgraciadamente, no podemos
-elegir cómo,
+00:58:45,356 --> 00:58:46,721
+...como hombres.
 
 462
-00:54:48,267 --> 00:54:50,517
-pero podemos decidir
-cómo encarar la muerte
+00:58:50,829 --> 00:58:52,990
+A la izquierda, sus escudos.
 
 463
-00:54:51,850 --> 00:54:54,225
-para que se nos recuerde
+00:58:54,265 --> 00:58:56,563
+A la derecha, sus espadas.
 
 464
-00:54:56,267 --> 00:54:57,517
-como hombres.
+00:58:56,668 --> 00:58:59,000
+Mátalo, mátalo, mátalo.
 
 465
-00:54:57,808 --> 00:54:58,975
-¡Vamos!
+00:59:00,371 --> 00:59:02,601
+Ponlos en pareja, rojo y amarillo.
 
 466
-00:55:01,808 --> 00:55:04,142
-¡Los de la izquierda, los escudos!
+00:59:07,846 --> 00:59:09,211
+El siguiente.
 
 467
-00:55:05,225 --> 00:55:07,475
-¡Los de la derecha, las espadas!
+01:02:57,048 --> 01:02:58,675
+Váyanse.
 
 468
-00:55:08,308 --> 00:55:10,350
-¡Muerte! ¡Muerte!
+01:03:30,182 --> 01:03:32,776
+Entra a Roma como un conquistador.
 
 469
-00:55:11,392 --> 00:55:13,892
-Emparejadlos: rojo con amarillo.
+01:03:33,787 --> 01:03:37,655
+- Pero ¿qué ha conquistado?
+- Dale tiempo, Graco. Es joven.
 
 470
-00:55:18,975 --> 00:55:20,308
-¡El siguiente!
+01:03:37,758 --> 01:03:40,090
+Creo que lo hará muy bien.
 
 471
-00:55:26,100 --> 00:55:27,183
-¡Muévete!
+01:03:40,193 --> 01:03:42,127
+¿Para Roma o para ti?
 
 472
-00:58:44,267 --> 00:58:45,600
-¡Usurpador!
+01:03:48,568 --> 01:03:51,002
+Ve con tu madre, Lucio.
+Le gustará.
 
 473
-00:59:08,225 --> 00:59:10,892
-- ¡Fuera de aquí!
-- ¡Nunca nos gobernarás, Cómodo!
+01:03:58,311 --> 01:04:00,108
+- Lucio.
+- Madre.
 
 474
-00:59:41,350 --> 00:59:45,975
-Entra en Roma como un héroe de guerra.
-Pero, ¿qué ha conquistado?
+01:04:02,382 --> 01:04:04,816
+- Ave César.
+- Senadores.
 
 475
-00:59:46,350 --> 00:59:48,642
-Dale tiempo, Graco. Es joven.
-
-476
-00:59:48,725 --> 00:59:51,058
-Creo que podría hacerlo muy bien.
-
-477
-00:59:51,517 --> 00:59:53,475
-¿Para Roma, o para ti?
-
-478
-00:59:59,558 --> 01:00:02,642
-Ve con tu madre, Lucio. Lo está deseando.
-
-479
-01:00:09,308 --> 01:00:11,308
-- ¡Lucio!
-- ¡Madre!
-
-480
-01:00:13,725 --> 01:00:15,142
-Ave, César.
-
-481
-01:00:15,225 --> 01:00:16,600
-Senadores.
-
-482
-01:00:20,433 --> 01:00:23,308
+01:04:09,357 --> 01:04:12,190
 Roma saluda a su nuevo emperador.
 
+476
+01:04:12,293 --> 01:04:14,989
+Tus leales súbditos te
+dan la bienvenida, Alteza.
+
+477
+01:04:15,897 --> 01:04:18,923
+Gracias, Falco.
+Y en cuanto a los leales súbditos...
+
+478
+01:04:19,033 --> 01:04:22,730
+- ...espero que no hayan sido muy caros.
+- César.
+
+479
+01:04:22,837 --> 01:04:26,705
+- Graco.
+- Roma se regocija con tu regreso, César.
+
+480
+01:04:26,808 --> 01:04:29,277
+Hay muchas cuestiones
+que exigen tu atención.
+
+481
+01:04:33,014 --> 01:04:35,244
+Orden. Orden.
+
+482
+01:04:36,050 --> 01:04:40,215
+César, para tu guía, el senado
+ha preparado una serie de protocolos...
+
 483
-01:00:23,392 --> 01:00:26,850
-Tus leales súbditos
-te dan la bienvenida, Alteza.
+01:04:40,322 --> 01:04:43,587
+...para comenzar a tratar
+los muchos problemas de la ciudad.
 
 484
-01:00:26,933 --> 01:00:28,642
-Gracias, Falco.
+01:04:43,692 --> 01:04:47,458
+Comenzando con la sanidad básica
+de la zona griega...
 
 485
-01:00:28,725 --> 01:00:32,767
-En cuanto a los leales súbditos,
-espero que no hayan sido muy caros.
+01:04:48,330 --> 01:04:51,458
+...el combate contra la peste
+que está surgiendo allí.
 
 486
-01:00:33,017 --> 01:00:35,100
-- César.
-- Graco.
+01:04:52,301 --> 01:04:53,700
+Así que si el César...
 
 487
-01:00:35,183 --> 01:00:37,517
-Toda Roma celebra tu regreso, César.
+01:04:56,038 --> 01:04:58,165
+¿No ves, Graco?
 
 488
-01:00:37,600 --> 01:00:40,892
-Hay muchas cuestiones
-que reclaman tu atención.
+01:04:59,508 --> 01:05:02,170
+Ese es el gran problema, ¿no?
 
 489
-01:00:43,600 --> 01:00:46,642
-¡Orden, por favor! ¡Orden!
+01:05:02,277 --> 01:05:04,643
+Mi padre se pasaba todo
+el tiempo estudiando.
 
 490
-01:00:47,017 --> 01:00:48,517
-Para tu información, César, el senado
+01:05:06,181 --> 01:05:09,708
+Con los libros
+y aprendiendo filosofía.
 
 491
-01:00:48,600 --> 01:00:51,642
-ha preparado una serie de protocolos
+01:05:10,920 --> 01:05:14,048
+Pasó las horas de su ocaso
+leyendo pergaminos del senado.
 
 492
-01:00:51,725 --> 01:00:54,850
-para empezar a abordar
-los muchos problemas de la ciudad
+01:05:15,458 --> 01:05:18,222
+Y al mismo tiempo,
+se olvidaron del pueblo.
 
 493
-01:00:54,933 --> 01:00:59,017
-empezando por las condiciones
-de salubridad del barrio griego
+01:05:19,329 --> 01:05:21,388
+Pero el senado es el pueblo, señor.
 
 494
-01:00:59,683 --> 01:01:03,183
-para combatir la peste
-que ya está brotando allí.
+01:05:21,498 --> 01:05:25,093
+Elegidos entre el pueblo,
+para hablar en su nombre.
 
 495
-01:01:03,267 --> 01:01:05,017
-De modo que si el César...
-
-496
-01:01:07,100 --> 01:01:09,058
-¿Es que no lo ves, Graco?
-
-497
-01:01:10,558 --> 01:01:12,850
-Ese es precisamente el problema, ¿verdad?
-
-498
-01:01:13,225 --> 01:01:15,808
-Mi padre se pasó la vida estudiando
-
-499
-01:01:17,767 --> 01:01:20,975
-leyendo libros, aprendiendo filosofía.
-
-500
-01:01:21,975 --> 01:01:25,558
-Pasó horas y horas
-leyendo rollos del senado.
-
-501
-01:01:26,558 --> 01:01:29,767
-Y mientras tanto se olvidaba del pueblo.
-
-502
-01:01:30,350 --> 01:01:32,558
-Pero el Senado es el pueblo, señor,
-
-503
-01:01:32,642 --> 01:01:36,142
-elegido de entre el pueblo
-para hablar en nombre del pueblo.
-
-504
-01:01:36,767 --> 01:01:40,558
-Dudo que buena parte del pueblo
+01:05:25,702 --> 01:05:29,001
+Dudo mucho que el pueblo
 coma tan bien como tú, Graco.
 
-505
-01:01:41,183 --> 01:01:43,558
-O tenga amantes tan espléndidas, Cayo.
+496
+01:05:30,140 --> 01:05:34,440
+O que tenga una amante tan espléndida,
+Gayo. Entiendo a mi propio pueblo.
 
-506
-01:01:43,642 --> 01:01:45,850
-Creo que comprendo bien a mi pueblo.
+497
+01:05:34,544 --> 01:05:37,843
+Entonces, quizá el César sea
+tan amable como para enseñarnos.
 
-507
-01:01:45,933 --> 01:01:49,642
-Entonces, César,
-tal vez seas tan amable de enseñarnos
+498
+01:05:38,781 --> 01:05:41,682
+De su propia y vastísima experiencia.
 
-508
-01:01:49,725 --> 01:01:52,475
-haciendo uso de tu vasta experiencia.
+499
+01:05:45,055 --> 01:05:47,023
+Lo llamo amor.
 
-509
-01:01:56,100 --> 01:01:57,808
-Yo lo llamo amor.
+500
+01:05:47,458 --> 01:05:50,950
+Yo soy su padre.
+El pueblo es mi hijo.
 
-510
-01:01:58,475 --> 01:02:01,683
-Yo soy su padre. El pueblo son mis hijos.
+501
+01:05:51,061 --> 01:05:53,655
+Lo abrazaré,
+estrechándolo contra mi pecho.
 
-511
-01:02:01,767 --> 01:02:04,225
-Los acogeré en mi seno y los abrazaré.
+502
+01:05:53,764 --> 01:05:56,961
+¿Alguna vez has abrazado
+a una víctima de la peste, señor?
 
-512
-01:02:04,308 --> 01:02:07,642
-¿Has abrazado a alguien
-que se estuviera muriendo de peste?
+503
+01:06:03,007 --> 01:06:08,343
+No, pero si vuelves a interrumpirme,
+te aseguro que tú lo harás.
 
-513
-01:02:14,017 --> 01:02:16,850
-No, pero si vuelves a interrumpirme
-
-514
-01:02:18,392 --> 01:02:19,558
-te aseguro que tú sí.
-
-515
-01:02:19,642 --> 01:02:22,183
+504
+01:06:08,445 --> 01:06:11,039
 Senador, mi hermano está muy cansado.
 
-516
-01:02:23,058 --> 01:02:27,267
-Dame esa lista.
-El César hará todo lo que Roma precise.
+505
+01:06:12,016 --> 01:06:13,984
+Déjeme su lista.
 
-517
-01:02:27,767 --> 01:02:32,683
-Señora, como siempre,
-tu gentileza se obedece con placer.
+506
+01:06:14,084 --> 01:06:16,747
+El César hará todo lo que Roma necesita.
 
-518
-01:02:39,808 --> 01:02:42,183
-¿Cómo se atreven a darme lecciones?
+507
+01:06:16,855 --> 01:06:21,724
+Señora mía, como siempre,
+un solo gesto suyo impone obediencia.
 
-519
-01:02:42,475 --> 01:02:44,933
-Cómodo, el senado tiene su utilidad.
+508
+01:06:28,800 --> 01:06:31,360
+¿Quién se atreve a sermonearme?
 
-520
-01:02:45,017 --> 01:02:47,892
-¿Qué utilidad?
+509
+01:06:31,469 --> 01:06:33,960
+Cómodo, el senado tiene sus costumbres.
+
+510
+01:06:34,239 --> 01:06:36,764
+¿Qué costumbres?
 Lo único que hacen es hablar.
 
-521
-01:02:49,100 --> 01:02:53,600
-Deberíamos ser solo tú y yo y Roma.
+511
+01:06:38,243 --> 01:06:42,646
+Deberíamos ser tú y yo. Y Roma.
 
-522
-01:02:53,683 --> 01:02:57,100
-Ni pensarlo. Siempre ha existido el senado.
+512
+01:06:42,747 --> 01:06:45,648
+Ni lo pienses.
+Siempre ha habido un senado.
 
-523
-01:02:57,725 --> 01:02:59,350
+513
+01:06:46,585 --> 01:06:48,178
 Roma ha cambiado.
 
-524
-01:02:59,433 --> 01:03:02,475
-Hace falta un emperador
-para gobernar un imperio.
+514
+01:06:48,287 --> 01:06:51,313
+Para gobernar un imperio
+se necesita un emperador.
 
-525
-01:03:02,892 --> 01:03:06,100
-- Claro, pero deja que el pueblo tenga sus...
-- ¿Ilusiones?
+515
+01:06:51,424 --> 01:06:53,517
+Claro, pero déjale al pueblo sus...
 
-526
-01:03:07,850 --> 01:03:09,100
+516
+01:06:53,626 --> 01:06:55,253
+¿Ilusiones?
+
+517
+01:06:56,662 --> 01:06:58,186
 Tradiciones.
 
-527
-01:03:10,142 --> 01:03:12,892
+518
+01:06:59,165 --> 01:07:01,599
 La guerra de mi padre
 contra los bárbaros...
 
+519
+01:07:02,501 --> 01:07:04,628
+Él mismo lo dijo: No logró nada.
+
+520
+01:07:04,737 --> 01:07:08,195
+- Pero el pueblo lo quería.
+- El pueblo siempre quiere las victorias.
+
+521
+01:07:08,307 --> 01:07:11,504
+¿Por qué? Ellos no vieron las batallas.
+
+522
+01:07:13,112 --> 01:07:16,980
+- ¿Qué les importa Germania?
+- Les importa la grandeza de Roma.
+
+523
+01:07:17,750 --> 01:07:19,718
+La grandeza de Roma.
+
+524
+01:07:21,588 --> 01:07:23,556
+Pues, ¿qué es eso?
+
+525
+01:07:25,926 --> 01:07:29,054
+Es una idea. Grandeza.
+
+526
+01:07:33,000 --> 01:07:36,401
+- La grandeza es un sueño.
+- Exactamente. Un sueño.
+
+527
+01:07:38,505 --> 01:07:40,632
+¿Acaso no lo entiendes, Lucilla?
+
 528
-01:03:13,517 --> 01:03:17,017
-Él mismo lo dijo: no consiguió nada.
-Pero el pueblo lo amaba.
+01:07:41,942 --> 01:07:45,241
+Le daré al pueblo un sueño de
+Roma y me amarán por ello.
 
 529
-01:03:17,100 --> 01:03:19,183
-Al pueblo le encantan las victorias.
+01:07:46,513 --> 01:07:50,210
+Y pronto olvidarán los sermones
+tediosos de unos viejos decrépitos.
 
 530
-01:03:19,267 --> 01:03:22,850
-¿Por qué? No han presenciado las batallas.
+01:08:02,563 --> 01:08:05,464
+Le daré al pueblo el sueño
+más grande de su vida.
 
 531
-01:03:24,142 --> 01:03:26,183
-¿Qué les importa la Germania?
+01:08:56,819 --> 01:08:59,516
+Vino blanco y tinto
+para el placer de beber.
 
 532
-01:03:26,267 --> 01:03:28,683
-Les importa la grandeza de Roma.
-
-533
-01:03:28,767 --> 01:03:30,642
-"La grandeza de Roma."
-
-534
-01:03:32,683 --> 01:03:34,433
-Bueno, ¿qué es eso?
-
-535
-01:03:36,892 --> 01:03:40,225
-Es una idea. La grandeza.
-
-536
-01:03:44,100 --> 01:03:47,600
-- La grandeza es una visión.
-- Exacto. Una visión.
-
-537
-01:03:49,600 --> 01:03:51,475
-¿Es que no lo ves, Lucila?
-
-538
-01:03:52,850 --> 01:03:56,767
-Daré al pueblo una visión de Roma
-y me adorarán por ello.
-
-539
-01:03:57,558 --> 01:04:01,850
-Pronto olvidarán los aburridos sermones
-de unos hombres viejos y acabados.
-
-540
-01:04:13,308 --> 01:04:16,892
-Daré al pueblo la mayor visión de su vida.
-
-541
-01:05:08,017 --> 01:05:10,892
-¡Vino blanco y tinto para tu disfrute!
-
-542
-01:05:19,017 --> 01:05:20,017
+01:09:07,997 --> 01:09:09,624
 Juegos.
 
-543
-01:05:22,600 --> 01:05:25,683
-Ciento cincuenta días de juegos.
+533
+01:09:11,468 --> 01:09:14,460
+150 días de juegos.
 
-544
-01:05:26,017 --> 01:05:27,808
-Es más listo de lo que pensaba.
+534
+01:09:14,571 --> 01:09:17,506
+- Es más astuto de lo que pensaba.
+- Astuto.
 
-545
-01:05:27,892 --> 01:05:31,350
-Listo. Roma entera se reiría de él
+535
+01:09:18,341 --> 01:09:21,037
+Toda Roma se reiría de él...
 
-546
-01:05:32,017 --> 01:05:34,350
-si no tuviera miedo
-de su guardia pretoriana.
+536
+01:09:21,144 --> 01:09:23,442
+...si no temieran tanto a sus soldados.
 
-547
-01:05:34,433 --> 01:05:37,183
-Miedo y asombro.
-Una combinación poderosa.
+537
+01:09:23,546 --> 01:09:25,707
+Miedo y admiración,
+una mezcla poderosa.
 
-548
-01:05:38,683 --> 01:05:41,892
-¿Realmente crees que el pueblo
-se va a dejar seducir por eso?
+538
+01:09:27,751 --> 01:09:30,880
+¿En verdad crees que
+eso seducirá al pueblo?
 
-549
-01:05:41,975 --> 01:05:44,850
-Creo que sabe lo que es Roma.
+539
+01:09:30,988 --> 01:09:34,151
+Creo que sabe qué es Roma.
 Roma es la plebe.
 
+540
+01:09:34,258 --> 01:09:38,126
+Les hará magia y los distraerá.
+
+541
+01:09:38,229 --> 01:09:42,029
+Les quitará la libertad
+y seguirán aplaudiendo.
+
+542
+01:09:42,133 --> 01:09:44,192
+El corazón de Roma...
+
+543
+01:09:44,301 --> 01:09:46,565
+...no late en el mármol del senado...
+
+544
+01:09:46,670 --> 01:09:48,797
+...sino en la arena del coliseo.
+
+545
+01:09:50,608 --> 01:09:52,576
+Les traerá la muerte...
+
+546
+01:09:54,378 --> 01:09:55,845
+...y lo adorarán por ello.
+
+547
+01:10:01,227 --> 01:10:03,719
+Español.
+
+548
+01:10:19,546 --> 01:10:21,605
+Sólo matas, matas, matas.
+
+549
+01:10:21,715 --> 01:10:24,411
+La multitud no quiere un
+carnicero sino un héroe.
+
 550
-01:05:45,725 --> 01:05:48,892
-Hazles juegos de magia
-y estarán entretenidos.
+01:10:24,518 --> 01:10:26,349
+Quieres que sigan viniendo...
 
 551
-01:05:49,308 --> 01:05:52,600
-Quítales la libertad
-y seguirán expresando su júbilo.
+01:10:26,453 --> 01:10:30,253
+...así que no los descuartices.
+Recuerda: Eres un animador.
 
 552
-01:05:52,933 --> 01:05:57,642
-El corazón de Roma que late
-no es el mármol del senado.
+01:10:34,895 --> 01:10:36,921
+Español.
 
 553
-01:05:57,725 --> 01:05:59,850
-Es la arena del Coliseo.
+01:10:42,170 --> 01:10:44,138
+Así que entretiene.
 
 554
-01:06:01,642 --> 01:06:03,725
-Él les traerá la muerte
+01:11:48,769 --> 01:11:51,101
+¿No están entretenidos?
 
 555
-01:06:05,350 --> 01:06:07,808
-y lo adorarán por ello.
+01:11:51,204 --> 01:11:53,399
+¿No están entretenidos?
 
 556
-01:06:29,892 --> 01:06:31,058
-Hispano.
+01:11:55,175 --> 01:11:57,473
+¿No vinieron a eso?
 
 557
-01:06:32,308 --> 01:06:33,975
-- Hispano.
-- Hispano.
+01:12:02,249 --> 01:12:04,274
+Español.
 
 558
-01:07:45,433 --> 01:07:49,642
-¿Acaso no os divertís?
-
-559
-01:07:51,933 --> 01:07:53,975
-¿No habéis venido a eso?
-
-560
-01:07:58,975 --> 01:08:01,183
-¡Hispano, hispano!
-
-561
-01:08:19,017 --> 01:08:20,975
+01:12:22,470 --> 01:12:24,495
 ¿Qué quieres?
 
-562
-01:08:23,392 --> 01:08:24,600
-¿Una chica?
+559
+01:12:26,874 --> 01:12:28,501
+¿Una muchacha?
 
-563
-01:08:25,725 --> 01:08:26,850
-¿Un chico?
+560
+01:12:29,143 --> 01:12:30,940
+¿Un muchacho?
 
-564
-01:08:27,767 --> 01:08:30,058
-- Me has llamado.
+561
+01:12:31,045 --> 01:12:33,809
+- Me mandaste a buscar.
 - Así es.
 
+562
+01:12:34,582 --> 01:12:37,107
+Eres bueno, español, pero no tanto.
+
+563
+01:12:37,218 --> 01:12:41,018
+- Podrías ser magnífico.
+- Se me exige que mate, así que mato.
+
+564
+01:12:41,122 --> 01:12:43,215
+Es suficiente.
+
 565
-01:08:31,225 --> 01:08:34,100
-Eres bueno, hispano, pero no tan bueno.
+01:12:43,324 --> 01:12:46,158
+Para las provincias,
+pero no para Roma.
 
 566
-01:08:34,183 --> 01:08:35,475
-Podrías ser magnífico.
+01:12:49,698 --> 01:12:53,600
+El joven emperador ha
+organizado una serie de espectáculos...
 
 567
-01:08:35,558 --> 01:08:39,100
-Me piden que mate y mato. Con eso basta.
-
-568
-01:08:39,767 --> 01:08:43,017
-Basta en las provincias, pero no en Roma.
-
-569
-01:08:46,225 --> 01:08:50,142
-El joven emperador ha organizado
-una serie de espectáculos
-
-570
-01:08:50,225 --> 01:08:54,433
-para honrar la memoria de su padre,
+01:12:53,702 --> 01:12:57,570
+...para honrar la memoria de su padre,
 Marco Aurelio.
 
+568
+01:12:58,474 --> 01:13:00,305
+Me parece divertido...
+
+569
+01:13:00,409 --> 01:13:02,604
+...puesto que fue Marco Aurelio...
+
+570
+01:13:02,711 --> 01:13:05,578
+...el sabio y omnisciente
+Marco Aurelio...
+
 571
-01:08:55,100 --> 01:09:00,350
-Tiene su gracia,
-puesto que fue Marco Aurelio, el sabio,
+01:13:05,681 --> 01:13:07,649
+...quien nos prohibió.
 
 572
-01:09:00,433 --> 01:09:04,017
-el intelectual Marco Aurelio,
-quien prohibió los juegos.
+01:13:10,385 --> 01:13:13,980
+Así que, finalmente, tras cinco años
+de ganarnos apenas la vida...
 
 573
-01:09:07,017 --> 01:09:10,933
-Ahora, después de cinco años
-de ganarnos la vida de mala manera
+01:13:14,089 --> 01:13:16,922
+...en aldeas pulgosas...
 
 574
-01:09:11,017 --> 01:09:13,350
-en pueblos infestados de pulgas,
+01:13:17,025 --> 01:13:19,654
+...por fin volvemos
+adonde nos corresponde.
 
 575
-01:09:13,433 --> 01:09:16,475
-por fin vamos a regresar
-al lugar que nos corresponde:
+01:13:20,597 --> 01:13:22,565
+Al coliseo.
 
 576
-01:09:17,183 --> 01:09:18,850
-al Coliseo.
+01:13:24,801 --> 01:13:27,031
+Deberías ver el coliseo, español.
 
 577
-01:09:21,142 --> 01:09:23,892
-Deberías ver el Coliseo, hispano.
+01:13:28,771 --> 01:13:30,500
+50.000 romanos...
 
 578
-01:09:25,058 --> 01:09:27,183
-Cincuenta mil romanos...
+01:13:31,774 --> 01:13:35,232
+...siguiendo cada movimiento
+de tu espada.
 
 579
-01:09:28,058 --> 01:09:32,100
-observando cada movimiento de tu espada
+01:13:36,913 --> 01:13:39,074
+Esperando que des el golpe mortal.
 
 580
-01:09:33,392 --> 01:09:36,142
-animándote a que des el golpe de muerte.
+01:13:40,550 --> 01:13:42,677
+El silencio antes de que lo asestes...
 
 581
-01:09:37,225 --> 01:09:40,808
-El silencio antes del golpe
-y el rugido que le sigue.
+01:13:42,785 --> 01:13:44,753
+...y el bullicio posterior...
 
 582
-01:09:41,725 --> 01:09:45,267
-Crece. Crece...
+01:13:44,854 --> 01:13:48,290
+...crece... crece como...
 
 583
-01:09:46,600 --> 01:09:48,142
-igual que una tormenta.
+01:13:50,026 --> 01:13:51,790
+...una tormenta.
 
 584
-01:09:49,058 --> 01:09:51,600
-Como si tú fueras el mismo dios del trueno.
+01:13:52,396 --> 01:13:55,058
+Como si tú fueras
+el mismísimo dios del trueno.
 
 585
-01:09:51,683 --> 01:09:54,725
-- ¿Tú fuiste gladiador?
-- Sí.
+01:13:55,165 --> 01:13:57,861
+- ¿Fuiste gladiador?
+- Sí, lo fui.
 
 586
-01:10:01,267 --> 01:10:03,225
-¿Te ganaste la libertad?
+01:14:04,642 --> 01:14:06,667
+¿Ganaste tu libertad?
 
 587
-01:10:03,308 --> 01:10:05,850
-Hace mucho tiempo, el emperador
+01:14:06,777 --> 01:14:08,938
+Hace mucho, el emperador...
 
 588
-01:10:07,350 --> 01:10:09,558
-me obsequió con un rudis.
+01:14:10,915 --> 01:14:15,784
+...me obsequió una espada de madera.
 
 589
-01:10:11,267 --> 01:10:13,475
-No es más que una espada de madera.
+01:14:17,521 --> 01:14:19,580
+Un símbolo de la libertad.
 
 590
-01:10:14,100 --> 01:10:16,142
-El símbolo de la libertad.
+01:14:21,559 --> 01:14:24,723
+Me tocó el hombro y quedé libre.
 
 591
-01:10:18,350 --> 01:10:21,433
-Me tocó en el hombro y quedé libre.
+01:14:26,197 --> 01:14:29,655
+- ¿Conociste a Marco Aurelio?
+- No dije que lo conociera.
 
 592
-01:10:22,850 --> 01:10:25,058
-¿Tú conociste a Marco Aurelio?
+01:14:29,768 --> 01:14:32,498
+Dije que una vez me tocó el hombro.
 
 593
-01:10:25,142 --> 01:10:29,350
-No he dicho que lo conociera. He dicho
-que una vez me tocó en el hombro.
+01:14:33,672 --> 01:14:35,765
+Me preguntaste qué quiero.
 
 594
-01:10:30,308 --> 01:10:32,517
-Me has preguntado qué es lo que quiero.
+01:14:36,942 --> 01:14:39,672
+Yo también quiero pararme
+frente al emperador.
 
 595
-01:10:33,558 --> 01:10:36,558
-Yo también quiero
-estar en presencia del emperador...
+01:14:41,313 --> 01:14:42,871
+Como lo hiciste tú.
 
 596
-01:10:37,892 --> 01:10:39,183
-igual que tú.
+01:14:42,981 --> 01:14:45,973
+Entonces escúchame. Aprende de mí.
 
 597
-01:10:39,267 --> 01:10:42,767
-Entonces, escúchame. Aprende de mí.
+01:14:46,851 --> 01:14:50,014
+No era el mejor por matar rápidamente.
 
 598
-01:10:43,600 --> 01:10:46,725
-Yo no era el mejor porque matara pronto.
+01:14:51,356 --> 01:14:53,847
+Era el mejor
+porque la multitud me amaba.
 
 599
-01:10:47,933 --> 01:10:50,725
-Era el mejor porque el público me adoraba.
+01:14:55,060 --> 01:14:58,861
+Conquista a la multitud
+y conquistarás tu libertad.
 
 600
-01:10:51,517 --> 01:10:54,892
-Gánate al público y ganarás tu libertad.
+01:15:02,802 --> 01:15:04,770
+Conquistaré a la multitud.
 
 601
-01:10:59,183 --> 01:11:01,308
-Me ganaré al público.
+01:15:06,973 --> 01:15:10,136
+Les daré algo que
+nunca antes han visto.
 
 602
-01:11:03,642 --> 01:11:06,725
-Les daré algo que nunca han visto.
+01:15:11,277 --> 01:15:14,110
+Entonces, español,
+iremos juntos a Roma...
 
 603
-01:11:07,892 --> 01:11:10,933
-Entonces, hispano, iremos juntos a Roma
+01:15:15,081 --> 01:15:16,946
+...y tendremos aventuras tremendas.
 
 604
-01:11:11,517 --> 01:11:13,267
-y viviremos aventuras sangrientas.
+01:15:17,049 --> 01:15:20,177
+Y la gran perra nos dará pecho
+hasta que estemos saciados, felices...
 
 605
-01:11:13,350 --> 01:11:15,183
-Y nos dará de mamar la gran puta
+01:15:20,286 --> 01:15:22,948
+...y no podamos tomar más.
+Y entonces...
 
 606
-01:11:15,267 --> 01:11:18,058
-hasta quedar saciados por completo.
+01:15:24,190 --> 01:15:26,181
+...cuando haya habido
+suficientes muertes...
 
 607
-01:11:18,142 --> 01:11:19,475
-Y entonces
+01:15:28,527 --> 01:15:30,655
+...quizás obtengas tu libertad.
 
 608
-01:11:20,725 --> 01:11:23,350
-cuando hayan muerto suficientes hombres
-
-609
-01:11:25,100 --> 01:11:27,475
-tal vez serás libre.
-
-610
-01:11:31,850 --> 01:11:34,308
+01:15:35,268 --> 01:15:37,395
 Toma. Usa esto.
 
+609
+01:16:01,262 --> 01:16:03,628
+Queda por allí.
+
+610
+01:16:03,731 --> 01:16:06,199
+Mi tierra, mi hogar.
+
 611
-01:11:57,975 --> 01:12:01,225
-Está ahí, en algún lugar, mi país.
+01:16:08,136 --> 01:16:10,502
+Mi esposa está preparando la comida.
 
 612
-01:12:02,350 --> 01:12:03,433
-Mi hogar.
+01:16:11,239 --> 01:16:13,707
+Mis hijas llevan agua desde el río.
 
 613
-01:12:04,725 --> 01:12:06,850
-Mi mujer está cocinando.
+01:16:15,276 --> 01:16:17,267
+¿Alguna vez volveré a verlas?
 
 614
-01:12:07,850 --> 01:12:10,517
-Mis hijas traen agua del río.
-
-615
-01:12:11,933 --> 01:12:14,058
-¿Volveré a verlas algún día?
-
-616
-01:12:15,267 --> 01:12:16,725
+01:16:18,446 --> 01:16:20,243
 Creo que no.
 
+615
+01:16:20,515 --> 01:16:22,983
+¿Crees que volverás a
+verlas cuando mueras?
+
+616
+01:16:23,084 --> 01:16:24,813
+Sí.
+
 617
-01:12:17,058 --> 01:12:19,308
-¿Crees que volverás a verlas
-después de morir?
+01:16:24,919 --> 01:16:27,854
+Pero yo moriré pronto.
 
 618
-01:12:19,392 --> 01:12:20,892
-Creo que sí.
+01:16:29,691 --> 01:16:31,886
+Y ellas vivirán muchos años.
 
 619
-01:12:21,225 --> 01:12:24,308
-Pero yo voy a morir pronto.
+01:16:32,994 --> 01:16:36,954
+- Tendré que esperar.
+- Pero lo harías.
 
 620
-01:12:26,392 --> 01:12:28,725
-Ellas tardarán muchos años en morir.
+01:16:37,566 --> 01:16:39,534
+Por supuesto.
 
 621
-01:12:29,433 --> 01:12:31,308
-Tendré que esperar.
+01:16:40,836 --> 01:16:46,968
+Verás, mi esposa y mi hijo...
 
 622
-01:12:31,392 --> 01:12:33,392
-¿Estás dispuesto a esperar?
+01:16:48,577 --> 01:16:50,101
+...ya me están esperando.
 
 623
-01:12:34,183 --> 01:12:35,350
-Claro que sí.
+01:16:50,212 --> 01:16:52,646
+Volverás a verlos.
 
 624
-01:12:37,225 --> 01:12:38,725
-¿Sabes?
-
-625
-01:12:39,933 --> 01:12:41,433
-Mi mujer...
-
-626
-01:12:42,808 --> 01:12:46,683
-y mi hijo ya están esperándome.
-
-627
-01:12:47,392 --> 01:12:50,933
-Volverás a encontrarte con ellos.
+01:16:53,482 --> 01:16:55,245
 Pero todavía no.
 
-628
-01:12:55,267 --> 01:12:56,433
+625
+01:16:58,354 --> 01:17:00,117
 Todavía no.
 
-629
-01:12:58,183 --> 01:12:59,892
-- A menos que...
+626
+01:17:00,990 --> 01:17:03,015
+- Salvo que...
 - Todavía no.
 
-630
-01:13:03,725 --> 01:13:05,017
+627
+01:17:06,930 --> 01:17:09,023
 Todavía no.
 
+628
+01:17:17,741 --> 01:17:19,834
+Lo veo.
+
+629
+01:17:20,677 --> 01:17:22,645
+- ¿Dónde?
+- Allí está.
+
+630
+01:18:11,397 --> 01:18:12,694
+Salgan.
+
 631
-01:13:17,933 --> 01:13:19,350
-Ahí está.
+01:18:13,932 --> 01:18:15,957
+Muévanse. Afuera.
 
 632
-01:14:08,558 --> 01:14:09,683
-Fuera.
+01:18:19,705 --> 01:18:21,297
+¿Hay algún otro?
 
 633
-01:14:11,058 --> 01:14:12,933
-¡Vamos, fuera!
+01:18:28,447 --> 01:18:30,438
+Me alegra volver a verte, viejo amigo.
 
 634
-01:14:25,558 --> 01:14:28,183
-Me alegro de volver a verte, viejo amigo.
+01:18:36,388 --> 01:18:38,515
+Tráeme suerte.
 
 635
-01:14:33,350 --> 01:14:35,267
-Dame suerte.
+01:18:42,528 --> 01:18:45,293
+¿Alguna vez viste algo semejante?
 
 636
-01:14:39,517 --> 01:14:42,350
-¿Has visto alguna vez algo semejante?
+01:18:46,666 --> 01:18:49,328
+No sabía que los hombres
+podían construir algo así.
 
 637
-01:14:43,683 --> 01:14:46,600
-No sabía que el hombre
-pudiera construir algo así.
+01:18:59,145 --> 01:19:00,908
+Conquista a la multitud.
 
 638
-01:14:56,392 --> 01:14:57,808
-Gánate al público.
+01:19:01,014 --> 01:19:04,040
+Entren. Muévanse. Adentro.
 
 639
-01:14:58,142 --> 01:15:00,475
-Adentro. ¡Vamos!
+01:19:54,052 --> 01:19:56,452
+Duerme tan bien porque es amado.
 
 640
-01:15:00,558 --> 01:15:01,683
-¡Adentro!
-
-641
-01:15:51,017 --> 01:15:53,683
-Duerme tan plácidamente
-porque se siente amado.
-
-642
-01:15:56,600 --> 01:15:58,725
+01:19:59,858 --> 01:20:02,156
 Vamos, hermano. Es tarde.
 
+641
+01:20:05,297 --> 01:20:08,232
+Convertiré a Roma en
+la maravilla de la época.
+
+642
+01:20:10,735 --> 01:20:13,829
+Eso es lo que Graco y
+sus amigos no entienden.
+
 643
-01:16:02,308 --> 01:16:05,100
-Haré de Roma la maravilla de la historia.
+01:20:14,839 --> 01:20:17,740
+Tantos anhelos me
+están partiendo la cabeza.
 
 644
-01:16:07,975 --> 01:16:11,642
-Eso es lo que Graco y sus amigos
-no comprenden.
+01:20:26,252 --> 01:20:28,413
+Bebe este tónico.
 
 645
-01:16:11,725 --> 01:16:14,975
-Mis anhelos me están haciendo
-estallar la cabeza.
+01:20:37,563 --> 01:20:40,031
+Creo que se acerca el momento.
 
 646
-01:16:22,058 --> 01:16:24,725
-Cómodo, bebe este tónico.
+01:20:40,132 --> 01:20:42,726
+Podría anunciar
+la disolución del senado...
 
 647
-01:16:34,433 --> 01:16:36,808
-Creo que es el momento adecuado.
+01:20:42,835 --> 01:20:45,360
+...en la celebración para
+honrar a nuestro padre.
 
 648
-01:16:36,892 --> 01:16:40,017
-Podría anunciar la disolución del senado
+01:20:45,471 --> 01:20:47,439
+¿Crees que debería hacerlo?
 
 649
-01:16:40,100 --> 01:16:42,308
-en las fiestas en memoria de nuestro padre.
+01:20:48,140 --> 01:20:50,165
+¿El pueblo está listo?
 
 650
-01:16:42,392 --> 01:16:44,350
-¿Te parece buena idea?
+01:20:52,078 --> 01:20:54,377
+Creo que ahora necesitas descansar.
 
 651
-01:16:45,017 --> 01:16:46,767
-¿El pueblo está preparado?
+01:21:00,454 --> 01:21:03,981
+- ¿Te quedarás conmigo?
+- ¿Aún le temes a la oscuridad, hermano?
 
 652
-01:16:49,058 --> 01:16:51,600
-Creo que ahora tienes que descansar.
+01:21:11,565 --> 01:21:13,192
+¿Aún le temes?
 
 653
-01:16:57,350 --> 01:16:59,225
-¿Te quedas conmigo?
-
-654
-01:16:59,308 --> 01:17:01,558
-¿Aún te da miedo la oscuridad, hermano?
-
-655
-01:17:08,600 --> 01:17:09,600
-Todavía.
-
-656
-01:17:11,642 --> 01:17:12,767
+01:21:14,668 --> 01:21:16,295
 Siempre.
 
-657
-01:17:14,642 --> 01:17:17,475
-- Quédate conmigo esta noche.
-- Sabes que no lo haré.
+654
+01:21:17,404 --> 01:21:20,363
+- ¿Te quedarás conmigo esta noche?
+- Sabes que no.
 
-658
-01:17:21,600 --> 01:17:23,392
-Entonces, dame un beso.
+655
+01:21:24,801 --> 01:21:26,770
+Entonces, bésame.
 
-659
-01:17:32,267 --> 01:17:33,725
+656
+01:21:35,246 --> 01:21:37,305
 Duerme, hermano.
 
+657
+01:22:29,617 --> 01:22:34,146
+Tener criados sordomudos al menos
+me asegura que viviré un poco más.
+
+658
+01:22:36,525 --> 01:22:38,720
+Ahora están arrestando sabios.
+
+659
+01:22:38,828 --> 01:22:40,853
+A cualquiera que ose manifestarse.
+
 660
-01:17:52,725 --> 01:17:53,725
-¡Vamos!
+01:22:40,963 --> 01:22:43,193
+Incluso escritores
+satíricos y cronistas.
 
 661
-01:18:02,725 --> 01:18:04,767
-De acuerdo, ya basta.
+01:22:43,299 --> 01:22:44,857
+Y a los matemáticos.
 
 662
-01:18:27,142 --> 01:18:28,267
-El emperador quiere batallas
+01:22:46,535 --> 01:22:48,662
+Y todos van a parar a la arena.
 
 663
-01:18:28,350 --> 01:18:30,475
-y yo no quiero sacrificar a los mejores.
+01:22:50,206 --> 01:22:52,401
+El senado no aprobó la ley marcial.
 
 664
-01:18:30,558 --> 01:18:33,975
-El público pide batallas
-y el emperador se las da.
+01:22:52,508 --> 01:22:55,238
+El régimen de terror es
+de los soldados pretorianos.
 
 665
-01:18:34,058 --> 01:18:37,808
-- Te toca la batalla de Cartago.
-- La masacre de Cartago.
+01:22:56,879 --> 01:22:58,847
+Me da miedo salir cuando cae el sol.
 
 666
-01:18:39,600 --> 01:18:42,850
-¿Por qué no bajas a la cárcel y reúnes
-a todos los mendigos y ladrones?
+01:22:58,948 --> 01:23:01,974
+Más miedo deberían darte
+tus actividades diurnas.
 
 667
-01:18:42,933 --> 01:18:44,600
-Ya lo hemos hecho.
+01:23:02,585 --> 01:23:04,417
+El senado está lleno de espías suyos.
 
 668
-01:18:44,683 --> 01:18:48,058
-Si quieres desperdiciar a los mejores
-gladiadores de todo el imperio,
+01:23:05,322 --> 01:23:07,620
+Liderados por el rufián de Falco.
 
 669
-01:18:48,142 --> 01:18:50,517
-entonces págame el doble.
+01:23:08,892 --> 01:23:13,852
+Pero ¿en qué piensa?
+Eso es lo que me preocupa.
 
 670
-01:18:50,600 --> 01:18:54,308
-Cobrarás lo acordado
-o rescindiremos el contrato.
+01:23:13,964 --> 01:23:16,797
+Pasa sus días únicamente obsesionado...
 
 671
-01:18:54,392 --> 01:18:55,767
-¿No te gusta?
+01:23:16,900 --> 01:23:19,664
+...con la preparación del festival
+para honrar a tu padre.
 
 672
-01:18:55,850 --> 01:18:59,808
-Entonces vuelve a esconderte
-en el agujero de donde saliste.
+01:23:19,769 --> 01:23:22,761
+No cumple incluso
+con las tareas más básicas del gobierno.
 
 673
-01:19:02,892 --> 01:19:05,183
-Casio, por favor. Puedes liberarnos.
+01:23:24,141 --> 01:23:26,109
+¿Qué está planeando?
 
 674
-01:19:34,892 --> 01:19:38,058
-Gladiador, ¿eres tú
-ese que llaman el hispano?
+01:23:26,776 --> 01:23:28,403
+¿Y qué lo está pagando?
 
 675
-01:19:38,142 --> 01:19:39,308
-Sí.
+01:23:28,512 --> 01:23:32,778
+Estos juegos están costando fortunas
+y sin embargo no hay nuevos impuestos.
 
 676
-01:19:40,058 --> 01:19:42,350
-Me dijeron que eras un gigante.
+01:23:33,416 --> 01:23:35,008
+El futuro.
 
 677
-01:19:42,433 --> 01:19:45,642
-Que podías aplastar el cráneo
-de un hombre con una mano.
+01:23:36,186 --> 01:23:38,178
+El futuro lo paga.
 
 678
-01:19:45,725 --> 01:19:47,433
-¿El de un hombre? No.
+01:23:39,757 --> 01:23:42,590
+Ha empezado a vender
+las reservas de granos.
 
 679
-01:19:48,683 --> 01:19:49,850
-El de un niño.
+01:23:42,693 --> 01:23:45,093
+No puede ser cierto.
 
 680
-01:19:52,017 --> 01:19:55,683
-- ¿Hay buenos caballos en Hispania?
-- Algunos de los mejores.
+01:23:45,196 --> 01:23:47,528
+Está vendiendo la
+reserva de granos de Roma.
 
 681
-01:19:56,725 --> 01:19:59,850
-Este es Argento y este es Escarto.
+01:23:48,232 --> 01:23:50,427
+En dos años el pueblo
+se morirá de hambre.
 
 682
-01:20:01,058 --> 01:20:02,850
-Eran mis caballos.
+01:23:51,836 --> 01:23:53,599
+Espero que disfruten los juegos...
 
 683
-01:20:03,725 --> 01:20:05,850
-Me los quitaron.
+01:23:53,704 --> 01:23:56,298
+...porque dentro de poco
+morirán por culpa de ellos.
 
 684
-01:20:06,225 --> 01:20:09,558
-Me caes bien, hispano. Te animaré.
+01:23:56,908 --> 01:23:59,741
+- Roma debe saber esto.
+- ¿Cómo?
 
 685
-01:20:10,017 --> 01:20:13,433
-- ¿Te dejan ver los juegos?
-- Mi tío dice que así me hago fuerte.
+01:23:59,844 --> 01:24:02,574
+Disolverá el senado.
 
 686
-01:20:13,517 --> 01:20:16,892
-- ¿Y tu padre qué dice?
-- Mi padre está muerto.
+01:24:02,680 --> 01:24:04,875
+¿Quién se los dirá
+antes de que sea tarde?
 
 687
-01:20:18,642 --> 01:20:20,725
-Amo Lucio, ya es la hora.
+01:24:04,982 --> 01:24:06,677
+¿Tú, Graco?
 
 688
-01:20:21,850 --> 01:20:23,267
-Me tengo que ir.
+01:24:07,685 --> 01:24:09,654
+¿Tú, Gayo?
 
 689
-01:20:23,350 --> 01:20:25,058
-¿Te llamas Lucio?
+01:24:09,755 --> 01:24:13,350
+¿Denunciarán a mi hermano
+en un discurso en el senado...
 
 690
-01:20:26,975 --> 01:20:29,808
-Lucio Vero, como mi padre.
+01:24:13,458 --> 01:24:15,722
+...para luego ver a su
+familia en el coliseo?
 
 691
-01:21:00,308 --> 01:21:02,017
-¡Abajo!
+01:24:16,929 --> 01:24:18,556
+¿Quién se atrevería?
 
 692
-01:21:07,183 --> 01:21:08,725
-¡Claudio!
+01:24:27,472 --> 01:24:30,270
+He vivido a diario presa
+de la angustia...
 
 693
-01:21:08,808 --> 01:21:11,350
-- ¿Sí?
-- ¡Más escudos!
+01:24:30,375 --> 01:24:32,673
+...pues mi hijo
+es el heredero del trono.
 
 694
-01:21:11,433 --> 01:21:12,725
-Está bien.
+01:24:38,750 --> 01:24:40,718
+Debe morir.
 
 695
-01:21:31,808 --> 01:21:36,517
-Cuando entre el emperador,
-levantad las armas, saludadle,
+01:24:44,557 --> 01:24:48,584
+Quinto y los soldados pretorianos
+tomarían el poder para sí.
 
 696
-01:21:36,600 --> 01:21:38,725
-y hablad todos a la vez.
+01:24:48,695 --> 01:24:52,222
+No. Decapítala y la
+víbora no podrá atacar.
 
 697
-01:21:39,225 --> 01:21:42,892
-Mirad al emperador y no le deis la espalda.
+01:24:52,332 --> 01:24:54,493
+Lucilla, Gayo tiene razón.
 
 698
-01:21:43,933 --> 01:21:47,017
-Id y morid con honor.
+01:24:54,601 --> 01:24:58,662
+No podemos lograr nada sin neutralizar
+a los soldados pretorianos.
 
 699
-01:22:42,058 --> 01:22:43,892
-¡Ave César!
+01:25:00,240 --> 01:25:03,107
+- Entonces, ¿no hacemos nada?
+- No, niña.
 
 700
-01:22:47,183 --> 01:22:51,475
-¡César!
+01:25:03,209 --> 01:25:05,302
+Mantenemos nuestro consejo.
 
 701
-01:22:54,517 --> 01:22:57,475
-¡Los que van a morir te saludan!
+01:25:05,411 --> 01:25:07,675
+Nos preparamos.
 
 702
-01:22:59,100 --> 01:23:00,850
-En este día
+01:25:07,780 --> 01:25:12,547
+Mientras el pueblo lo apoye,
+seremos voces sin fuerza.
 
 703
-01:23:01,475 --> 01:23:04,517
-retrocedemos en el tiempo
-hasta la antigüedad
+01:25:13,353 --> 01:25:14,878
+No somos nada.
 
 704
-01:23:05,392 --> 01:23:08,183
-y recreamos para ustedes
-¡la segunda caída
+01:25:17,791 --> 01:25:20,453
+Pero cada día que pasa,
+se hace enemigos.
 
 705
-01:23:08,267 --> 01:23:11,017
-de la poderosa Cartago!
+01:25:20,561 --> 01:25:23,826
+Un día,
+tendrá más enemigos que amigos.
 
 706
-01:23:15,017 --> 01:23:19,308
-En la árida llanura de Zama
+01:25:23,931 --> 01:25:27,059
+Ese día, actuaremos.
 
 707
-01:23:20,100 --> 01:23:22,892
-esperaban los invencibles ejércitos
+01:25:27,167 --> 01:25:29,294
+Entonces daremos el golpe.
 
 708
-01:23:23,392 --> 01:23:25,933
-del bárbaro Aníbal.
+01:25:29,937 --> 01:25:31,928
+Pero mientras tanto...
 
 709
-01:23:26,808 --> 01:23:32,267
-Feroces mercenarios y guerreros...
-de todas las naciones bárbaras
+01:25:33,007 --> 01:25:35,100
+...somos dóciles.
 
 710
-01:23:32,350 --> 01:23:36,683
-empeñados en destruir
+01:25:35,209 --> 01:25:37,268
+Somos obedientes.
 
 711
-01:23:37,475 --> 01:23:39,100
-y conquistar sin piedad.
+01:25:39,079 --> 01:25:41,377
+Y somos traicioneros.
 
 712
-01:23:40,017 --> 01:23:43,850
-Vuestro emperador
-se complace en ofreceros
+01:25:49,733 --> 01:25:51,166
+Vamos. Fuera del camino.
 
 713
-01:23:43,933 --> 01:23:47,058
-¡la horda bárbara!
+01:25:53,303 --> 01:25:54,327
+Elígeme.
 
 714
-01:23:55,517 --> 01:23:57,475
-¿Alguno ha servido en el ejército?
+01:25:56,406 --> 01:25:58,237
+Quiero cubrirte de besos.
 
 715
-01:23:57,558 --> 01:24:00,517
-Luché contigo en Vindobona.
+01:25:59,242 --> 01:26:01,210
+Está bien, es suficiente.
 
 716
-01:24:01,392 --> 01:24:03,058
-Puedes ayudarme.
+01:26:24,681 --> 01:26:27,884
+Cómodo quiere batallas. Pero
+no sacrificaré a mis mejores hombres.
 
 717
-01:24:04,183 --> 01:24:06,558
-Salga lo que salga por esas puertas
+01:26:27,885 --> 01:26:31,184
+La multitud quiere batallas,
+así que el emperador se las da.
 
 718
-01:24:07,725 --> 01:24:10,975
-tenemos más probabilidades
-de sobrevivir si trabajamos juntos.
+01:26:31,288 --> 01:26:34,519
+- A ti te toca la batalla de Cartago.
+- La masacre de Cartago.
 
 719
-01:24:11,558 --> 01:24:13,183
-¿Comprendéis?
+01:26:36,688 --> 01:26:40,146
+¿Por qué no ir a la prisión y juntar
+a todos los mendigos y ladrones?
 
 720
-01:24:15,350 --> 01:24:17,433
-Si permanecemos juntos, sobreviviremos.
+01:26:40,258 --> 01:26:41,919
+Lo hemos hecho.
 
 721
-01:24:17,517 --> 01:24:19,034
-¡El emperador se complace en presentaros
+01:26:42,027 --> 01:26:45,554
+Si quieres desperdiciar a los
+mejores gladiadores del imperio...
 
 722
-01:24:19,058 --> 01:24:24,100
-a los legionarios...
-de Escipión, el Africano!
+01:26:45,664 --> 01:26:47,393
+...quiero que me paguen el doble.
 
 723
-01:24:35,017 --> 01:24:36,892
-¡Hasta la muerte!
+01:26:47,499 --> 01:26:51,162
+Recibirás lo que dice tu
+contrato o se te cancelará.
 
 724
-01:24:40,642 --> 01:24:43,142
-¡Muerte!
+01:26:51,269 --> 01:26:52,897
+¿No te gusta?
 
 725
-01:24:47,017 --> 01:24:48,475
-¡No os separéis!
+01:26:53,005 --> 01:26:56,532
+Entonces, puedes volver arrastrándote
+a la cloaca de la que saliste.
 
 726
-01:24:54,642 --> 01:24:56,475
-¡Juntaos más!
+01:26:59,812 --> 01:27:01,780
+Casio, por favor. Por favor, Casio.
 
 727
-01:24:57,892 --> 01:25:01,975
-No os separéis. ¡En columnas escalonadas!
+01:27:32,244 --> 01:27:34,804
+Gladiador,
+¿eres tú a quien llaman "el español"?
 
 728
-01:25:15,225 --> 01:25:17,183
-No tenéis ninguna posibilidad.
-
-729
-01:25:28,475 --> 01:25:31,142
-¡Unid los escudos! ¡Como un solo hombre!
-
-730
-01:25:32,517 --> 01:25:34,017
-¡Firmes!
-
-731
-01:25:36,100 --> 01:25:39,058
-¡Firmes! ¡Como un solo hombre!
-
-732
-01:25:42,225 --> 01:25:43,392
-¡Muy bien!
-
-733
-01:25:55,267 --> 01:25:59,058
-¡Firmes! ¡Nos agachamos! ¡Nos agachamos!
-
-734
-01:26:05,058 --> 01:26:06,058
-¡Sí!
-
-735
-01:26:18,142 --> 01:26:19,475
-¡Hagen!
-
-736
-01:26:43,642 --> 01:26:47,308
-¡Esta columna, al carro!
-¡Esta columna, conmigo!
-
-737
-01:26:50,850 --> 01:26:52,308
-¡Rápido!
-
-738
-01:26:52,892 --> 01:26:55,558
-- ¡Sal de ahí!
-- ¡Rápido!
-
-739
-01:27:36,808 --> 01:27:38,100
-¡Máximo!
-
-740
-01:27:50,308 --> 01:27:52,558
-¡En columna de a uno!
-
-741
-01:28:37,933 --> 01:28:39,225
-¡Hemos ganado!
-
-742
-01:28:44,683 --> 01:28:47,392
-La historia no es mi fuerte, Casio,
-
-743
-01:28:48,100 --> 01:28:51,017
-pero, ¿no perdían los bárbaros
-la batalla de Cartago?
-
-744
-01:28:51,100 --> 01:28:52,808
-Sí, señor.
-
-745
-01:28:54,767 --> 01:28:56,183
-Perdóname, señor.
-
-746
-01:28:56,267 --> 01:28:58,892
-No, me gustan las sorpresas.
-
-747
-01:28:59,558 --> 01:29:00,725
-¿Quién es?
-
-748
-01:29:00,808 --> 01:29:03,808
-Le llaman el hispano, señor.
-
-749
-01:29:06,267 --> 01:29:08,225
-Me gustaría conocerlo.
-
-750
-01:29:08,308 --> 01:29:09,558
-Sí, señor.
-
-751
-01:29:11,975 --> 01:29:13,850
-¡Ave a los bárbaros!
-
-752
-01:29:28,808 --> 01:29:32,308
-¡Adelante! ¡Con las armas dispuestas!
-
-753
-01:29:45,725 --> 01:29:47,308
-Bajad las armas.
-
-754
-01:29:51,392 --> 01:29:54,350
-Gladiador, el emperador
-ha preguntado por ti.
-
-755
-01:29:54,892 --> 01:29:57,225
-Estoy al servicio del emperador.
-
-756
-01:30:23,767 --> 01:30:25,933
-De pie.
-
-757
-01:30:35,392 --> 01:30:37,600
-Tu fama es bien merecida, hispano.
-
-758
-01:30:37,683 --> 01:30:40,017
-No creo que haya otro gladiador
-tan bueno como tú.
-
-759
-01:30:40,100 --> 01:30:43,267
-Este jovencito insiste
-en que eres Héctor renacido.
-
-760
-01:30:43,350 --> 01:30:45,017
-¿O era Hércules?
-
-761
-01:30:46,433 --> 01:30:50,183
-¿Por qué no muestra el héroe su rostro
-y nos dice su verdadero nombre?
-
-762
-01:30:52,308 --> 01:30:54,017
-Tienes nombre, ¿verdad?
-
-763
-01:30:54,558 --> 01:30:56,392
-Me llamo Gladiador.
-
-764
-01:30:59,600 --> 01:31:02,808
-¿Cómo te atreves
-a darme la espalda? ¡Esclavo!
-
-765
-01:31:04,392 --> 01:31:07,558
-Quítate el casco y dime tu nombre.
-
-766
-01:31:19,475 --> 01:31:21,850
-Me llamo Máximo Décimo Meridio,
-
-767
-01:31:22,392 --> 01:31:24,308
-comandante de los ejércitos del norte,
-
-768
-01:31:24,392 --> 01:31:26,767
-general de las legiones Félix,
-
-769
-01:31:26,850 --> 01:31:30,225
-leal servidor del verdadero emperador,
-Marco Aurelio,
-
-770
-01:31:31,392 --> 01:31:33,600
-padre de un hijo asesinado,
-
-771
-01:31:34,100 --> 01:31:36,475
-marido de una mujer asesinada,
-
-772
-01:31:36,767 --> 01:31:40,392
-y me vengaré, en esta vida o en la próxima.
-
-773
-01:31:47,392 --> 01:31:48,850
-¡Armas!
-
-774
-01:32:01,975 --> 01:32:05,392
-¡Que viva!
-
-775
-01:32:52,517 --> 01:32:55,433
-¡Guardias, bajad las armas!
-
-776
-01:33:47,725 --> 01:33:52,350
-¡Máximo!
-
-777
-01:34:16,808 --> 01:34:18,725
-¿Por qué sigue vivo?
-
-778
-01:34:19,975 --> 01:34:21,600
-No lo sé.
-
-779
-01:34:21,975 --> 01:34:23,767
-No debería estar vivo.
-
-780
-01:34:24,517 --> 01:34:25,808
-Eso me molesta.
-
-781
-01:34:27,642 --> 01:34:29,308
-Me saca de quicio.
-
-782
-01:34:40,558 --> 01:34:41,850
-Padre.
-
-783
-01:34:43,183 --> 01:34:47,267
-Si nuestro padre se hubiera salido con
-la suya, el imperio estaría desmembrado.
-
-784
-01:34:47,350 --> 01:34:48,808
-Te das cuenta.
-
-785
-01:34:49,142 --> 01:34:50,683
+01:27:35,447 --> 01:27:36,514
 Sí.
 
+729
+01:27:37,349 --> 01:27:39,510
+Decían que eras un gigante.
+
+730
+01:27:39,618 --> 01:27:42,644
+Que podías aplastar el cráneo
+de un hombre con una sola mano.
+
+731
+01:27:42,755 --> 01:27:44,746
+¿El cráneo de un hombre? No.
+
+732
+01:27:45,891 --> 01:27:47,722
+El de un niño.
+
+733
+01:27:49,361 --> 01:27:52,660
+- ¿Tienen buenos caballos en Hispania?
+- Algunos de los mejores.
+
+734
+01:27:53,766 --> 01:27:56,895
+Éste es Argento y éste es Escarto.
+
+735
+01:27:58,305 --> 01:28:00,364
+Eran mis caballos.
+
+736
+01:28:01,107 --> 01:28:04,543
+- Me los quitaron.
+- Me caes bien, español.
+
+737
+01:28:05,679 --> 01:28:08,705
+- Te alentaré.
+- ¿Te dejan ver los juegos?
+
+738
+01:28:08,815 --> 01:28:11,978
+- Mi tío dice que me fortalece.
+- ¿Y qué dice tu padre?
+
+739
+01:28:12,085 --> 01:28:13,916
+Mi padre ha muerto.
+
+740
+01:28:15,789 --> 01:28:17,757
+Amo Lucio, ya es hora.
+
+741
+01:28:19,125 --> 01:28:21,650
+- Debo irme.
+- ¿Te llamas Lucio?
+
+742
+01:28:24,297 --> 01:28:26,891
+Lucio Vero, como mi padre.
+
+743
+01:28:57,431 --> 01:28:59,160
+Bajen.
+
+744
+01:29:04,473 --> 01:29:07,340
+- Claudio.
+- ¿Sí, señor?
+
+745
+01:29:07,442 --> 01:29:09,410
+Más escudos.
+
+746
+01:29:28,930 --> 01:29:30,989
+Cuando entra el emperador...
+
+747
+01:29:31,099 --> 01:29:35,127
+...levantan las armas,
+lo saludan y luego hablan a coro.
+
+748
+01:29:36,673 --> 01:29:40,006
+Miren de frente al emperador.
+No le den la espalda.
+
+749
+01:29:41,210 --> 01:29:43,678
+Salgan y mueran con honor.
+
+750
+01:30:39,503 --> 01:30:41,495
+Ave poderoso César.
+
+751
+01:30:51,716 --> 01:30:54,378
+Quienes estamos por
+morir te saludamos.
+
+752
+01:30:56,287 --> 01:30:58,255
+En este día...
+
+753
+01:30:58,823 --> 01:31:01,724
+...nos remontamos
+a la santa antigüedad...
+
+754
+01:31:02,727 --> 01:31:06,219
+...para brindarles una recreación
+de la segunda caída...
+
+755
+01:31:06,331 --> 01:31:08,196
+...de la poderosa Cartago.
+
+756
+01:31:11,970 --> 01:31:16,237
+El ejército invencible
+del bárbaro Aníbal...
+
+757
+01:31:17,143 --> 01:31:20,010
+...estaba en la árida llanura...
+
+758
+01:31:20,546 --> 01:31:23,344
+...de Zama.
+
+759
+01:31:23,916 --> 01:31:27,010
+Eran guerreros y mercenarios feroces...
+
+760
+01:31:27,119 --> 01:31:29,644
+...de todas las naciones salvajes...
+
+761
+01:31:29,755 --> 01:31:32,189
+...decididos a conquistar y destruir...
+
+762
+01:31:32,992 --> 01:31:35,927
+...sin piedad.
+
+763
+01:31:37,229 --> 01:31:40,858
+Su emperador
+se complace en brindarles...
+
+764
+01:31:40,966 --> 01:31:44,367
+...la horda bárbara.
+
+765
+01:31:52,612 --> 01:31:55,240
+- ¿Alguno ha estado en el ejército?
+- Sí.
+
+766
+01:31:55,348 --> 01:31:57,748
+Te serví en Vindobona.
+
+767
+01:31:58,652 --> 01:32:00,620
+Puedes ayudarme.
+
+768
+01:32:01,454 --> 01:32:03,445
+Salga lo que salga de esas rejas...
+
+769
+01:32:04,658 --> 01:32:07,559
+...tenemos más chances de sobrevivir
+si trabajamos juntos.
+
+770
+01:32:08,762 --> 01:32:10,730
+¿Entienden?
+
+771
+01:32:12,699 --> 01:32:14,860
+Si permanecemos juntos, sobrevivimos.
+
+772
+01:32:14,968 --> 01:32:21,568
+Me complace traerles a los
+legionarios de Escipión el Africano.
+
+773
+01:32:32,820 --> 01:32:34,788
+Hasta la muerte.
+
+774
+01:32:44,365 --> 01:32:45,923
+No se separen.
+
+775
+01:32:51,740 --> 01:32:53,537
+Agrúpense.
+
+776
+01:32:55,410 --> 01:32:56,604
+Filas escalonadas.
+
+777
+01:32:57,312 --> 01:32:58,904
+Filas escalonadas.
+
+778
+01:33:10,859 --> 01:33:13,760
+- Pronto tus hombres morirán.
+- No tienes posibilidades.
+
+779
+01:33:25,875 --> 01:33:29,436
+- Junten los escudos en uno.
+- En uno.
+
+780
+01:33:29,545 --> 01:33:31,035
+Aguanten.
+
+781
+01:33:34,884 --> 01:33:36,181
+En uno.
+
+782
+01:33:39,289 --> 01:33:41,018
+Bien hecho.
+
+783
+01:33:52,535 --> 01:33:54,002
+Aguanten.
+
+784
+01:33:54,203 --> 01:33:55,796
+Un rombo.
+
+785
+01:34:15,459 --> 01:34:16,687
+Haken.
+
 786
-01:34:55,308 --> 01:34:58,100
-¿Qué sentiste al verlo?
+01:34:40,819 --> 01:34:44,346
+Esta columna a los carros.
+Esta otra se queda conmigo.
 
 787
-01:35:00,642 --> 01:35:01,975
-No sentí nada.
+01:34:47,993 --> 01:34:49,722
+Rápido.
 
 788
-01:35:04,517 --> 01:35:06,558
-Te hizo mucho daño, ¿verdad?
+01:34:49,828 --> 01:34:51,796
+- Fuera.
+- De prisa.
 
 789
-01:35:07,892 --> 01:35:10,017
-No más del que yo le hice a él.
+01:35:47,421 --> 01:35:49,446
+Una sola columna.
 
 790
-01:35:14,725 --> 01:35:16,642
-Me mintieron en la Germania.
+01:36:35,103 --> 01:36:36,764
+Ganamos.
 
 791
-01:35:18,558 --> 01:35:20,600
-Me dijeron que estaba muerto.
+01:36:41,710 --> 01:36:43,905
+No recuerdo bien la historia, Casio.
 
 792
-01:35:22,558 --> 01:35:25,100
-Si me mienten, no me respetan.
+01:36:45,013 --> 01:36:48,039
+Pero ¿los bárbaros no
+deberían perder en Cartago?
 
 793
-01:35:25,183 --> 01:35:27,683
-Si no me respetan,
-¿cómo pueden quererme?
+01:36:48,150 --> 01:36:49,811
+Sí, señor.
 
 794
-01:35:29,850 --> 01:35:32,392
-Entonces debes anunciar a las legiones
+01:36:51,987 --> 01:36:55,980
+- Discúlpame, señor.
+- No, disfruto más las sorpresas.
 
 795
-01:35:32,475 --> 01:35:35,642
-que su traición no quedará impune.
+01:36:56,658 --> 01:37:00,890
+- ¿Quién es él?
+- Lo llaman "el español", señor.
 
 796
-01:35:36,475 --> 01:35:37,808
-Pobre hermana.
+01:37:03,632 --> 01:37:06,260
+- Quiero conocerlo.
+- Sí, señor.
 
 797
-01:35:38,267 --> 01:35:40,850
-No quisiera ser tu enemigo.
+01:37:09,104 --> 01:37:11,164
+Vivan los bárbaros.
 
 798
-01:35:41,933 --> 01:35:43,767
-¿Qué vas a hacer?
+01:37:26,022 --> 01:37:28,957
+Adelante.
 
 799
-01:35:56,725 --> 01:35:57,892
-Por aquí.
+01:37:42,873 --> 01:37:44,841
+Arrojen sus armas.
 
 800
-01:36:33,142 --> 01:36:36,683
-Las ricas pagan bien por gozar
-de las atenciones de los campeones.
+01:37:48,546 --> 01:37:51,071
+Gladiador,
+el emperador quiere verte.
 
 801
-01:36:36,767 --> 01:36:39,683
-Sabía que tu hermano enviaría a un asesino.
+01:37:52,216 --> 01:37:53,740
+Estoy a sus órdenes.
 
 802
-01:36:39,767 --> 01:36:42,433
-No se me ocurrió que enviaría al mejor.
+01:38:21,046 --> 01:38:22,445
+De pie.
 
 803
-01:36:43,850 --> 01:36:45,933
-Máximo, él no sabe nada.
+01:38:32,791 --> 01:38:34,725
+Tu fama es bien merecida, español.
 
 804
-01:36:46,892 --> 01:36:50,183
-Mi familia fue quemada
-y crucificada en vida.
+01:38:34,826 --> 01:38:37,795
+Creo que nunca ha existido
+un gladiador que te iguale.
 
 805
-01:36:50,267 --> 01:36:52,683
-- No sabía nada...
-- ¡No me mientas!
+01:38:37,896 --> 01:38:40,558
+Este joven insiste con que
+eres Héctor reencarnado.
 
 806
-01:36:59,142 --> 01:37:00,892
-He llorado su muerte.
+01:38:40,665 --> 01:38:43,065
+¿O era Hércules?
 
 807
-01:37:00,975 --> 01:37:04,808
-¿Como lloraste la de tu padre?
+01:38:43,568 --> 01:38:46,901
+¿Por qué el héroe no se da a conocer
+y nos dice su verdadero nombre?
 
 808
-01:37:04,892 --> 01:37:08,600
-Desde aquel día vivo presa del miedo.
+01:38:49,342 --> 01:38:53,802
+- ¿Tienes nombre?
+- Me llamo Gladiador.
 
 809
-01:37:08,975 --> 01:37:12,767
-No poder llorar a tu padre
-por miedo a tu hermano.
+01:38:56,882 --> 01:38:58,873
+¿Cómo osas darme la espalda?
 
 810
-01:37:13,933 --> 01:37:18,933
-Vivir aterrorizada el día entero...
-porque tu hijo es el heredero al trono.
+01:38:59,285 --> 01:39:00,752
+Esclavo.
 
 811
-01:37:21,808 --> 01:37:23,225
-Claro que he llorado.
+01:39:01,854 --> 01:39:04,846
+Te quitarás el yelmo
+y me dirás tu nombre.
 
 812
-01:37:24,558 --> 01:37:27,350
-Mi hijo era inocente.
+01:39:16,569 --> 01:39:18,730
+Me llamo Máximo Décimo Meridio...
 
 813
-01:37:28,142 --> 01:37:30,183
-También lo es el mío.
+01:39:19,605 --> 01:39:23,098
+...comandante de los ejército del norte,
+general de las Legiones Félix.
 
 814
-01:37:32,183 --> 01:37:35,683
-¿Acaso también tiene que morir mi hijo
-para que confíes en mí?
+01:39:24,077 --> 01:39:27,046
+Leal súbdito de Marco Aurelio,
+el verdadero emperador.
 
 815
-01:37:36,892 --> 01:37:39,850
-¿Qué importancia
-tiene si confío en ti o no?
+01:39:28,782 --> 01:39:31,216
+Padre de un hijo asesinado...
 
 816
-01:37:40,683 --> 01:37:43,808
-Los dioses te han salvado la vida.
-¿No lo comprendes?
+01:39:31,318 --> 01:39:33,912
+...marido de una mujer asesinada...
 
 817
-01:37:43,892 --> 01:37:47,225
-Hoy he visto a un esclavo más poderoso
-que el emperador de Roma.
+01:39:34,021 --> 01:39:36,046
+...y tendré mi venganza.
 
 818
-01:37:47,308 --> 01:37:49,058
-¿Los dioses me han salvado?
+01:39:36,156 --> 01:39:38,147
+En esta vida o en la próxima.
 
 819
-01:37:49,142 --> 01:37:52,725
-Estoy a su merced, sin más poder
-que el de divertir a la plebe.
+01:39:44,765 --> 01:39:45,993
+Desenvainen.
 
 820
-01:37:52,808 --> 01:37:54,267
-Eso es poder.
+01:39:59,147 --> 01:40:01,945
+¡Que vivan! ¡Que vivan! ¡Que vivan!
 
 821
-01:37:54,808 --> 01:37:55,808
-La plebe es Roma.
+01:40:49,932 --> 01:40:52,400
+Bajen las armas.
 
 822
-01:37:55,892 --> 01:37:59,767
-Y mientras Cómodo la controle,
-lo controlará todo.
+01:42:37,588 --> 01:42:38,919
+Padre.
 
 823
-01:37:59,850 --> 01:38:01,517
-Escúchame.
+01:43:52,809 --> 01:43:54,777
+¿Por qué sigue vivo?
 
 824
-01:38:01,933 --> 01:38:04,850
-Mi hermano tiene enemigos,
-sobre todo en el senado.
+01:43:56,045 --> 01:43:58,013
+No lo sé.
 
 825
-01:38:05,183 --> 01:38:07,517
-Pero mientras el pueblo le siga,
+01:43:58,114 --> 01:44:00,241
+No debería estarlo.
 
 826
-01:38:07,600 --> 01:38:10,767
-nadie se atreverá a enfrentarse a él,
-hasta aparecer tú.
+01:44:00,350 --> 01:44:02,318
+Me molesta.
 
 827
-01:38:11,600 --> 01:38:13,892
-Se oponen a él, pero no hacen nada.
+01:44:03,553 --> 01:44:05,680
+Estoy muy molesto.
 
 828
-01:38:13,975 --> 01:38:17,808
-Hay algunos políticos
-que han dedicado su vida a Roma.
+01:44:16,814 --> 01:44:18,475
+Hice lo que debía hacer.
 
 829
-01:38:17,892 --> 01:38:19,558
-Sobre todo un hombre.
+01:44:19,516 --> 01:44:23,509
+De haber sido como quería nuestro padre,
+el imperio se habría desmoronado.
 
 830
-01:38:20,683 --> 01:38:23,892
-Si puedo arreglarlo, ¿hablarás con él?
+01:44:23,620 --> 01:44:25,611
+¿Te das cuenta?
 
 831
-01:38:23,975 --> 01:38:25,892
-¿Es que no lo comprendes?
+01:44:25,723 --> 01:44:27,213
+Sí.
 
 832
-01:38:26,183 --> 01:38:30,517
-Puedo morir en esta celda esta noche,
-o mañana, en la arena. ¡Soy un esclavo!
+01:44:31,795 --> 01:44:34,855
+¿Qué sentiste cuando lo viste?
 
 833
-01:38:30,600 --> 01:38:33,142
-¿Qué puedo hacer yo?
+01:44:37,101 --> 01:44:39,069
+Nada.
 
 834
-01:38:33,517 --> 01:38:35,725
-Este hombre quiere lo que tú.
+01:44:40,704 --> 01:44:43,002
+Te lastimó mucho, ¿verdad?
 
 835
-01:38:35,808 --> 01:38:38,100
-¡Entonces que mate a Cómodo!
+01:44:44,341 --> 01:44:46,902
+No más que yo a él.
 
 836
-01:38:40,642 --> 01:38:42,433
-Una vez conocí a un hombre,
+01:44:50,982 --> 01:44:53,177
+En Germania me mintieron.
 
 837
-01:38:43,350 --> 01:38:44,767
-un hombre noble.
+01:44:54,886 --> 01:44:57,047
+Me dijeron que había muerto.
 
 838
-01:38:45,642 --> 01:38:48,558
-Un hombre de principios
-que amaba a mi padre,
+01:44:58,990 --> 01:45:01,458
+Si me mienten, no me respetan.
 
 839
-01:38:49,558 --> 01:38:51,600
-y mi padre lo amaba a él.
+01:45:01,559 --> 01:45:04,528
+Si no me respetan,
+¿cómo podrán amarme alguna vez?
 
 840
-01:38:53,558 --> 01:38:55,767
-Ese hombre sirvió bien a Roma.
+01:45:06,331 --> 01:45:12,668
+Entonces debes decirle a las legiones
+que su traición no quedará impune.
 
 841
-01:38:59,933 --> 01:39:01,808
-Ese hombre ya no existe.
+01:45:12,771 --> 01:45:16,104
+Pobre hermana,
+no quisiera ser tu enemigo.
 
 842
-01:39:03,017 --> 01:39:04,933
-Tu hermano hizo bien su trabajo.
+01:45:18,277 --> 01:45:20,245
+¿Qué harás?
 
 843
-01:39:05,017 --> 01:39:06,892
-Déjame que te ayude.
+01:45:33,059 --> 01:45:34,720
+Por aquí.
 
 844
-01:39:12,808 --> 01:39:15,892
-Sí, puedes ayudarme.
+01:46:09,563 --> 01:46:12,760
+Las matronas ricas pagan por gozar
+con los campeones valientes.
 
 845
-01:39:19,058 --> 01:39:22,975
-Olvídate de mí y no vuelvas aquí nunca más.
+01:46:12,866 --> 01:46:15,391
+Sabía que tu hermano enviaría asesinos.
 
 846
-01:39:26,558 --> 01:39:29,225
-¡Guardia! La señora ya se marcha.
+01:46:16,236 --> 01:46:18,227
+No me di cuenta de
+que enviaría al mejor.
 
 847
-01:39:58,017 --> 01:39:59,142
-Máximo.
+01:46:20,507 --> 01:46:22,475
+Máximo, él no lo sabe.
 
 848
-01:40:00,100 --> 01:40:02,975
-¿Dirigiste legiones?
-¿Lograste muchas victorias?
+01:46:23,377 --> 01:46:26,710
+Mi familia fue
+quemada y crucificada viva.
 
 849
-01:40:04,100 --> 01:40:06,142
-- Sí.
-- ¿En la Germania?
+01:46:26,814 --> 01:46:29,214
+- Yo no sabía nada.
+- No me mientas.
 
 850
-01:40:07,975 --> 01:40:09,933
-En muchos países.
+01:46:35,923 --> 01:46:38,858
+- Lloré por ellos.
+- ¿Como lloraste por tu padre?
 
 851
-01:40:11,392 --> 01:40:12,808
-¡General!
+01:46:39,794 --> 01:46:41,625
+¿Como lloraste por tu padre?
 
 852
-01:41:01,933 --> 01:41:03,767
-Tienes una gran fama.
+01:46:41,729 --> 01:46:45,028
+He vivido presa de la
+angustia desde ese día.
 
 853
-01:41:05,183 --> 01:41:08,183
-Tendrá que matar tu fama
-antes de matarte a ti.
+01:46:45,566 --> 01:46:48,535
+Sin poder llorar a mi padre
+por miedo a mi hermano.
 
 854
-01:41:17,183 --> 01:41:18,600
-Sí, al final del todo.
+01:46:50,505 --> 01:46:53,474
+Vivo constantemente aterrada...
 
 855
-01:41:18,683 --> 01:41:20,600
-- Senador Cayo.
-- Hola.
+01:46:53,574 --> 01:46:56,305
+...porque mi hijo es el
+heredero del trono.
 
 856
-01:41:21,142 --> 01:41:23,058
-Senador Graco.
+01:46:58,180 --> 01:47:00,671
+He llorado.
 
 857
-01:41:24,683 --> 01:41:27,933
-No es habitual verte
-disfrutando de los placeres del vulgo.
+01:47:00,782 --> 01:47:03,979
+Mi hijo era inocente.
 
 858
-01:41:28,017 --> 01:41:31,267
-No pretendo ser
-uno más del pueblo, senador,
+01:47:04,920 --> 01:47:06,888
+El mío también.
 
 859
-01:41:31,350 --> 01:41:34,183
-pero trato de ser
-un hombre al servicio del pueblo.
+01:47:08,690 --> 01:47:11,181
+¿Acaso debe morir
+para que confíes en mí?
 
 860
-01:41:49,975 --> 01:41:54,642
-¡César!
+01:47:13,529 --> 01:47:15,895
+¿Qué importa si confío o no en ti?
 
 861
-01:41:59,975 --> 01:42:01,475
-¡Pueblo de Roma!
+01:47:17,166 --> 01:47:19,896
+Los dioses se han apiadado de ti.
+¿No lo entiendes?
 
 862
-01:42:03,892 --> 01:42:06,183
-En el cuarto día de Antioquía,
+01:47:20,002 --> 01:47:23,631
+Hoy vi a un esclavo que se hacía
+más poderoso que el emperador de Roma.
 
 863
-01:42:06,850 --> 01:42:11,058
-celebramos la jornada 64 de los juegos.
+01:47:23,739 --> 01:47:25,604
+¿Los dioses se han apiadado de mí?
 
 864
-01:42:11,975 --> 01:42:16,017
-Y en su majestuosa magnanimidad,
+01:47:25,707 --> 01:47:29,144
+Estoy a su merced, con el único
+poder de divertir a la plebe.
 
 865
-01:42:16,975 --> 01:42:21,225
-el emperador ha designado este día
-para obsequiar al pueblo de Roma
+01:47:29,245 --> 01:47:32,146
+Eso es el poder. La plebe es Roma.
 
 866
-01:42:21,683 --> 01:42:25,225
-con un combate final histórico.
+01:47:32,248 --> 01:47:35,115
+Mientras Cómodo la controle,
+controlará todo.
 
 867
-01:42:25,975 --> 01:42:30,433
-De regreso en el Coliseo,
-tras cinco años de ausencia
+01:47:36,553 --> 01:47:38,521
+Escúchame.
 
 868
-01:42:31,975 --> 01:42:35,350
-el César se complace en ofreceros
+01:47:38,621 --> 01:47:41,784
+Mi hermano tiene enemigos.
+La mayoría está en el senado.
 
 869
-01:42:35,433 --> 01:42:39,183
-al único campeón invicto
+01:47:41,891 --> 01:47:43,859
+Pero mientras el pueblo lo siga...
 
 870
-01:42:39,267 --> 01:42:41,308
-de la historia de Roma:
+01:47:43,960 --> 01:47:46,656
+...nadie se atreverá a enfrentarlo,
+excepto tú.
 
 871
-01:42:41,392 --> 01:42:46,225
-¡El legendario Tigris el Galo!
+01:47:48,064 --> 01:47:50,396
+Se oponen y sin embargo no hacen nada.
 
 872
-01:43:08,017 --> 01:43:11,183
-Sabe perfectamente
-cómo manipular a la plebe.
+01:47:50,500 --> 01:47:54,231
+Hay algunos políticos que han
+consagrado su vida a Roma.
 
 873
-01:43:11,267 --> 01:43:13,892
-Marco Aurelio tenía un sueño
-que era Roma, Próximo.
+01:47:54,337 --> 01:47:56,305
+Uno de ellos, sobre todo.
 
 874
-01:43:13,975 --> 01:43:16,725
-No era esto.
+01:47:57,173 --> 01:48:00,267
+Si puedo organizarlo,
+¿te reunirás con él?
 
 875
-01:43:16,808 --> 01:43:19,600
-Marco Aurelio está muerto, Máximo.
+01:48:00,711 --> 01:48:02,679
+¿Acaso no comprendes?
 
 876
-01:43:20,392 --> 01:43:23,225
-Nosotros, los mortales,
-somos solo sombras y polvo.
+01:48:02,780 --> 01:48:06,978
+Puedo morir esta noche en esta celda
+o mañana en la arena. Soy un esclavo.
 
 877
-01:43:23,725 --> 01:43:25,850
-¡Sombras y polvo, Máximo!
+01:48:07,084 --> 01:48:09,416
+¿En qué podría yo cambiar las cosas?
 
 878
-01:43:25,933 --> 01:43:29,808
-Representando al liceo de púgiles
-de Antonio Próximo,
+01:48:10,087 --> 01:48:12,055
+Este hombre quiere lo mismo que tú.
 
 879
-01:43:29,892 --> 01:43:33,517
-César se complace en ofreceros,
+01:48:12,156 --> 01:48:14,351
+Entonces, que él mate a Cómodo.
 
 880
-01:43:33,600 --> 01:43:37,392
-¡a Elio Máximo!
+01:48:17,161 --> 01:48:19,755
+Una vez conocí a un hombre...
 
 881
-01:43:50,100 --> 01:43:52,600
-Lo reciben como si fuera uno de ellos.
+01:48:19,863 --> 01:48:25,199
+...a un hombre noble, con principios,
+que adoraba a mi padre.
 
 882
-01:43:52,683 --> 01:43:56,600
-La plebe es muy caprichosa.
-Dentro de un mes, ni se acordarán de él.
+01:48:26,103 --> 01:48:28,071
+Y mi padre lo adoraba a él.
 
 883
-01:43:59,308 --> 01:44:02,350
-No. Mucho antes que eso.
+01:48:30,140 --> 01:48:32,438
+Ese hombre sirvió bien a Roma.
 
 884
-01:44:04,267 --> 01:44:05,975
-Ya me encargué de ello.
+01:48:36,548 --> 01:48:38,516
+Ese hombre ha desaparecido.
 
 885
-01:44:24,350 --> 01:44:27,308
-Los que van a morir te saludan.
+01:48:39,517 --> 01:48:42,816
+- Tu hermano hizo bien su trabajo.
+- Déjame ayudarte.
 
 886
-01:44:30,683 --> 01:44:32,475
-¡Estamos contigo, Máximo!
+01:48:49,163 --> 01:48:51,996
+Sí, puedes hacerlo.
 
 887
-01:45:15,183 --> 01:45:16,600
-¡Sigue, acaba con él!
+01:48:55,503 --> 01:48:59,132
+Olvida que alguna vez me conociste
+y nunca más regreses aquí.
 
 888
-01:45:45,225 --> 01:45:46,808
-¡Tirad, tirad!
+01:49:03,011 --> 01:49:05,605
+Guardia.
+La dama ya ha terminado conmigo.
 
 889
-01:45:48,058 --> 01:45:49,225
-¡Remátalo!
+01:49:34,243 --> 01:49:36,211
+¿Cómo te llamas?
 
 890
-01:46:19,267 --> 01:46:20,767
-¡Soltad! ¡Soltad!
+01:49:38,848 --> 01:49:40,577
+Juliano Craso.
 
 891
-01:46:48,850 --> 01:46:50,975
-- ¡Destrípalo!
-- ¡Mátalo!
+01:49:46,056 --> 01:49:47,683
+¿Tu nombre?
 
 892
-01:46:52,517 --> 01:46:56,017
-¡Muerte!
+01:49:48,591 --> 01:49:50,218
+Marco, señor.
 
 893
-01:47:56,433 --> 01:47:58,433
-¡Máximo el Misericordioso!
+01:49:50,760 --> 01:49:52,728
+Como mi padre.
 
 894
-01:48:07,683 --> 01:48:12,433
-¡Máximo!
+01:50:00,136 --> 01:50:02,229
+Deben de haber sabido
+que Máximo huyó...
 
 895
-01:48:20,142 --> 01:48:22,725
-¡Adelante, armas listas!
+01:50:02,338 --> 01:50:04,806
+...cuando hallaron los cuatro cuerpos.
 
 896
-01:48:53,392 --> 01:48:55,600
-¿Qué voy a hacer contigo?
+01:50:05,842 --> 01:50:07,969
+Pensaron que fue una incursión bárbara.
 
 897
-01:48:56,767 --> 01:49:00,392
-Simplemente no quieres morir.
+01:50:09,379 --> 01:50:12,281
+Son buenos hombres, señor.
+Leales al emperador.
 
 898
-01:49:05,142 --> 01:49:07,558
-¿Acaso somos muy diferentes, tú y yo?
+01:50:20,024 --> 01:50:21,924
+Carguen las flechas.
 
 899
-01:49:08,475 --> 01:49:11,600
-Tú matas cuando tienes que hacerlo
-y yo también.
+01:50:29,100 --> 01:50:31,068
+Prepárense para disparar.
 
 900
-01:49:12,808 --> 01:49:17,017
-Solo me falta una persona por matar
-y habré terminado.
+01:50:51,723 --> 01:50:54,817
+Entonces quizá fuiste tú quien sabía.
 
 901
-01:49:17,100 --> 01:49:18,767
-Entonces hazlo ahora.
+01:50:55,794 --> 01:50:58,922
+- Y nunca me lo dijiste.
+- No lo sabía.
 
 902
-01:49:31,808 --> 01:49:33,850
-Me dijeron que tu hijo
+01:50:59,030 --> 01:51:01,055
+¿No lo sabías?
 
 903
-01:49:34,600 --> 01:49:38,475
-chilló como una niña
-cuando lo clavaron en la cruz.
+01:51:01,166 --> 01:51:04,135
+Pero un general
+siempre es quien controla.
 
 904
-01:49:40,683 --> 01:49:42,517
-Y tu mujer...
+01:51:05,737 --> 01:51:07,705
+Siempre está al mando.
 
 905
-01:49:43,558 --> 01:49:45,683
-gimió como una puta...
+01:51:08,440 --> 01:51:10,271
+¿No?
 
 906
-01:49:46,600 --> 01:49:51,267
-cuando la violaron una y otra vez...
+01:51:10,876 --> 01:51:12,673
+Sí, César.
 
 907
-01:49:52,475 --> 01:49:53,975
-y otra vez.
+01:51:26,259 --> 01:51:29,092
+Entonces, da la orden. Dilo.
 
 908
-01:49:59,267 --> 01:50:02,975
-Pronto acabará tu momento de esplendor,
+01:51:45,945 --> 01:51:47,435
+Fuego.
 
 909
-01:50:07,475 --> 01:50:08,892
-Alteza.
+01:52:08,511 --> 01:52:11,344
+Sí, puedes hacerlo.
 
 910
-01:50:23,183 --> 01:50:26,267
-¡Máximo, Máximo!
+01:52:21,973 --> 01:52:23,304
+¿Máximo?
 
 911
-01:50:36,558 --> 01:50:37,683
-¡General!
+01:52:24,042 --> 01:52:26,977
+¿Comandaste legiones?
+¿Tuviste muchas victorias?
 
 912
-01:50:38,725 --> 01:50:39,850
-¡General!
+01:52:28,046 --> 01:52:30,014
+- Sí.
+- ¿En Germania?
 
 913
-01:50:40,558 --> 01:50:43,642
-¡General! ¡General! ¡General!
+01:52:31,949 --> 01:52:33,917
+En muchos lugares.
 
 914
-01:50:44,433 --> 01:50:46,100
-- ¡General!
-- ¡Cicerón!
+01:52:35,553 --> 01:52:37,111
+General.
 
 915
-01:50:50,933 --> 01:50:54,058
-¡General! ¡General!
+01:53:25,604 --> 01:53:27,698
+Tienes un gran nombre.
 
 916
-01:50:54,183 --> 01:50:56,558
-- ¿Dónde estáis acampados?
-- En Ostia.
+01:53:29,309 --> 01:53:32,107
+Debe matar a tu nombre
+antes de que te mate a ti.
 
 917
-01:51:02,892 --> 01:51:05,850
-- ¡Te queremos, Máximo!
-- ¡Aclamad al vencedor!
+01:53:41,254 --> 01:53:42,812
+Sí, al final de todo.
 
 918
-01:51:05,933 --> 01:51:08,642
-Di a los hombres que su general
-está vivo. Buscadme.
+01:53:42,922 --> 01:53:45,015
+- Senador Gayo.
+- Hola.
 
 919
-01:51:08,725 --> 01:51:10,183
-- ¡Moveos!
-- ¡Buscadme!
+01:53:45,125 --> 01:53:46,820
+Senador Graco.
 
 920
-01:51:36,350 --> 01:51:38,308
-¿Te oyen?
+01:53:48,695 --> 01:53:52,028
+No se te ve a menudo disfrutando
+de los placeres del populacho.
 
 921
-01:51:41,767 --> 01:51:45,392
-- ¿Quiénes?
-- Tu familia, en la otra vida.
+01:53:52,132 --> 01:53:54,623
+No pretendo ser del pueblo, senador.
 
 922
-01:51:47,725 --> 01:51:50,225
-- Sí.
-- ¿Qué les dices?
+01:53:55,401 --> 01:53:57,801
+Pero sí intento servirlo.
 
 923
-01:51:54,017 --> 01:51:55,600
-A mi hijo...
+01:54:23,564 --> 01:54:25,759
+Pueblo de Roma.
 
 924
-01:51:57,392 --> 01:51:59,850
-le digo que pronto volveré a verlo,
+01:54:27,868 --> 01:54:30,837
+En el cuarto día de Antioquía...
 
 925
-01:51:59,933 --> 01:52:03,725
-y que no levante los talones
-cuando monte a caballo.
+01:54:30,938 --> 01:54:35,842
+...celebramos
+el 64to. día de los juegos.
 
 926
-01:52:04,767 --> 01:52:06,392
-A mi mujer...
+01:54:35,944 --> 01:54:40,040
+Y, con su majestuosa caridad...
 
 927
-01:52:08,767 --> 01:52:10,933
-no es asunto tuyo.
+01:54:40,982 --> 01:54:44,941
+...el emperador ha otorgado este día
+al pueblo de Roma para honrarlo...
 
 928
-01:52:18,642 --> 01:52:21,767
-Y ahora adoran a Máximo
-por su misericordia.
+01:54:45,687 --> 01:54:48,815
+...con un histórico
+enfrentamiento final.
 
 929
-01:52:22,808 --> 01:52:26,767
-Así que no puedo matarlo, porque
-me haría parecer aún más despiadado.
+01:54:49,891 --> 01:54:54,385
+Tras cinco años de retiro,
+hoy regresa al coliseo...
 
 930
-01:52:27,850 --> 01:52:32,183
-Todo esto es como una gran pesadilla.
+01:54:56,031 --> 01:54:59,296
+...gracias al César...
 
 931
-01:52:33,350 --> 01:52:35,142
-Te está desafiando.
+01:54:59,401 --> 01:55:05,341
+...el único campeón invicto
+en toda la historia romana...
 
 932
-01:52:35,225 --> 01:52:38,558
-Cada una de sus victorias
-es un acto de desafío.
+01:55:05,441 --> 01:55:10,640
+...el legendario Tigre de Galia.
 
 933
-01:52:38,642 --> 01:52:42,433
-La plebe lo ve y también el senado.
+01:55:31,934 --> 01:55:35,301
+Sabe muy bien cómo manipular a la plebe.
 
 934
-01:52:43,058 --> 01:52:45,975
-Cada día que vive, se vuelven más osados.
+01:55:35,404 --> 01:55:38,101
+Marco Aurelio tuvo un
+sueño llamado Roma, Próximo.
 
 935
-01:52:47,517 --> 01:52:49,267
+01:55:38,208 --> 01:55:40,608
+No era esto.
+
+936
+01:55:40,711 --> 01:55:43,305
+Marco Aurelio ha muerto, Máximo.
+
+937
+01:55:44,581 --> 01:55:46,572
+Los mortales somos sombras y polvo.
+
+938
+01:55:47,751 --> 01:55:48,775
+Sombras y polvo.
+
+939
+01:55:48,885 --> 01:55:53,481
+Representando a la escuela
+de Antonio Próximo...
+
+940
+01:55:53,590 --> 01:55:57,026
+...el César se enorgullece
+en traerles a...
+
+941
+01:55:57,728 --> 01:56:00,754
+...Aelio Máximo.
+
+942
+01:56:14,245 --> 01:56:16,713
+Lo adoptan como si fuera uno de ellos.
+
+943
+01:56:16,814 --> 01:56:21,050
+La plebe es voluble, hermano.
+En un mes lo habrán olvidado.
+
+944
+01:56:23,254 --> 01:56:25,950
+No, mucho antes.
+
+945
+01:56:28,026 --> 01:56:30,153
+Ya ha sido arreglado.
+
+946
+01:56:48,414 --> 01:56:51,674
+Quienes estamos por
+morir te saludamos.
+
+947
+01:56:54,653 --> 01:56:56,644
+Estamos contigo, Máximo.
+
+948
+01:57:38,698 --> 01:57:40,461
+Vamos, liquídalo.
+
+949
+01:58:42,998 --> 01:58:44,590
+Suelten. Suelten.
+
+950
+01:59:12,862 --> 01:59:16,889
+- Atácalo.
+- Mátalo.
+
+951
+01:59:16,999 --> 01:59:18,967
+Mátalo.
+
+952
+02:00:20,431 --> 02:00:22,661
+Máximo el misericordioso.
+
+953
+02:00:44,590 --> 02:00:46,717
+Adelante, guardias. Listos para atacar.
+
+954
+02:01:17,557 --> 02:01:19,684
+¿Qué haré contigo?
+
+955
+02:01:20,994 --> 02:01:24,896
+No hay manera de matarte.
+
+956
+02:01:29,202 --> 02:01:31,329
+¿Somos tan distintos, tú y yo?
+
+957
+02:01:32,639 --> 02:01:35,404
+Matas cuando debes, como yo.
+
+958
+02:01:36,744 --> 02:01:40,737
+Sólo me falta matar a alguien más.
+Luego se acabó.
+
+959
+02:01:41,315 --> 02:01:43,112
+Entonces hazlo ahora.
+
+960
+02:01:55,963 --> 02:01:57,624
+Me dicen que tu hijo...
+
+961
+02:01:58,799 --> 02:02:00,994
+...chilló como una niña...
+
+962
+02:02:01,102 --> 02:02:03,070
+...cuando lo clavaron a la cruz.
+
+963
+02:02:04,872 --> 02:02:06,841
+Y que tu esposa...
+
+964
+02:02:07,743 --> 02:02:09,711
+...gimió como una prostituta...
+
+965
+02:02:10,779 --> 02:02:15,148
+...cuando la violaron una y otra...
+
+966
+02:02:16,752 --> 02:02:18,720
+...y otra vez.
+
+967
+02:02:23,425 --> 02:02:26,326
+Pronto terminará el
+tiempo para honrarte a ti mismo.
+
+968
+02:02:31,933 --> 02:02:33,264
+Alteza.
+
+969
+02:03:00,596 --> 02:03:02,564
+General.
+
+970
+02:03:05,535 --> 02:03:07,526
+- Atrás.
+- General.
+
+971
+02:03:09,338 --> 02:03:10,805
+Cicerón.
+
+972
+02:03:17,214 --> 02:03:19,239
+- General.
+- ¿Dónde acampas?
+
+973
+02:03:19,349 --> 02:03:20,543
+En Ostia.
+
+974
+02:03:26,757 --> 02:03:30,124
+- Te adoramos, Máximo.
+- Alabado sea el vencedor.
+
+975
+02:03:30,227 --> 02:03:32,320
+Dile a mis hombres que su general vive.
+
+976
+02:03:32,429 --> 02:03:34,590
+- Circula.
+- Búscame.
+
+977
+02:04:00,358 --> 02:04:02,326
+¿Pueden oírte?
+
+978
+02:04:06,030 --> 02:04:09,124
+- ¿Quiénes?
+- Tu familia, en el más allá.
+
+979
+02:04:11,970 --> 02:04:14,803
+- Oh, sí.
+- ¿Qué les dices?
+
+980
+02:04:18,144 --> 02:04:19,668
+A mi hijo...
+
+981
+02:04:21,313 --> 02:04:23,838
+...le digo que pronto lo volveré a ver.
+
+982
+02:04:23,949 --> 02:04:26,440
+Que cabalgue con el pie
+firme en el estribo.
+
+983
+02:04:28,954 --> 02:04:30,751
+Y a mi esposa...
+
+984
+02:04:32,958 --> 02:04:34,949
+No te incumbe.
+
+985
+02:04:42,794 --> 02:04:45,058
+Y ahora aman a Máximo por su piedad.
+
+986
+02:04:46,931 --> 02:04:50,026
+No puedo matarlo sin
+parecer aún más despiadado.
+
+987
+02:04:51,871 --> 02:04:55,705
+Todo esto es una pesadilla de locos.
+
+988
+02:04:57,376 --> 02:04:59,344
+Te está desafiando.
+
+989
+02:04:59,445 --> 02:05:02,505
+Cada victoria suya
+es un acto de desafío.
+
+990
+02:05:02,615 --> 02:05:06,984
+La plebe lo ve así y el senado también.
+
+991
+02:05:07,086 --> 02:05:09,816
+Cada día que viva,
+se volverán más audaces.
+
+992
+02:05:11,490 --> 02:05:13,458
 - Mátalo.
 - No.
 
-936
-01:52:51,100 --> 01:52:53,642
-No quiero convertirlo en mártir.
-
-937
-01:52:59,683 --> 01:53:03,558
-He oído hablar de una serpiente marina
-
-938
-01:53:03,642 --> 01:53:07,933
-que tiene un sistema muy particular
-de atraer a sus presas.
-
-939
-01:53:08,017 --> 01:53:11,892
-Permanece inmóvil en el fondo
-del océano, como si estuviera herida.
-
-940
-01:53:12,225 --> 01:53:15,017
-Sus enemigos se acercan
-
-941
-01:53:15,100 --> 01:53:18,225
-pero ella continúa sin moverse.
-
-942
-01:53:18,642 --> 01:53:22,433
-Entonces sus enemigos
-empiezan a mordisquearla
-
-943
-01:53:22,517 --> 01:53:25,850
-y ella sigue inmóvil.
-
-944
-01:53:28,892 --> 01:53:30,058
-Entonces
-
-945
-01:53:31,475 --> 01:53:33,725
-nosotros nos quedaremos inmóviles
-
-946
-01:53:34,017 --> 01:53:37,683
-y dejaremos que nuestros enemigos
-se acerquen y nos mordisqueen.
-
-947
-01:53:38,475 --> 01:53:40,767
-Ordena que sigan a todos los senadores.
-
-948
-01:53:53,975 --> 01:53:55,183
-Máximo.
-
-949
-01:53:58,392 --> 01:53:59,850
-Cicerón, viejo amigo.
-
-950
-01:53:59,933 --> 01:54:02,183
-Creí que nunca volvería a verte.
-
-951
-01:54:02,267 --> 01:54:04,808
-- Pensé que habías muerto.
-- Casi.
-
-952
-01:54:04,892 --> 01:54:06,517
-¿Cuánto tiempo lleváis en Ostia?
-
-953
-01:54:06,600 --> 01:54:07,808
-Todo el invierno.
-
-954
-01:54:08,142 --> 01:54:11,475
-- ¿Cómo están mis hombres?
-- Gordos y aburridos.
-
-955
-01:54:12,100 --> 01:54:15,142
-- ¿Quién está al mando?
-- Un idiota de Roma.
-
-956
-01:54:16,683 --> 01:54:18,767
-¿Cuándo podrían estar listos
-para combatir?
-
-957
-01:54:18,850 --> 01:54:20,808
-Por ti, mañana.
-
-958
-01:54:21,892 --> 01:54:24,558
-Necesito que me hagas un favor.
-
-959
-01:54:29,100 --> 01:54:30,642
-Venid a ver esto.
-
-960
-01:54:30,725 --> 01:54:33,767
-Si no habéis estado en la arena,
-podéis verlo aquí.
-
-961
-01:54:33,850 --> 01:54:37,433
-El gigante Máximo está desafiando
-a nuestro emperador Cómodo.
-
-962
-01:54:37,517 --> 01:54:40,017
-¿Qué vamos a hacer?
-Está desafiando a todo el mundo
-
-963
-01:54:40,100 --> 01:54:41,767
-haciéndole esto, hacen...
-
-964
-01:54:43,017 --> 01:54:44,433
-¡Dios mío!
-
-965
-01:54:46,183 --> 01:54:49,933
-- ¡Lo tiene dominado! ¡Está perdido!
-- ¡Abrid paso!
-
-966
-01:54:55,808 --> 01:54:58,683
-¡Señora! Serví a vuestro padre
-en Vindobona.
-
-967
-01:54:58,767 --> 01:55:00,058
-- Atrás.
-- Señora.
-
-968
-01:55:00,142 --> 01:55:02,683
-Serví a vuestro padre en Vindobona.
-
-969
-01:55:02,767 --> 01:55:03,892
-¡Atrás!
-
-970
-01:55:03,975 --> 01:55:07,017
-Y serví al general Máximo. Sigo haciéndolo.
-
-971
-01:55:08,642 --> 01:55:09,725
-Parad.
-
-972
-01:55:09,808 --> 01:55:11,308
-- Parad.
-- ¡Parad!
-
-973
-01:55:12,892 --> 01:55:14,183
-Apartaos.
-
-974
-01:55:15,558 --> 01:55:18,892
-El general quiere que os diga
-que hablará con vuestro político.
-
-975
-01:55:20,225 --> 01:55:23,517
-- Por tu lealtad, soldado.
-- Gracias, señora.
-
-976
-01:55:33,267 --> 01:55:34,683
-Déjenos solos.
-
-977
-01:55:40,308 --> 01:55:41,975
-Senador Graco.
-
-978
-01:55:55,975 --> 01:55:57,100
-General.
-
-979
-01:55:58,225 --> 01:56:00,850
-Confío en que mi visita
-sea prueba suficiente
-
-980
-01:56:00,933 --> 01:56:04,100
-de que puedes confiar en mí.
-
-981
-01:56:08,517 --> 01:56:10,850
-- ¿El senado está contigo?
-- ¿El senado?
-
-982
-01:56:12,475 --> 01:56:15,100
-Sí. Hablo en nombre de todos.
-
-983
-01:56:15,850 --> 01:56:19,058
-¿Puedes comprar mi libertad
-y sacarme de Roma?
-
-984
-01:56:19,475 --> 01:56:21,058
-¿Con qué finalidad?
-
-985
-01:56:22,350 --> 01:56:24,975
-Quiero salir de las murallas de la ciudad.
-
-986
-01:56:25,267 --> 01:56:29,225
-Necesito caballos para llegar a Ostia.
-Mi ejército está acampado allí.
-
-987
-01:56:29,308 --> 01:56:32,558
-Dentro de dos días, al caer la noche,
-volveré con 5.000 hombres.
-
-988
-01:56:32,642 --> 01:56:34,850
-Pero las legiones tienen
-comandantes nuevos,
-
-989
-01:56:34,933 --> 01:56:36,475
-leales a Cómodo.
-
-990
-01:56:36,558 --> 01:56:39,892
-Cuando mis hombres me vean vivo,
-veréis a quién son leales.
-
-991
-01:56:39,975 --> 01:56:41,558
-Es una locura.
-
-992
-01:56:42,058 --> 01:56:45,475
-Ningún ejército romano ha entrado
-en la ciudad en cien años.
-
 993
-01:56:45,558 --> 01:56:47,892
-¡No voy a cambiar una dictadura por otra!
+02:05:15,227 --> 02:05:17,388
+No lo convertiré en mártir.
 
 994
-01:56:47,975 --> 01:56:51,392
-No es hora de medias tintas
-ni de discursos, senador.
+02:05:24,838 --> 02:05:26,931
+Hoy cuando fui al senado...
 
 995
-01:56:52,017 --> 01:56:54,933
-¿Y qué ocurrirá después
-de tu glorioso golpe?
+02:05:27,040 --> 02:05:30,840
+...les hablé adrede de pagar los
+juegos con las reservas de granos.
 
 996
-01:56:56,183 --> 01:56:59,808
-¿Te marcharás con tus 5.000 soldados?
+02:05:33,780 --> 02:05:35,873
+¿Y viste qué pasó?
 
 997
-01:56:59,892 --> 01:57:01,517
-Me marcharé.
+02:05:35,982 --> 02:05:38,450
+- Nada.
+- Exactamente.
 
 998
-01:57:01,892 --> 01:57:05,933
-Los soldados se quedarán para protegeros,
-a las órdenes del senado.
+02:05:38,552 --> 02:05:39,917
+Nada.
 
 999
-01:57:06,017 --> 01:57:07,100
-Entonces,
+02:05:40,020 --> 02:05:42,454
+Ni una sola palabra de protesta.
 
 1000
-01:57:07,433 --> 01:57:11,558
-cuando tengas a Roma en tus manos,
-¿se la devolverás al pueblo?
+02:05:42,556 --> 02:05:46,117
+Hasta el insolente senador Graco
+estaba mudo como un muerto.
 
 1001
-01:57:13,183 --> 01:57:14,767
-Dime por qué.
+02:05:46,226 --> 02:05:47,693
+¿Por qué?
 
 1002
-01:57:20,142 --> 01:57:23,308
-Porque ese fue el último deseo
-de un moribundo.
+02:05:49,262 --> 02:05:52,891
+Me han contado sobre
+cierta serpiente marina...
 
 1003
-01:57:26,350 --> 01:57:28,183
-Yo mataré a Cómodo.
+02:05:52,999 --> 02:05:57,369
+...que tiene un método muy poco
+común para atraer a su víctima.
 
 1004
-01:57:30,142 --> 01:57:33,183
-El destino de Roma lo dejo en tus manos.
+02:05:57,972 --> 02:06:01,271
+Yace en el fondo del océano,
+como si estuviera herida.
 
 1005
-01:57:35,017 --> 01:57:37,350
-Marco Aurelio confió en ti.
+02:06:02,869 --> 02:06:08,296
+Sus enemigos se acercan
+y ella permanece inmóvil.
 
 1006
-01:57:39,017 --> 01:57:41,100
-Su hija confía en ti.
+02:06:09,928 --> 02:06:12,292
+Incluso pueden darle
+pequeños tarascones...
 
 1007
-01:57:45,100 --> 01:57:47,100
-Yo confiaré en ti.
+02:06:12,306 --> 02:06:17,029
+...y ella seguirá quieta.
 
 1008
-01:57:47,183 --> 01:57:49,225
-Pero tenemos poco tiempo.
+02:06:18,739 --> 02:06:23,540
+Entonces nos quedaremos quietos...
 
 1009
-01:57:49,933 --> 01:57:51,642
-Dame dos días,
+02:06:23,644 --> 02:06:27,012
+...y dejaremos que nuestros enemigos
+vengan a nosotros y muerdan.
 
 1010
-01:57:52,433 --> 01:57:54,725
-y compraré tu libertad.
+02:06:28,082 --> 02:06:30,050
+Que sigan a todos los senadores.
 
 1011
-01:57:55,392 --> 01:57:56,850
-Y tú...
+02:06:47,635 --> 02:06:51,264
+Cicerón, mi viejo amigo. Pensé que
+quizá te había visto por última vez.
 
 1012
-01:57:58,100 --> 01:57:59,892
-Tú mantente con vida,
+02:06:51,372 --> 02:06:54,569
+- Pensé que estabas muerto.
+- Casi.
 
 1013
-01:58:01,225 --> 01:58:03,058
-o soy hombre muerto.
+02:06:54,676 --> 02:06:57,372
+- ¿Llevan mucho tiempo en Ostia?
+- Todo el invierno.
 
 1014
-01:58:05,017 --> 01:58:06,475
-Tenemos que irnos.
+02:06:57,478 --> 02:07:00,676
+- ¿Y cómo están?
+- Gordos y aburridos.
 
 1015
-01:58:11,683 --> 01:58:13,058
-No funcionará.
+02:07:01,951 --> 02:07:04,784
+- ¿Quién está a cargo?
+- Un romano tonto.
 
 1016
-01:58:14,100 --> 01:58:16,308
-El emperador sabe demasiado.
+02:07:06,488 --> 02:07:09,889
+- ¿Cuándo estarían listos para pelear?
+- Por ti, mañana mismo.
 
 1017
-01:58:17,308 --> 01:58:19,142
-Y la situación,
+02:07:11,760 --> 02:07:14,160
+Necesito que me hagas un favor.
 
 1018
-01:58:20,267 --> 01:58:22,517
-se está volviendo peligrosa para mí.
+02:07:18,767 --> 02:07:20,291
+Vengan a ver. Sean testigos.
 
 1019
-01:58:23,683 --> 01:58:26,017
-Te pagaré cuando regrese.
+02:07:20,402 --> 02:07:23,371
+Si no han ido al circo,
+pueden ver la función aquí.
 
 1020
-01:58:28,100 --> 01:58:29,850
-Te doy mi palabra.
+02:07:23,472 --> 02:07:27,909
+El gigante Máximo derrota a nuestro
+emperador. ¿Qué podemos hacer?
 
 1021
-01:58:30,100 --> 01:58:33,225
-¿Tu palabra? ¿Y si no regresas?
+02:07:28,010 --> 02:07:31,241
+Está desafiando a todos.
+¿Qué estás haciendo?
 
 1022
-01:58:34,350 --> 01:58:37,392
-¿Ya no recuerdas
-lo que era la confianza, Próximo?
+02:07:35,919 --> 02:07:37,887
+¡Lo atrapó!
 
 1023
-01:58:37,475 --> 01:58:38,808
-¿La confianza?
+02:07:37,988 --> 02:07:39,888
+¡Abran paso! ¡Abran paso!
 
 1024
-01:58:43,058 --> 01:58:44,725
-¿En quién debo confiar?
+02:07:42,792 --> 02:07:44,657
+Tres barriles de vino tinto.
 
 1025
-01:58:45,225 --> 01:58:48,433
-- Mataré a Cómodo.
-- ¿Qué interés tengo yo en eso?
+02:07:45,562 --> 02:07:47,996
+¿Mi señora?
+Serví a tu padre en Vindobona.
 
 1026
-01:58:49,142 --> 01:58:51,058
-Soy rico gracias a él.
+02:07:48,098 --> 02:07:49,929
+- Atrás.
+- Mi señora.
 
 1027
-01:58:56,183 --> 01:58:59,142
-Sé que eres un hombre de palabra, general.
+02:07:50,033 --> 02:07:52,092
+Serví a tu padre en Vindobona.
 
 1028
-01:59:00,683 --> 01:59:03,225
-Sé que morirías por tu honor.
+02:07:52,202 --> 02:07:54,796
+- ¡Atrás!
+- Y serví al general Máximo.
 
 1029
-01:59:04,558 --> 01:59:06,517
-Morirías por Roma.
+02:07:54,905 --> 02:07:56,702
+Sigo haciéndolo.
 
 1030
-01:59:07,558 --> 01:59:10,808
-Morirías por tus antepasados.
+02:07:58,141 --> 02:07:59,208
+Alto.
 
 1031
-01:59:10,892 --> 01:59:13,183
-Pero yo, por el contrario...
+02:07:59,309 --> 02:08:01,277
+- Alto.
+- ¡Alto!
 
 1032
-01:59:15,933 --> 01:59:17,683
-Yo vivo del espectáculo.
+02:08:02,379 --> 02:08:04,006
+Apártense.
 
 1033
-01:59:21,100 --> 01:59:22,350
-¡Guardias!
+02:08:04,916 --> 02:08:07,646
+El general envía un mensaje.
+Verá al político.
 
 1034
-01:59:27,142 --> 01:59:29,850
-Mató al hombre que te dio tu libertad.
+02:08:09,787 --> 02:08:12,483
+- Por tu lealtad, soldado.
+- Gracias, mi señora.
 
 1035
-01:59:38,767 --> 01:59:40,558
-Pretorianos, amo.
+02:08:13,491 --> 02:08:14,856
+¡Arre!
 
 1036
-01:59:47,017 --> 01:59:48,142
-¡Alto!
+02:08:22,767 --> 02:08:24,735
+Déjanos.
 
 1037
-01:59:58,892 --> 02:00:00,683
-¿Dónde has estado?
+02:08:29,974 --> 02:08:31,771
+Senador Graco.
 
 1038
-02:00:01,058 --> 02:00:02,558
-Te he mandado llamar.
+02:08:45,324 --> 02:08:47,121
+General.
 
 1039
-02:00:04,267 --> 02:00:05,850
-Por favor, hermano.
+02:08:47,759 --> 02:08:51,752
+Espero que mi visita de hoy
+sea prueba suficiente...
 
 1040
-02:00:11,600 --> 02:00:13,433
-¿Qué es lo que te preocupa?
+02:08:51,863 --> 02:08:53,831
+...de que puedes confiar en mí.
 
 1041
-02:00:15,933 --> 02:00:18,183
-¿Acaso tiene Graco una nueva amante?
+02:08:57,936 --> 02:09:00,598
+- ¿El senado te apoya?
+- ¿El senado?
 
 1042
-02:00:20,142 --> 02:00:21,517
-No lo sé.
+02:09:02,007 --> 02:09:05,374
+Sí, puedo hablar en su nombre.
 
 1043
-02:00:23,517 --> 02:00:25,642
-Pensé que lo habías visto.
+02:09:05,477 --> 02:09:08,913
+¿Puedes comprar mi libertad y
+sacarme a escondidas de Roma?
 
 1044
-02:00:26,475 --> 02:00:29,308
-Infecta a todo el mundo
-como una fiebre inmunda.
+02:09:09,014 --> 02:09:10,983
+¿Con qué finalidad?
 
 1045
-02:00:30,892 --> 02:00:34,142
-Por el bien de Roma,
-hay que sangrar el senado.
+02:09:11,985 --> 02:09:14,783
+Salir de la ciudad.
 
 1046
-02:00:34,433 --> 02:00:36,433
-Y él también va a sangrar.
+02:09:14,887 --> 02:09:18,846
+Necesito caballos listos para llevarme
+a Ostia. Allí está mi ejército.
 
 1047
-02:00:37,308 --> 02:00:38,850
-Muy pronto.
+02:09:18,958 --> 02:09:22,519
+Al anochecer del segundo día,
+regresaré al mando de 5.000 hombres.
 
 1048
-02:00:40,225 --> 02:00:42,058
-Pero esta noche no.
+02:09:22,628 --> 02:09:25,927
+Pero las legiones tienen
+nuevos comandantes leales a Cómodo.
 
 1049
-02:00:57,058 --> 02:01:00,142
-¿Recuerdas lo que dijo nuestro padre
-en cierta ocasión?
+02:09:26,032 --> 02:09:29,433
+Cuando mis hombres sepan que
+estoy vivo, verás a quién son leales.
 
 1050
-02:01:01,142 --> 02:01:02,975
-"Es un sueño...
+02:09:29,535 --> 02:09:31,594
+Esto es una locura.
 
 1051
-02:01:04,850 --> 02:01:06,683
-un sueño espantoso...
+02:09:31,704 --> 02:09:34,673
+Ningún ejército romano ha
+entrado en Roma en cien años.
 
 1052
-02:01:09,350 --> 02:01:10,558
-la vida."
+02:09:34,774 --> 02:09:37,140
+¡No cambiaré una dictadura por otra!
 
 1053
-02:01:13,142 --> 02:01:15,267
-¿Crees que es cierto?
+02:09:37,243 --> 02:09:41,441
+Se acabó el tiempo de las medias
+tintas y los discursos, senador.
 
 1054
-02:01:16,183 --> 02:01:17,558
-No lo sé.
+02:09:41,547 --> 02:09:44,449
+Y luego de tu glorioso golpe, ¿qué?
 
 1055
-02:01:21,350 --> 02:01:22,767
-Yo creo que sí.
+02:09:45,686 --> 02:09:49,178
+¿Tomarás a tus 5.000
+guerreros y te irás?
 
 1056
-02:01:25,475 --> 02:01:28,350
-Y solo te tengo a ti para compartirla.
+02:09:49,289 --> 02:09:51,280
+Me iré yo.
 
 1057
-02:02:05,850 --> 02:02:07,350
-Abre la boca.
+02:09:51,392 --> 02:09:53,656
+Los soldados se
+quedarán para protegerlos...
 
 1058
-02:02:44,808 --> 02:02:46,600
-Sabes que te quiero.
+02:09:53,761 --> 02:09:55,388
+...bajo el mando del senado.
 
 1059
-02:02:48,475 --> 02:02:50,183
-Yo también te quiero.
+02:09:55,496 --> 02:09:58,988
+Así que cuando toda Roma sea tuya...
 
 1060
-02:03:26,892 --> 02:03:28,308
-Fuera. ¡Fuera!
+02:09:59,099 --> 02:10:01,226
+...¿simplemente
+se la devolverás al pueblo?
 
 1061
-02:03:29,600 --> 02:03:30,850
-¡Vamos!
+02:10:02,736 --> 02:10:04,599
+Dime por qué.
 
 1062
-02:03:35,517 --> 02:03:37,642
-Enhorabuena, general.
+02:10:09,601 --> 02:10:12,593
+Porque fue el último
+deseo de un moribundo.
 
 1063
-02:03:37,725 --> 02:03:40,517
-Tienes amigos muy persuasivos.
+02:10:15,842 --> 02:10:17,810
+Yo despacharé a Cómodo.
 
 1064
-02:03:46,392 --> 02:03:49,017
-Mi hermano mandó arrestar a Graco.
+02:10:19,645 --> 02:10:23,103
+Les dejo a ustedes el destino de Roma.
 
 1065
-02:03:49,100 --> 02:03:52,433
-No podemos esperar más.
-Tenemos que irnos esta noche.
+02:10:24,584 --> 02:10:26,814
+Marco Aurelio confiaba en ti.
 
 1066
-02:03:52,517 --> 02:03:56,308
-Próximo vendrá a medianoche
-y te llevará hasta la puerta.
+02:10:28,621 --> 02:10:30,589
+Su hija confía en ti.
 
 1067
-02:03:56,892 --> 02:04:00,475
-Tu criado, Cicerón,
-estará allí esperando con los caballos.
+02:10:34,694 --> 02:10:36,753
+Yo confiaré en ti.
 
 1068
-02:04:02,475 --> 02:04:04,850
-- ¿Todo esto lo has hecho tú?
-- Sí.
+02:10:36,863 --> 02:10:39,388
+Pero tenemos poco tiempo.
 
 1069
-02:04:06,142 --> 02:04:07,767
-Arriesgas demasiado.
+02:10:39,499 --> 02:10:41,524
+Dame dos días...
 
 1070
-02:04:08,725 --> 02:04:10,725
-Tengo mucho por lo que pagar.
+02:10:41,934 --> 02:10:44,027
+...y compraré tu libertad.
 
 1071
-02:04:13,267 --> 02:04:15,267
-No tienes nada por lo que pagar.
+02:10:44,770 --> 02:10:46,738
+Y tú...
 
 1072
-02:04:15,350 --> 02:04:18,475
-Quieres a tu hijo. Eres fuerte por él.
+02:10:47,674 --> 02:10:49,801
+...mantente vivo...
 
 1073
-02:04:21,683 --> 02:04:24,183
-Estoy cansada de ser fuerte.
+02:10:50,844 --> 02:10:52,812
+...o yo moriré.
 
 1074
-02:04:26,142 --> 02:04:30,392
-Mi hermano odia a todo el mundo
-y especialmente a ti.
+02:10:54,481 --> 02:10:56,108
+Ahora debemos irnos.
 
 1075
-02:04:30,725 --> 02:04:33,892
-- Porque tu padre me eligió.
-- No.
+02:11:23,044 --> 02:11:26,741
+Te estará esperando.
+Espera a los pies del coloso.
 
 1076
-02:04:35,267 --> 02:04:37,350
-Porque mi padre te quería.
+02:11:26,848 --> 02:11:28,816
+Él te hallará.
 
 1077
-02:04:41,475 --> 02:04:43,725
-Y porque yo te quise.
+02:12:12,428 --> 02:12:14,726
+No funcionará.
 
 1078
-02:04:46,475 --> 02:04:48,058
-Hace mucho tiempo.
+02:12:14,830 --> 02:12:16,855
+El emperador sabe demasiado.
 
 1079
-02:04:52,767 --> 02:04:54,933
-¿He cambiado mucho desde entonces?
+02:12:18,167 --> 02:12:20,103
+Y en cuanto a mí...
 
 1080
-02:05:01,392 --> 02:05:03,308
-Te reías más.
+02:12:21,270 --> 02:12:23,238
+...se está tornando peligroso.
 
 1081
-02:05:07,392 --> 02:05:09,683
-Toda mi vida me he sentido sola,
+02:12:24,473 --> 02:12:26,499
+Te pagarán a mi regreso.
 
 1082
-02:05:11,017 --> 02:05:12,600
-excepto contigo.
+02:12:28,545 --> 02:12:30,249
+Te doy mi palabra.
 
 1083
-02:05:15,725 --> 02:05:17,183
-Tengo que irme.
+02:12:30,874 --> 02:12:33,672
+¿Tu palabra?
+¿Y si no regresas?
 
 1084
-02:05:17,767 --> 02:05:18,933
-Sí.
+02:12:35,245 --> 02:12:38,078
+¿Recuerdas qué era
+tener confianza, Próximo?
 
 1085
-02:05:47,642 --> 02:05:48,642
-Vamos.
+02:12:38,181 --> 02:12:39,341
+¿Confianza?
 
 1086
-02:06:00,308 --> 02:06:01,725
-Te cacé.
+02:12:43,720 --> 02:12:47,781
+- ¿En quién confiaré?
+- Mataré a Cómodo.
 
 1087
-02:06:04,600 --> 02:06:06,600
-¿No es tarde para jugar a los legionarios?
+02:12:47,891 --> 02:12:49,984
+¿En qué me beneficiaría?
 
 1088
-02:06:06,683 --> 02:06:08,767
-No soy un legionario.
+02:12:50,093 --> 02:12:52,118
+Él me hace rico.
 
 1089
-02:06:09,267 --> 02:06:11,808
-- ¿No eres un legionario?
-- Soy un gladiador.
+02:12:54,731 --> 02:12:59,192
+Sé que eres un hombre de palabra,
+general.
 
 1090
-02:06:13,142 --> 02:06:14,475
-¿Un gladiador?
+02:13:01,505 --> 02:13:04,167
+Sé que morirías por honor.
 
 1091
-02:06:15,350 --> 02:06:17,975
-Los gladiadores solo luchan en los juegos.
+02:13:05,643 --> 02:13:08,237
+Que morirías por Roma.
 
 1092
-02:06:18,058 --> 02:06:21,600
-¿No preferirías ser un gran
-guerrero romano, como Julio César?
+02:13:08,345 --> 02:13:11,542
+Que morirías por la memoria
+de tus antepasados.
 
 1093
-02:06:21,683 --> 02:06:24,142
-¡Soy Máximo, el salvador de Roma!
+02:13:11,649 --> 02:13:13,583
+Pero en cambio...
 
 1094
-02:06:26,933 --> 02:06:28,725
-¿El salvador de Roma?
+02:13:16,654 --> 02:13:18,451
+...yo soy un animador.
 
 1095
-02:06:36,725 --> 02:06:38,683
-¿Quién ha dicho eso?
+02:13:21,959 --> 02:13:23,153
+¡Guardia!
 
 1096
-02:06:47,392 --> 02:06:48,892
-¿Dónde está Lucio?
+02:13:27,998 --> 02:13:30,058
+Asesinó al hombre que te liberó.
 
 1097
-02:06:50,183 --> 02:06:52,683
-Está con el emperador.
+02:13:39,544 --> 02:13:41,569
+Soldados pretorianos, amo.
 
 1098
-02:06:55,308 --> 02:06:56,517
-- No puede ser.
-- Sí.
+02:13:47,786 --> 02:13:49,014
+¡Alto!
 
 1099
-02:06:56,600 --> 02:06:58,808
-La sacó de una cesta,
+02:14:54,087 --> 02:14:56,078
+¿Dónde has estado?
 
 1100
-02:07:00,808 --> 02:07:04,725
-y se la apretó contra el pecho,
-justo aquí, sobre el corazón.
+02:14:56,189 --> 02:14:58,157
+Envié a buscarte.
 
 1101
-02:07:06,308 --> 02:07:09,642
-- ¿Le mordió en el pecho?
-- Sí.
+02:14:59,493 --> 02:15:01,461
+Por favor, hermano.
 
 1102
-02:07:10,267 --> 02:07:14,225
-Verás, Lucio, algunas veces
-las damas de la realeza
+02:15:06,833 --> 02:15:08,510
+¿Qué te perturba?
 
 1103
-02:07:14,683 --> 02:07:18,558
-se comportan de forma extraña
-y hacen cosas muy raras por amor.
+02:15:11,295 --> 02:15:13,855
+¿Graco tiene una nueva amante?
 
 1104
-02:07:18,642 --> 02:07:21,308
+02:15:15,466 --> 02:15:17,457
+No lo sé.
+
+1105
+02:15:19,170 --> 02:15:21,900
+Pensé que lo habías visto.
+
+1106
+02:15:22,006 --> 02:15:24,804
+Infecta a todos como una plaga.
+
+1107
+02:15:26,377 --> 02:15:29,835
+Por la salud de Roma,
+el senado deberá desangrarse.
+
+1108
+02:15:29,947 --> 02:15:31,778
+Y él también.
+
+1109
+02:15:32,917 --> 02:15:34,578
+Muy pronto.
+
+1110
+02:15:35,720 --> 02:15:37,688
+Pero no esta noche.
+
+1111
+02:15:52,404 --> 02:15:55,373
+¿Recuerdas qué dijo
+nuestro padre una vez?
+
+1112
+02:15:56,708 --> 02:15:58,471
+"Es un sueño...
+
+1113
+02:16:00,279 --> 02:16:02,247
+...un sueño aterrador.
+
+1114
+02:16:04,750 --> 02:16:06,718
+Eso es la vida".
+
+1115
+02:16:08,720 --> 02:16:11,018
+¿Crees que es cierto?
+
+1116
+02:16:11,657 --> 02:16:13,626
+No lo sé.
+
+1117
+02:16:16,529 --> 02:16:18,497
+Yo creo que sí.
+
+1118
+02:16:20,934 --> 02:16:23,232
+Y sólo te tengo a ti para compartirla.
+
+1119
+02:17:01,442 --> 02:17:03,410
+Abre la boca.
+
+1120
+02:17:40,315 --> 02:17:42,647
+Sabes que te amo.
+
+1121
+02:17:43,985 --> 02:17:45,953
+Y yo a ti.
+
+1122
+02:18:22,258 --> 02:18:24,284
+- Fuera.
+- ¡Salgan!
+
+1123
+02:18:25,228 --> 02:18:26,923
+¡Muévanse!
+
+1124
+02:18:31,034 --> 02:18:32,934
+Felicitaciones, general.
+
+1125
+02:18:33,036 --> 02:18:35,971
+Tienes amigos muy persuasivos.
+
+1126
+02:18:41,878 --> 02:18:43,869
+Mi hermano hizo arrestar a Graco.
+
+1127
+02:18:44,548 --> 02:18:47,813
+No podemos esperar más.
+Debemos partir esta noche.
+
+1128
+02:18:47,951 --> 02:18:50,920
+Próximo vendrá a medianoche
+y te llevará a la puerta.
+
+1129
+02:18:52,389 --> 02:18:56,019
+Tu criado, Cicerón,
+te estará esperando allí con caballos.
+
+1130
+02:18:57,995 --> 02:19:00,429
+- ¿Tú has hecho todo esto?
+- Sí.
+
+1131
+02:19:01,466 --> 02:19:04,128
+Te arriesgas demasiado.
+
+1132
+02:19:04,235 --> 02:19:06,260
+Tengo mucho que pagar.
+
+1133
+02:19:08,573 --> 02:19:10,871
+No tienes nada que pagar.
+
+1134
+02:19:10,975 --> 02:19:14,035
+Amas a tu hijo.
+Por él, eres fuerte.
+
+1135
+02:19:17,148 --> 02:19:19,639
+Estoy cansada de ser fuerte.
+
+1136
+02:19:21,519 --> 02:19:25,785
+Mi hermano odia a todo el mundo
+y a ti más que a nadie.
+
+1137
+02:19:25,890 --> 02:19:29,725
+- ¿Porque tu padre me eligió?
+- No.
+
+1138
+02:19:30,696 --> 02:19:32,857
+Porque mi padre te amaba.
+
+1139
+02:19:36,835 --> 02:19:39,736
+Y yo también te amaba.
+
+1140
+02:19:41,840 --> 02:19:43,808
+Hace mucho de eso.
+
+1141
+02:19:48,313 --> 02:19:50,804
+¿Era muy distinta por entonces?
+
+1142
+02:19:56,855 --> 02:19:59,016
+Te reías más.
+
+1143
+02:20:02,729 --> 02:20:05,289
+Me he sentido sola toda mi vida.
+
+1144
+02:20:06,466 --> 02:20:08,434
+Salvo contigo.
+
+1145
+02:20:11,271 --> 02:20:14,468
+- Debo irme.
+- Sí.
+
+1146
+02:20:42,389 --> 02:20:44,414
+Toma, toma.
+
+1147
+02:20:55,569 --> 02:20:57,537
+Y te tengo.
+
+1148
+02:20:59,974 --> 02:21:02,169
+¿No es tarde para jugar al legionario?
+
+1149
+02:21:02,276 --> 02:21:04,471
+No soy un legionario.
+
+1150
+02:21:04,578 --> 02:21:06,809
+- ¿No lo eres?
+- Soy un gladiador.
+
+1151
+02:21:08,416 --> 02:21:13,285
+¿Un gladiador? Los gladiadores
+sólo pelean en los juegos.
+
+1152
+02:21:13,388 --> 02:21:16,653
+¿No preferirías ser un gran
+guerrero romano como Julio César?
+
+1153
+02:21:16,758 --> 02:21:19,124
+¡Soy Máximo, el salvador de Roma!
+
+1154
+02:21:22,464 --> 02:21:24,432
+¿El salvador de Roma?
+
+1155
+02:21:32,107 --> 02:21:34,075
+¿Quién dijo eso?
+
+1156
+02:21:42,685 --> 02:21:44,653
+¿Dónde está Lucio?
+
+1157
+02:21:45,555 --> 02:21:47,716
+Con el emperador, mi señora.
+
+1158
+02:21:50,927 --> 02:21:52,758
+- Imposible.
+- Sí, lo hizo.
+
+1159
+02:21:52,862 --> 02:21:57,993
+La sacó de una canasta
+y la apretó contra su pecho...
+
+1160
+02:21:58,100 --> 02:22:00,398
+...justo aquí sobre el corazón.
+
+1161
+02:22:01,571 --> 02:22:04,005
+¿La mordió en el pecho?
+
+1162
+02:22:04,106 --> 02:22:05,471
+Sí.
+
+1163
+02:22:05,575 --> 02:22:09,136
+Verás, Lucio,
+a veces las damas de la nobleza...
+
+1164
+02:22:10,112 --> 02:22:13,913
+...se comportan muy extrañamente y hacen
+cosas muy raras en nombre del amor.
+
+1165
+02:22:14,017 --> 02:22:16,611
 - Creo que es una tontería.
 - Yo también.
 
-1105
-02:07:23,267 --> 02:07:24,642
+1166
+02:22:18,689 --> 02:22:20,316
 Yo también.
 
-1106
-02:07:25,225 --> 02:07:27,267
-Hermana, ven con nosotros.
+1167
+02:22:20,424 --> 02:22:22,688
+Hermana, ven.
 
-1107
-02:07:27,808 --> 02:07:29,517
-He estado leyéndole historias a Lucio.
-
-1108
-02:07:29,600 --> 02:07:31,642
+1168
+02:22:22,793 --> 02:22:26,285
+- Le he estado leyendo a Lucio.
 - Yo también he estado leyendo.
-- Sí.
 
-1109
-02:07:31,725 --> 02:07:36,100
-Es un muchachito muy listo.
+1169
+02:22:26,396 --> 02:22:29,365
+Sí. Es un pequeño muy inteligente.
+
+1170
+02:22:29,466 --> 02:22:31,661
 Un día será un gran emperador.
 
-1110
-02:07:37,642 --> 02:07:40,225
-Leímos la historia del gran Marco Antonio
+1171
+02:22:32,936 --> 02:22:36,872
+Hemos estado leyendo sobre las aventuras
+del gran Marco Antonio en Egipto.
 
-1111
-02:07:40,308 --> 02:07:41,642
-y sus aventuras en Egipto.
+1172
+02:22:37,007 --> 02:22:39,532
+La reina se suicidó con una víbora.
 
-1112
-02:07:41,725 --> 02:07:44,183
-Y la reina se suicidó con una serpiente.
+1173
+02:22:39,676 --> 02:22:43,078
+Y espera a enterarte qué le
+ocurrió a nuestros antepasados.
 
-1113
-02:07:44,267 --> 02:07:47,558
-Ya verás lo que les ocurrió
-a nuestros antepasados.
+1174
+02:22:43,181 --> 02:22:44,842
+Si te portas bien...
 
-1114
-02:07:47,642 --> 02:07:49,600
-Si te portas bien, mañana te contaré
-
-1115
-02:07:49,683 --> 02:07:52,600
+1175
+02:22:44,949 --> 02:22:48,112
+...mañana a la noche te contaré
 la historia del emperador Claudio.
 
-1116
-02:07:53,558 --> 02:07:55,517
-Fue traicionado
+1176
+02:22:49,087 --> 02:22:51,055
+Fue traicionado...
 
-1117
-02:07:56,392 --> 02:07:58,558
-por aquellos que tenía más cerca.
+1177
+02:22:51,823 --> 02:22:53,950
+...por sus seres más cercanos.
 
-1118
-02:08:00,392 --> 02:08:02,183
-Por los de su propia sangre.
+1178
+02:22:55,760 --> 02:22:57,955
+Por su propia sangre.
 
-1119
-02:08:03,517 --> 02:08:05,892
-Susurraban por los oscuros rincones,
+1179
+02:22:59,030 --> 02:23:01,260
+Murmuraban en los rincones oscuros...
 
-1120
-02:08:05,975 --> 02:08:08,350
-y salían a media noche,
+1180
+02:23:01,366 --> 02:23:03,926
+...salían tarde por la noche...
 
-1121
-02:08:08,683 --> 02:08:11,850
-y conspiraban, y conspiraban.
+1181
+02:23:04,035 --> 02:23:06,162
+...y conspiraban...
 
-1122
-02:08:14,517 --> 02:08:18,475
+1182
+02:23:06,271 --> 02:23:08,239
+...y conspiraban.
+
+1183
+02:23:09,874 --> 02:23:13,833
 Pero el emperador Claudio
-sabía que estaban tramando algo.
+sabía que tramaban algo.
 
-1123
-02:08:18,558 --> 02:08:21,058
-Sabía que eran como abejitas laboriosas.
+1184
+02:23:13,945 --> 02:23:16,278
+Sabía que eran abejitas muy laboriosas.
 
-1124
-02:08:22,933 --> 02:08:26,058
+1185
+02:23:18,417 --> 02:23:20,885
 Y una noche se sentó con una de ellas...
 
-1125
-02:08:26,725 --> 02:08:28,725
-y la miró...
+1186
+02:23:22,054 --> 02:23:24,022
+...la miró...
 
-1126
-02:08:29,642 --> 02:08:31,308
-y dijo:
+1187
+02:23:25,024 --> 02:23:27,584
+...y le dijo:
 
-1127
-02:08:32,392 --> 02:08:34,850
-"Dime lo que has estado haciendo
+1188
+02:23:27,693 --> 02:23:30,856
+"Dime qué has estado haciendo...
 
-1128
-02:08:35,683 --> 02:08:37,350
-abejita laboriosa,
+1189
+02:23:30,963 --> 02:23:32,931
+...abejita laboriosa...
 
-1129
-02:08:39,725 --> 02:08:42,642
-o mataré a los que más quieres.
+1190
+02:23:34,934 --> 02:23:38,199
+...o destruiré
+a tus seres más queridos".
 
-1130
-02:08:43,767 --> 02:08:46,892
-Me bañaré en su sangre delante de ti".
+1191
+02:23:39,338 --> 02:23:42,432
+"Mirarás mientras me
+baño en su sangre".
 
-1131
-02:08:50,600 --> 02:08:52,892
-El emperador estaba deshecho.
+1192
+02:23:45,644 --> 02:23:48,113
+El emperador estaba desconsolado.
 
-1132
-02:08:55,058 --> 02:09:00,183
-La abejita lo había herido
-más que cualquiera otra persona.
+1193
+02:23:50,383 --> 02:23:52,715
+La abejita lo había lastimado más...
 
-1133
-02:09:02,183 --> 02:09:05,017
-¿Qué crees que ocurrió entonces, Lucio?
+1194
+02:23:52,819 --> 02:23:55,447
+...que lo que nadie habría podido jamás.
 
-1134
-02:09:05,808 --> 02:09:07,600
+1195
+02:23:57,624 --> 02:24:00,491
+¿Y qué crees que pasó entonces, Lucio?
+
+1196
+02:24:01,428 --> 02:24:03,396
 No lo sé, tío.
 
-1135
-02:09:13,975 --> 02:09:16,725
-La abejita se lo contó todo.
+1197
+02:24:09,536 --> 02:24:12,164
+La abejita le contó todo.
 
-1136
-02:09:55,683 --> 02:09:59,392
-¡Abrid, en nombre del emperador!
+1198
+02:25:10,207 --> 02:25:12,539
+¡Abre, en nombre del emperador!
 
-1137
-02:09:59,683 --> 02:10:00,767
+1199
+02:25:14,113 --> 02:25:15,145
 ¡Próximo!
 
-1138
-02:10:01,892 --> 02:10:04,892
-¡Abrid la verja, en nombre del emperador!
+1200
+02:25:15,648 --> 02:25:19,084
+¡Abre las rejas
+en nombre del emperador!
 
-1139
-02:10:05,725 --> 02:10:06,725
-¡Próximo!
+1201
+02:25:23,155 --> 02:25:24,713
+¡Abre las rejas!
 
-1140
-02:10:09,267 --> 02:10:10,683
-¡Abrid la verja!
+1202
+02:25:30,530 --> 02:25:33,226
+¡Abre las rejas, Próximo!
 
-1141
-02:10:16,600 --> 02:10:18,725
-Abre la verja, Próximo.
-
-1142
-02:10:19,308 --> 02:10:21,600
+1203
+02:25:33,333 --> 02:25:35,665
 ¿Quieres morir, viejo?
 
-1143
-02:10:22,933 --> 02:10:23,933
-Ten.
+1204
+02:25:36,503 --> 02:25:40,030
+Toma. Todo está preparado.
 
-1144
-02:10:24,600 --> 02:10:26,725
-Todo está preparado.
+1205
+02:25:40,740 --> 02:25:43,106
+Parece que has conquistado tu libertad.
 
-1145
-02:10:26,808 --> 02:10:29,225
-Parece que te has ganado la libertad.
+1206
+02:25:43,210 --> 02:25:46,905
+Próximo, ¿corres peligro de
+convertirte en un buen hombre?
 
-1146
-02:10:29,308 --> 02:10:32,767
-Próximo, ¿corres el peligro de
-convertirte en un hombre bueno?
-
-1147
-02:10:37,892 --> 02:10:41,933
+1207
+02:25:51,952 --> 02:25:55,786
 - Juba.
 - ¡Mueran los enemigos del emperador!
 
-1148
-02:10:42,350 --> 02:10:44,558
-¡Abrid la verja!
-
-1149
-02:10:49,933 --> 02:10:51,892
-¡Tirad!
-
-1150
-02:10:54,100 --> 02:10:56,892
-¡Vamos! ¡Formad una columna
-a la izquierda!
-
-1151
-02:11:00,850 --> 02:11:04,017
-Necesito poco tiempo,
-así que sed prudentes.
-
-1152
-02:11:04,142 --> 02:11:06,767
-Si no queréis tener nada que ver,
-volved a las celdas.
-
-1153
-02:11:06,850 --> 02:11:08,850
-Te esperaremos aquí, Máximo.
-
-1154
-02:11:08,933 --> 02:11:11,767
-- Fuerza y honor.
-- Marchad.
-
-1155
-02:11:12,850 --> 02:11:14,642
-Fuerza y honor.
-
-1156
-02:11:17,183 --> 02:11:19,975
-Apuntad. ¡Tensad los arcos!
-
-1157
-02:12:27,058 --> 02:12:28,475
-Sombras y polvo.
-
-1158
-02:13:10,350 --> 02:13:11,517
-¡Máximo!
-
-1159
-02:13:17,017 --> 02:13:18,350
-Lo siento.
-
-1160
-02:13:18,433 --> 02:13:19,558
-¡No!
-
-1161
-02:13:44,975 --> 02:13:46,225
-Ya está hecho.
-
-1162
-02:13:53,183 --> 02:13:55,100
-¿Qué hacemos con mi sobrino?
-
-1163
-02:13:56,142 --> 02:13:58,142
-¿Y con su madre?
-
-1164
-02:14:00,183 --> 02:14:02,975
-¿Les hacemos correr
-la misma suerte que su amante?
-
-1165
-02:14:04,558 --> 02:14:06,600
-¿O seré misericordioso?
-
-1166
-02:14:09,267 --> 02:14:11,142
-Cómodo el Misericordioso.
-
-1167
-02:14:17,725 --> 02:14:20,100
-Lucio se quedará conmigo.
-
-1168
-02:14:20,975 --> 02:14:23,017
-Y si su madre...
-
-1169
-02:14:24,308 --> 02:14:26,392
-me mira una sola vez
-
-1170
-02:14:27,600 --> 02:14:29,975
-de una forma que me desagrade,
-
-1171
-02:14:31,933 --> 02:14:33,558
-él morirá.
-
-1172
-02:14:37,058 --> 02:14:40,183
-Si ella decide ser noble,
-
-1173
-02:14:42,142 --> 02:14:43,975
-y acabar con su propia vida,
-
-1174
-02:14:45,725 --> 02:14:47,017
-él morirá.
-
-1175
-02:14:50,808 --> 02:14:52,433
-Y tú...
-
-1176
-02:14:55,225 --> 02:14:56,975
-tú me amarás,
-
-1177
-02:14:57,850 --> 02:14:59,642
-como yo te he amado.
-
-1178
-02:15:01,142 --> 02:15:04,975
-Me darás un heredero de pura sangre
-
-1179
-02:15:05,975 --> 02:15:07,725
-para que Cómodo
-
-1180
-02:15:08,183 --> 02:15:11,142
-y su progenie gobiernen durante mil años.
-
-1181
-02:15:15,975 --> 02:15:17,850
-¿Acaso no soy misericordioso?
-
-1182
-02:15:39,433 --> 02:15:42,225
-¿Acaso no soy misericordioso?
-
-1183
-02:15:54,225 --> 02:15:57,517
-¡Máximo!
-
-1184
-02:16:38,850 --> 02:16:40,225
-¡Máximo!
-
-1185
-02:16:41,183 --> 02:16:42,225
-¡Máximo!
-
-1186
-02:16:43,433 --> 02:16:44,683
-¡Máximo!
-
-1187
-02:16:46,433 --> 02:16:48,183
-Te aclaman.
-
-1188
-02:16:50,183 --> 02:16:53,475
-El general que se convirtió en un esclavo.
-
-1189
-02:16:54,808 --> 02:16:57,267
-El esclavo que se
-convirtió en un gladiador.
-
-1190
-02:16:58,475 --> 02:17:01,267
-El gladiador que desafió a un emperador.
-
-1191
-02:17:03,183 --> 02:17:05,058
-Una historia conmovedora.
-
-1192
-02:17:06,267 --> 02:17:09,267
-Ahora quieren saber
-cómo termina la historia.
-
-1193
-02:17:11,725 --> 02:17:14,058
-Solo sirve una muerte célebre.
-
-1194
-02:17:15,933 --> 02:17:18,392
-¿Y qué final más glorioso
-
-1195
-02:17:18,850 --> 02:17:22,558
-que desafiar al propio emperador
-en la arena?
-
-1196
-02:17:24,975 --> 02:17:28,058
-- ¿Lucharías contra mí?
-- ¿Por qué no?
-
-1197
-02:17:29,308 --> 02:17:31,350
-¿Crees que tengo miedo?
-
-1198
-02:17:32,100 --> 02:17:35,183
-Creo que has tenido miedo toda tu vida.
-
-1199
-02:17:35,267 --> 02:17:38,892
-¿A diferencia de Máximo el Invencible,
-que no conoce el miedo?
-
-1200
-02:17:44,558 --> 02:17:47,892
-Conocí a un hombre que dijo:
-"La muerte nos sonríe a todos.
-
-1201
-02:17:48,933 --> 02:17:51,808
-"Lo único que podemos hacer
-es devolver la sonrisa".
-
-1202
-02:17:53,267 --> 02:17:54,517
-Me pregunto,
-
-1203
-02:17:55,308 --> 02:17:58,183
-si tu amigo sonrió al ver su propia muerte.
-
-1204
-02:17:58,267 --> 02:17:59,933
-Tú debes saberlo.
-
-1205
-02:18:02,808 --> 02:18:04,558
-Era tu padre.
-
-1206
-02:18:08,392 --> 02:18:10,808
-Amabas a mi padre, lo sé,
-
-1207
-02:18:12,183 --> 02:18:13,808
-pero yo también.
-
 1208
-02:18:15,350 --> 02:18:18,100
-Eso nos hace hermanos, ¿verdad?
+02:25:56,556 --> 02:25:59,720
+¡Abre las rejas!
+¡Es orden del emperador!
 
 1209
-02:18:20,600 --> 02:18:22,767
-Sonríeme ahora, hermano.
+02:26:03,998 --> 02:26:05,863
+¡Tiren!
 
 1210
-02:18:28,392 --> 02:18:31,142
-Ponedle la coraza. Ocultad la herida.
+02:26:08,169 --> 02:26:10,535
+¡Muévanse!
+¡Dos columnas a la izquierda!
 
 1211
-02:18:38,058 --> 02:18:40,225
-¡Máximo, Máximo!
+02:26:14,308 --> 02:26:17,607
+No necesitaré mucho tiempo,
+así que no descuiden sus vidas.
 
 1212
-02:19:25,433 --> 02:19:27,392
-¡Formen un círculo!
+02:26:17,712 --> 02:26:20,579
+Si no quieren nada de esto,
+regresen a sus celdas.
 
 1213
-02:21:19,350 --> 02:21:20,850
-Quinto, la espada.
+02:26:20,681 --> 02:26:22,615
+Te esperaremos aquí, Máximo.
 
 1214
-02:21:22,475 --> 02:21:24,183
-Dame tu espada.
+02:26:22,717 --> 02:26:25,515
+- Fortaleza y honor.
+- ¡Vamos!
 
 1215
-02:21:27,475 --> 02:21:29,517
-¡Una espada! ¡Dadme una espada!
+02:26:26,754 --> 02:26:28,813
+Fortaleza y honor.
 
 1216
-02:21:31,142 --> 02:21:34,517
-Envainad las espadas.
+02:26:30,826 --> 02:26:33,727
+¡Apunten! ¡Rompan los barrotes!
 
 1217
-02:23:50,100 --> 02:23:51,475
-Máximo.
+02:27:41,231 --> 02:27:43,529
+Sombras y polvo.
 
 1218
-02:23:56,558 --> 02:23:57,850
-Máximo.
+02:28:30,949 --> 02:28:33,417
+- Lo siento.
+- ¡No!
 
 1219
-02:23:58,517 --> 02:23:59,933
-Quinto.
+02:28:58,611 --> 02:29:00,579
+Ya está hecho.
 
 1220
-02:24:01,517 --> 02:24:03,183
-Libera a mis hombres.
+02:29:07,286 --> 02:29:09,345
+¿Qué hay de mi sobrino?
 
 1221
-02:24:04,683 --> 02:24:07,308
-El senador Graco volverá a ocupar su cargo.
+02:29:10,222 --> 02:29:12,383
+¿Y de su madre?
 
 1222
-02:24:08,558 --> 02:24:10,517
-Hubo una vez un sueño que era Roma.
+02:29:13,994 --> 02:29:16,258
+¿Deberían compartir
+la suerte de su amante?
 
 1223
-02:24:11,267 --> 02:24:13,100
-Se hará realidad.
+02:29:18,465 --> 02:29:20,695
+¿O debería tener piedad?
 
 1224
-02:24:13,850 --> 02:24:16,642
-Ese era el deseo de Marco Aurelio.
+02:29:23,370 --> 02:29:25,702
+Cómodo el piadoso.
 
 1225
-02:24:17,392 --> 02:24:19,392
-Liberad a los presos. ¡Vamos!
+02:29:31,611 --> 02:29:33,772
+Ahora Lucio se quedará conmigo.
 
 1226
-02:24:44,100 --> 02:24:45,475
-Máximo.
+02:29:35,048 --> 02:29:37,016
+Y como su madre...
 
 1227
-02:24:47,350 --> 02:24:48,850
-Lucio está a salvo.
+02:29:38,285 --> 02:29:40,253
+...me llegue a mirar...
 
 1228
-02:25:05,225 --> 02:25:06,767
-Ve con ellos.
+02:29:41,788 --> 02:29:44,188
+...de un modo que me desagrade...
 
 1229
-02:25:56,475 --> 02:25:57,808
-Estás en tu hogar.
+02:29:45,927 --> 02:29:47,895
+...él morirá.
 
 1230
-02:26:24,600 --> 02:26:27,058
-¿Vale Roma la vida de un hombre justo?
+02:29:51,099 --> 02:29:54,262
+Si ella decide ser noble...
 
 1231
-02:26:30,850 --> 02:26:32,892
-Una vez creímos que sí.
+02:29:55,970 --> 02:29:58,097
+...y se suicida...
 
 1232
-02:26:35,850 --> 02:26:37,975
-Haz que volvamos a creerlo.
+02:29:59,674 --> 02:30:01,437
+...él morirá.
 
 1233
-02:26:41,642 --> 02:26:43,725
-Era un soldado de Roma.
+02:30:04,679 --> 02:30:06,306
+Y en cuanto a ti...
 
 1234
-02:26:47,517 --> 02:26:48,808
-Rendidle homenaje.
+02:30:09,150 --> 02:30:11,141
+...me amarás...
 
 1235
-02:26:49,350 --> 02:26:51,558
-¿Quién me ayuda a llevarlo?
+02:30:11,786 --> 02:30:13,981
+...como yo te amaba.
 
 1236
-02:27:36,267 --> 02:27:37,850
-Ahora somos libres.
+02:30:15,189 --> 02:30:18,648
+Me darás un heredero de sangre pura...
 
 1237
-02:27:44,308 --> 02:27:46,183
-Nos volveremos a ver.
+02:30:19,928 --> 02:30:24,888
+...para que Cómodo y sus
+descendientes gobiernen mil años.
 
 1238
-02:27:49,017 --> 02:27:50,600
-Pero todavía no.
+02:30:29,772 --> 02:30:32,172
+¿No soy piadoso?
 
 1239
-02:27:51,600 --> 02:27:52,767
-Todavía no.
+02:30:53,463 --> 02:30:55,556
+¡¿No soy piadoso?!
 
 1240
-02:30:20,933 --> 02:30:23,808
-A NUESTRO AMIGO OLIVER REED
+02:31:39,614 --> 02:31:42,676
+Soy un soldado. Obedezco.
+
+1241
+02:31:45,153 --> 02:31:48,884
+Sólo le ocurrirá a uno que esté
+en condiciones de soportar.
+
+1242
+02:32:22,572 --> 02:32:23,698
+Máximo.
+
+1243
+02:32:24,841 --> 02:32:25,967
+Máximo.
+
+1244
+02:32:30,147 --> 02:32:32,115
+Te aclaman.
+
+1245
+02:32:34,018 --> 02:32:36,987
+El general que se convirtió en esclavo.
+
+1246
+02:32:38,422 --> 02:32:40,720
+El esclavo que se
+convirtió en gladiador.
+
+1247
+02:32:42,293 --> 02:32:45,023
+El gladiador que
+desafió a un emperador.
+
+1248
+02:32:46,764 --> 02:32:48,732
+Una historia impactante.
+
+1249
+02:32:49,767 --> 02:32:52,634
+Ahora el pueblo quiere
+saber cómo termina.
+
+1250
+02:32:55,439 --> 02:32:57,464
+Sólo servirá una muerte célebre.
+
+1251
+02:32:59,410 --> 02:33:02,539
+¿Y qué podría ser más glorioso...
+
+1252
+02:33:02,647 --> 02:33:05,980
+...que desafiar al mismísimo
+emperador en la gran arena?
+
+1253
+02:33:08,486 --> 02:33:10,750
+¿Pelearías conmigo?
+
+1254
+02:33:10,855 --> 02:33:14,450
+¿Por qué no? ¿Crees que tengo miedo?
+
+1255
+02:33:15,560 --> 02:33:18,427
+Creo que has tenido miedo toda tu vida.
+
+1256
+02:33:18,530 --> 02:33:22,626
+¿A diferencia de Máximo el invencible,
+que no conoce miedo alguno?
+
+1257
+02:33:28,239 --> 02:33:31,470
+Conocí a un hombre que dijo:
+"La muerte nos sonríe a todos".
+
+1258
+02:33:32,644 --> 02:33:35,808
+"Lo único que se puede hacer
+es devolverle la sonrisa".
+
+1259
+02:33:36,882 --> 02:33:41,080
+Me pregunto si tu
+amigo le sonrió a su muerte.
+
+1260
+02:33:42,088 --> 02:33:44,056
+Tú debes saberlo.
+
+1261
+02:33:46,459 --> 02:33:48,484
+Era tu padre.
+
+1262
+02:33:52,164 --> 02:33:54,394
+Ya sé que amabas a mi padre.
+
+1263
+02:33:56,001 --> 02:33:57,969
+Pero yo también.
+
+1264
+02:33:59,171 --> 02:34:01,639
+Eso nos convierte en hermanos, ¿no?
+
+1265
+02:34:04,310 --> 02:34:06,211
+Sonríeme, hermano.
+
+1266
+02:34:11,918 --> 02:34:14,478
+Pónganle la armadura.
+Oculten la herida.
+
+1267
+02:35:09,177 --> 02:35:11,146
+¡Formen un círculo!
+
+1268
+02:35:42,578 --> 02:35:45,047
+¡Decapítalo, Máximo!
+
+1269
+02:37:03,028 --> 02:37:04,461
+¡Quinto, espada!
+
+1270
+02:37:05,931 --> 02:37:07,922
+¡Dame tu espada!
+
+1271
+02:37:11,169 --> 02:37:13,160
+¡Una espada! ¡Quiero una espada!
+
+1272
+02:37:14,706 --> 02:37:18,437
+¡Envainen sus espadas!
+¡Envainen sus espadas!
+
+1273
+02:39:45,228 --> 02:39:47,423
+Libera a mis hombres.
+
+1274
+02:39:48,098 --> 02:39:50,726
+Que el senador Graco sea readmitido.
+
+1275
+02:39:52,168 --> 02:39:54,932
+Hubo un sueño llamado Roma.
+
+1276
+02:39:55,038 --> 02:39:56,903
+Debe cumplirse.
+
+1277
+02:39:57,774 --> 02:40:00,334
+Ese es el deseo de Marco Aurelio.
+
+1278
+02:40:01,010 --> 02:40:02,807
+¡Liberen a los prisioneros! ¡Ya!
+
+1279
+02:40:30,975 --> 02:40:33,068
+Lucio está salvo.
+
+1280
+02:40:48,860 --> 02:40:50,828
+Ve con ellos.
+
+1281
+02:41:40,046 --> 02:41:41,571
+Estás en casa.
+
+1282
+02:42:08,242 --> 02:42:10,710
+¿Roma vale la vida de un buen hombre?
+
+1283
+02:42:14,616 --> 02:42:16,641
+Una vez lo creímos.
+
+1284
+02:42:19,654 --> 02:42:21,884
+Haz que lo volvamos a creer.
+
+1285
+02:42:25,193 --> 02:42:27,354
+Él fue un soldado de Roma.
+
+1286
+02:42:31,065 --> 02:42:33,033
+Hónrenlo.
+
+1287
+02:42:33,134 --> 02:42:35,193
+¿Quién me ayudará a cargarlo?
+
+1288
+02:43:19,916 --> 02:43:22,043
+Ahora somos libres.
+
+1289
+02:43:27,960 --> 02:43:30,087
+Te volveré a ver.
+
+1290
+02:43:32,564 --> 02:43:34,532
+Pero todavía no.
+
+1291
+02:43:35,234 --> 02:43:37,202
+Todavía no.
