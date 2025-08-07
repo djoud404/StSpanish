@@ -1,0 +1,9592 @@
+1
+00:01:01,019 --> 00:01:04,511
+Basada en hechos reales
+
+2
+00:01:20,956 --> 00:01:23,817
+POLICÍA DE BOSTON
+DISTRITO 11
+
+3
+00:01:23,917 --> 00:01:24,917
+¿Cómo va eso?
+
+4
+00:01:25,127 --> 00:01:27,118
+La madre llora a gritos,
+y el tío está furioso.
+
+5
+00:01:28,046 --> 00:01:29,046
+¿No es casada?
+
+6
+00:01:29,506 --> 00:01:31,292
+Divorciada con cuatro hijos.
+
+7
+00:01:31,466 --> 00:01:33,422
+Supongo que el Padre los ayudaba.
+
+8
+00:01:34,052 --> 00:01:35,167
+¿Los ayudaba?
+
+9
+00:01:37,973 --> 00:01:39,964
+Sr. Burke,
+están atrás hablando con el obispo.
+
+10
+00:01:40,183 --> 00:01:42,344
+- ¿Y el Padre?
+- Lo pusimos en la sala de descanso.
+
+11
+00:01:42,728 --> 00:01:44,138
+¿Alguien de la prensa?
+
+12
+00:01:44,313 --> 00:01:46,269
+Un tipo del <i>Citizen,</i>
+pero lo despachamos.
+
+13
+00:01:46,648 --> 00:01:47,728
+Nadie de la prensa pesada.
+
+14
+00:01:47,899 --> 00:01:49,730
+Que siga así.
+
+15
+00:01:50,277 --> 00:01:52,689
+- ¿Quién es ese?
+- El fiscal auxiliar de distrito.
+
+16
+00:01:53,739 --> 00:01:55,730
+Va a haber prensa
+para la lectura de cargos.
+
+17
+00:01:56,575 --> 00:01:58,315
+¿Qué lectura de cargos?
+
+18
+00:02:00,412 --> 00:02:02,903
+Dile al padre Geoghan
+que no me tardaré mucho.
+
+19
+00:02:04,082 --> 00:02:09,905
+Sheila, conoces el buen trabajo
+que hace la iglesia en la comunidad.
+
+20
+00:02:10,005 --> 00:02:14,785
+Te aseguro que personalmente sacaré
+al Padre de la parroquia...
+
+21
+00:02:14,885 --> 00:02:17,467
+...y que esto no volverá a pasar.
+
+22
+00:02:18,930 --> 00:02:21,216
+Solo será un rato más, Paul.
+
+23
+00:02:22,100 --> 00:02:23,510
+Por supuesto, Padre.
+
+24
+00:02:23,685 --> 00:02:26,893
+Sheila, te voy a dar mi tarjeta
+personal...
+
+25
+00:03:04,351 --> 00:03:07,362
+Siempre es duro
+perder a un buen periodista...
+
+26
+00:03:07,462 --> 00:03:08,689
+Boston Globe - Julio, 2001
+
+27
+00:03:08,789 --> 00:03:10,304
+...pero perder a uno de los mejores...
+
+28
+00:03:10,816 --> 00:03:13,398
+Para decirlo lo
+más elocuentemente posible...
+
+29
+00:03:13,568 --> 00:03:14,808
+...es una patada en el culo.
+
+30
+00:03:15,987 --> 00:03:19,855
+Pero Robby conoce a Stewart por
+más tiempo del que ustedes han vivido...
+
+31
+00:03:20,033 --> 00:03:22,194
+...así que le cederé la palabra a él.
+Robby.
+
+32
+00:03:22,494 --> 00:03:25,236
+Bueno, gracias, Ben. Creo.
+
+33
+00:03:26,206 --> 00:03:30,199
+Aunque discrepo
+con su referencia a mi antigüedad...
+
+34
+00:03:31,044 --> 00:03:35,037
+...debo decir que la partida de Stewart
+es especialmente dolorosa para mí.
+
+35
+00:03:35,257 --> 00:03:37,873
+¿Por qué, Stewart?
+
+36
+00:03:38,135 --> 00:03:39,375
+¿Veinte años ya?
+
+37
+00:03:39,553 --> 00:03:43,137
+Ya no contaremos con el dinero
+de Stewart en la mesa de póquer.
+
+38
+00:03:44,725 --> 00:03:46,966
+Y yo tengo un hijo en la universidad.
+
+39
+00:03:47,394 --> 00:03:49,885
+- Sí, pero voy a seguir jugando.
+- Problema resuelto.
+
+40
+00:03:50,981 --> 00:03:52,391
+Buena suerte, entonces.
+
+41
+00:03:53,608 --> 00:03:58,639
+Stewart, el momento de tu partida
+me resulta...
+
+42
+00:03:58,739 --> 00:03:59,739
+...desconcertante.
+
+43
+00:04:00,657 --> 00:04:03,239
+La oficina de la esquina queda vacía...
+
+44
+00:04:03,577 --> 00:04:05,488
+...el lunes llega un editor nuevo...
+
+45
+00:04:06,079 --> 00:04:09,242
+...así que disculpa, amigo,
+pero debo preguntarte...
+
+46
+00:04:09,875 --> 00:04:11,331
+...¿qué diablos sabes?
+
+47
+00:04:28,727 --> 00:04:30,058
+¿Cómo está el pastel?
+
+48
+00:04:30,270 --> 00:04:32,352
+Muy rico.
+¿Lo vas a guardar para después?
+
+49
+00:04:32,522 --> 00:04:34,387
+No, es para Mike.
+Nunca va a esas reuniones.
+
+50
+00:04:34,566 --> 00:04:36,306
+- Me deprimen.
+- Lo sé.
+
+51
+00:04:37,027 --> 00:04:38,062
+¿Viste las cifras
+de Washington?
+
+52
+00:04:38,236 --> 00:04:40,648
+- Sí. Muy interesante.
+- Coincido.
+
+53
+00:04:40,947 --> 00:04:43,313
+No pregunto si la policía miente,
+sé que miente.
+
+54
+00:04:43,492 --> 00:04:45,323
+Solo pregunto quién está detrás de esto.
+
+55
+00:04:47,287 --> 00:04:49,027
+Entiendo. No quieres hablar.
+
+56
+00:04:50,165 --> 00:04:51,675
+No estoy enojado, Dan, tengo hambre.
+
+57
+00:04:51,750 --> 00:04:53,431
+Estoy hablando hace tanto
+que no almorcé.
+
+58
+00:04:53,502 --> 00:04:56,209
+Iré a comer algo.
+Te daré una hora para decidir...
+
+59
+00:04:56,379 --> 00:04:57,619
+...si quieres estar del lado correcto...
+
+60
+00:04:57,798 --> 00:04:59,629
+...o leer sobre esto
+como todos los demás.
+
+61
+00:04:59,800 --> 00:05:00,830
+Adiós, Dan.
+
+62
+00:05:01,051 --> 00:05:02,382
+¿Crees que Cahill tiene algo?
+
+63
+00:05:02,594 --> 00:05:04,630
+Quizá. No creo
+que la historia sea para nosotros.
+
+64
+00:05:04,730 --> 00:05:05,830
+A Ben le gusta.
+
+65
+00:05:05,930 --> 00:05:07,874
+Sí, no es mala,
+pero no es para Spotlight.
+
+66
+00:05:07,974 --> 00:05:08,974
+¿Qué no es para Spotlight?
+
+67
+00:05:09,142 --> 00:05:11,258
+- Las cifras policiales.
+- Lo de las cifras. Es pobre.
+
+68
+00:05:12,854 --> 00:05:14,060
+¿Hiciste hablar a Cahill?
+
+69
+00:05:15,899 --> 00:05:16,979
+No. Pero lo voy a hacer.
+
+70
+00:05:17,692 --> 00:05:19,933
+Bien. Así sabremos si es pobre.
+
+71
+00:05:21,988 --> 00:05:23,478
+- ¿Cómo fue arriba?
+- Bien.
+
+72
+00:05:23,657 --> 00:05:25,943
+- Robby dio un buen discurso.
+- Seguramente.
+
+73
+00:05:26,159 --> 00:05:27,853
+Oí que Lubin y Connor
+se van al <i>Times.</i>
+
+74
+00:05:27,953 --> 00:05:29,438
+- No, ¿en serio?
+- Sí, eso oí.
+
+75
+00:05:29,538 --> 00:05:31,028
+- Nos están robando la gente.
+- Bueno...
+
+76
+00:05:31,206 --> 00:05:32,992
+...al menos nos envían
+un tipo de Miami de jefe.
+
+77
+00:05:33,166 --> 00:05:36,033
+- Eso debería ayudar.
+- ¿Baron estuvo en Boston?
+
+78
+00:05:36,211 --> 00:05:38,748
+Creo que no vino nunca.
+Deberíamos comprarle un mapa.
+
+79
+00:05:38,922 --> 00:05:41,163
+Un amigo de Miami dijo
+que redujo el 15% del personal.
+
+80
+00:05:41,341 --> 00:05:42,581
+- Genial...
+- Oye, Robby.
+
+81
+00:05:42,759 --> 00:05:44,340
+¿El jefe nuevo viene a hacer recortes?
+
+82
+00:05:44,970 --> 00:05:46,255
+No tengo idea.
+
+83
+00:05:47,055 --> 00:05:48,170
+¿No hablaste con él?
+
+84
+00:05:48,598 --> 00:05:50,759
+- Sí.
+- ¿Es por Spotlight?
+
+85
+00:05:50,934 --> 00:05:53,175
+No lo sé, Mike, pero sí sé...
+
+86
+00:05:53,353 --> 00:05:56,060
+...que Ben necesita una respuesta
+sobre la historia de las cifras.
+
+87
+00:05:56,690 --> 00:05:58,897
+Te digo, no creo
+que esa historia sea para nosotros.
+
+88
+00:06:04,781 --> 00:06:05,941
+Sr. Baron.
+
+89
+00:06:06,825 --> 00:06:08,486
+Walter Robinson. Robby.
+
+90
+00:06:09,619 --> 00:06:11,029
+Gracias por venir el fin de semana.
+
+91
+00:06:11,204 --> 00:06:12,694
+- No es nada.
+- Se lo agradezco.
+
+92
+00:06:13,999 --> 00:06:14,999
+¿Qué está leyendo?
+
+93
+00:06:16,376 --> 00:06:17,832
+<i>La maldición del Bambino.</i>
+
+94
+00:06:18,003 --> 00:06:19,994
+Sí, es un buen libro.
+
+95
+00:06:20,338 --> 00:06:23,330
+El <i>Globe</i> tiene entradas de temporada
+para Fenway cuando quiera...
+
+96
+00:06:23,550 --> 00:06:25,040
+- ...por cierto.
+- Gracias.
+
+97
+00:06:25,719 --> 00:06:28,461
+Sinceramente, no soy
+muy fanático del béisbol.
+
+98
+00:06:28,638 --> 00:06:31,220
+Solo intento familiarizarme
+con la ciudad.
+
+99
+00:06:31,808 --> 00:06:33,548
+Sí...
+
+100
+00:06:33,727 --> 00:06:35,433
+¿Usted es oriundo de Boston?
+
+101
+00:06:35,604 --> 00:06:37,435
+Sí. Nací y me crie aquí, sí.
+
+102
+00:06:37,606 --> 00:06:39,688
+Mucha gente de la sala
+de prensa es de aquí.
+
+103
+00:06:39,858 --> 00:06:43,066
+Realmente parece un periódico local
+en ese sentido.
+
+104
+00:06:43,570 --> 00:06:46,733
+Y ¿eso cambió después de que vendieron
+el periódico al <i>Times?</i>
+
+105
+00:06:48,158 --> 00:06:50,991
+No. No creo que eso haya afectado mucho.
+
+106
+00:06:51,912 --> 00:06:52,912
+Bien.
+
+107
+00:06:54,331 --> 00:06:58,040
+Y ¿usted es editor del equipo Spotlight?
+
+108
+00:06:58,209 --> 00:07:01,201
+Prefiero considerarme
+jugador y entrenador. Pero, sí.
+
+109
+00:07:01,880 --> 00:07:03,165
+¿Sabe qué es Spotlight?
+
+110
+00:07:04,174 --> 00:07:05,380
+No particularmente.
+
+111
+00:07:05,550 --> 00:07:08,883
+Somos un equipo de investigación
+de cuatro personas.
+
+112
+00:07:09,262 --> 00:07:11,503
+Reportamos a Ben Bradlee, Jr...
+
+113
+00:07:11,681 --> 00:07:13,717
+...y nuestro trabajo es confidencial.
+
+114
+00:07:15,769 --> 00:07:16,975
+¿En qué están trabajando ahora?
+
+115
+00:07:17,437 --> 00:07:20,429
+Publicamos un artículo
+sobre ropa de construcción mal hecha...
+
+116
+00:07:20,607 --> 00:07:24,270
+...y ahora estamos buscando
+nuestra próxima historia.
+
+117
+00:07:25,111 --> 00:07:26,442
+¿Cuánto les suele llevar?
+
+118
+00:07:27,322 --> 00:07:29,654
+Es difícil saberlo. Un par de meses.
+
+119
+00:07:30,742 --> 00:07:31,742
+¿Un par de meses?
+
+120
+00:07:32,077 --> 00:07:34,068
+Sí, no nos gusta apurarnos.
+
+121
+00:07:34,412 --> 00:07:39,406
+Una vez que definimos un proyecto,
+podemos pasar un año o más investigando.
+
+122
+00:07:42,295 --> 00:07:44,786
+- ¿Algún problema con eso?
+- No necesariamente.
+
+123
+00:07:45,674 --> 00:07:47,460
+Pero entiendo que hay menos lectores...
+
+124
+00:07:47,634 --> 00:07:51,047
+...Internet está interfiriendo
+con el negocio clasificado y...
+
+125
+00:07:51,638 --> 00:07:54,220
+...creo que voy a tener
+que aplicar mano dura.
+
+126
+00:07:55,600 --> 00:07:59,013
+Entonces ¿anticipa más recortes?
+
+127
+00:08:00,313 --> 00:08:03,396
+Supongo que sí, pero...
+
+128
+00:08:04,317 --> 00:08:07,400
+...ahora estoy más concentrado
+en encontrar la forma de...
+
+129
+00:08:07,570 --> 00:08:11,028
+...hacer que este periódico sea
+esencial para sus lectores.
+
+130
+00:08:12,450 --> 00:08:14,281
+Me gusta pensar que ya lo es.
+
+131
+00:08:15,578 --> 00:08:19,571
+Me parece bien.
+Solo creo que lo podemos hacer mejor.
+
+132
+00:08:31,594 --> 00:08:32,834
+- Sr. Bradlee.
+- Hola.
+
+133
+00:08:33,221 --> 00:08:35,132
+Vi las cifras de la policía.
+Parece interesante.
+
+134
+00:08:35,432 --> 00:08:36,512
+Sí, hay algo ahí.
+
+135
+00:08:36,683 --> 00:08:38,890
+- ¿Cuánto tiempo necesitas?
+- Otra semana.
+
+136
+00:08:39,978 --> 00:08:42,219
+- ¿Adónde vas?
+- A la junta de las 10:30.
+
+137
+00:08:42,564 --> 00:08:43,804
+¿Desde cuándo?
+
+138
+00:08:44,190 --> 00:08:46,146
+Técnicamente, soy editor.
+
+139
+00:08:46,317 --> 00:08:47,477
+Técnicamente.
+
+140
+00:08:47,694 --> 00:08:49,525
+¿Tu charla con Baron fue tan mala?
+
+141
+00:08:49,904 --> 00:08:52,566
+- No pude sacarle mucho.
+- Eso es raro.
+
+142
+00:08:52,907 --> 00:08:55,489
+- ¿A ti qué te parece?
+- Es pura risa.
+
+143
+00:08:57,537 --> 00:08:59,323
+Buenos días a todos. Empecemos.
+
+144
+00:09:00,373 --> 00:09:02,113
+¿Quiere decir algo, Marty?
+
+145
+00:09:02,667 --> 00:09:03,827
+Sí, claro.
+
+146
+00:09:05,879 --> 00:09:06,914
+Hola.
+
+147
+00:09:07,964 --> 00:09:11,752
+Como la mayoría ya sabe,
+me llamo Marty Baron...
+
+148
+00:09:12,260 --> 00:09:15,172
+...es un placer para mí estar aquí.
+
+149
+00:09:17,640 --> 00:09:20,632
+Sería muy útil que me dijeran su nombre
+a medida que hablan.
+
+150
+00:09:20,977 --> 00:09:22,308
+Gracias.
+
+151
+00:09:23,605 --> 00:09:25,596
+Muy bien. ¿Peter?
+
+152
+00:09:25,815 --> 00:09:27,305
+Peter Canellos, Metro.
+
+153
+00:09:28,026 --> 00:09:30,108
+Tengo algo grande
+sobre el cierre del túnel.
+
+154
+00:09:32,405 --> 00:09:34,191
+- Hola, Steve.
+- Mike.
+
+155
+00:09:35,658 --> 00:09:37,068
+Malo el partido de anoche, ¿no?
+
+156
+00:09:37,577 --> 00:09:39,113
+Sí, no saben ni batear.
+
+157
+00:09:39,287 --> 00:09:42,700
+Oye, ¿qué hace Eileen McNamara
+en la junta?
+
+158
+00:09:44,042 --> 00:09:46,203
+- ¿Necesitas algo, Mike?
+- No, es por curiosidad.
+
+159
+00:09:46,753 --> 00:09:48,618
+Ve a curiosear a otro lado.
+Tengo trabajo.
+
+160
+00:09:48,797 --> 00:09:49,797
+De acuerdo, Steve.
+
+161
+00:09:50,090 --> 00:09:51,500
+- Nos vemos.
+- Sí.
+
+162
+00:09:51,758 --> 00:09:54,090
+Y parece que Pedro no vuelve
+hasta el 1 de septiembre.
+
+163
+00:09:54,719 --> 00:09:57,426
+Jimmy dice que vuelve este año,
+pero el doctor no parecía seguro.
+
+164
+00:09:57,931 --> 00:09:59,046
+¿Cuándo juegan los Patriots?
+
+165
+00:10:03,144 --> 00:10:05,385
+¿Son todos?
+
+166
+00:10:05,522 --> 00:10:07,513
+- Sí, así es.
+- Bien.
+
+167
+00:10:07,774 --> 00:10:09,264
+Gracias.
+
+168
+00:10:09,651 --> 00:10:13,485
+¿Han leído la columna
+de Eileen McNamara de esta semana?
+
+169
+00:10:14,489 --> 00:10:15,695
+¿La del caso Geoghan?
+
+170
+00:10:15,865 --> 00:10:17,776
+Sí, ¿cuál es el seguimiento de eso?
+
+171
+00:10:18,618 --> 00:10:21,701
+Es una columna,
+¿a qué clase de seguimiento se refiere?
+
+172
+00:10:23,164 --> 00:10:27,624
+Al parecer, este cura abusó de niños en
+6 parroquias en los últimos 30 años...
+
+173
+00:10:27,794 --> 00:10:30,080
+...y el abogado
+de las víctimas, el señor...
+
+174
+00:10:30,421 --> 00:10:32,286
+- Garabedian.
+- Gracias, Eileen.
+
+175
+00:10:32,465 --> 00:10:35,318
+El Sr. Garabedian dice que el cardenal
+Law se enteró hace 15 años...
+
+176
+00:10:35,418 --> 00:10:36,418
+...y no hizo nada.
+
+177
+00:10:36,518 --> 00:10:38,047
+Sí, ese abogado es algo raro.
+
+178
+00:10:38,221 --> 00:10:39,461
+Y la Iglesia desestimó la demanda.
+
+179
+00:10:39,639 --> 00:10:40,799
+Una palabra contra la otra.
+
+180
+00:10:41,266 --> 00:10:43,052
+Sea raro o no, el Sr. Garabedian...
+
+181
+00:10:43,226 --> 00:10:45,558
+...dice tener documentos
+que prueban que el Cardenal sabía.
+
+182
+00:10:45,937 --> 00:10:48,144
+Entiendo que esos documentos
+son confidenciales.
+
+183
+00:10:48,398 --> 00:10:52,061
+Sí, pero el hecho es que un cura
+de Boston abusó de 80 niños...
+
+184
+00:10:52,235 --> 00:10:54,692
+...un abogado dice
+que puede probar que Law sabía...
+
+185
+00:10:54,863 --> 00:10:58,196
+...y nosotros hemos escrito...
+dos historias en los últimos seis meses.
+
+186
+00:10:59,325 --> 00:11:02,567
+Me parece una historia esencial
+para un periódico local.
+
+187
+00:11:02,745 --> 00:11:06,078
+Como mínimo,
+debemos revisar esos documentos.
+
+188
+00:11:06,666 --> 00:11:07,951
+¿Cómo quisiera hacerlo?
+
+189
+00:11:09,210 --> 00:11:14,204
+Desconozco las leyes de aquí, pero
+en Florida iríamos a la justicia.
+
+190
+00:11:14,716 --> 00:11:15,922
+¿Quiere demandar a la Iglesia?
+
+191
+00:11:17,302 --> 00:11:18,578
+Técnicamente, no la demandaríamos.
+
+192
+00:11:18,678 --> 00:11:21,340
+Haríamos una petición
+para acceder a esos documentos.
+
+193
+00:11:21,806 --> 00:11:23,546
+La Iglesia lo interpretará como demanda.
+
+194
+00:11:24,392 --> 00:11:25,723
+Y todos los demás.
+
+195
+00:11:27,061 --> 00:11:28,392
+Es bueno saberlo.
+
+196
+00:11:31,441 --> 00:11:32,647
+Una jugada atrevida para el primer día.
+
+197
+00:11:32,817 --> 00:11:34,023
+Es una forma de decirlo.
+
+198
+00:11:34,194 --> 00:11:35,900
+¿Cómo cree que lo tomarán
+los de arriba?
+
+199
+00:11:36,154 --> 00:11:37,894
+Creo que Gilman va a entrar en pánico.
+
+200
+00:11:38,114 --> 00:11:39,604
+- Hola.
+- La puerta.
+
+201
+00:11:40,116 --> 00:11:41,322
+¿Cómo fue?
+
+202
+00:11:41,659 --> 00:11:45,277
+Baron quiere hacer una demanda
+por los documentos del caso Geoghan.
+
+203
+00:11:45,747 --> 00:11:48,329
+¿Quiere demandar a la Iglesia? Genial.
+
+204
+00:11:49,042 --> 00:11:51,533
+Cubrimos a Geoghan
+cuando saltó la historia hace tres años.
+
+205
+00:11:51,711 --> 00:11:53,154
+Baron aún estaba en Miami.
+
+206
+00:11:53,254 --> 00:11:55,323
+Creo que estaba en el <i>Times</i>
+en ese entonces.
+
+207
+00:11:55,423 --> 00:11:58,039
+- No estaba aquí.
+- ¿Creen que esa demanda prospere?
+
+208
+00:11:59,260 --> 00:12:00,750
+Depende del juez.
+
+209
+00:12:01,221 --> 00:12:03,052
+Y de la parroquia a la que pertenezca.
+
+210
+00:12:04,724 --> 00:12:05,724
+Bradlee.
+
+211
+00:12:06,476 --> 00:12:07,476
+Sí.
+
+212
+00:12:07,977 --> 00:12:09,012
+De acuerdo.
+
+213
+00:12:10,688 --> 00:12:11,973
+Baron quiere hablarnos.
+
+214
+00:12:12,899 --> 00:12:13,934
+¿A nosotros?
+
+215
+00:12:14,275 --> 00:12:16,015
+De acuerdo, Jon. Gracias.
+
+216
+00:12:16,903 --> 00:12:18,894
+Sí. De acuerdo, gracias.
+
+217
+00:12:20,531 --> 00:12:23,773
+Concerté una reunión para mañana
+con un asesor externo.
+
+218
+00:12:23,993 --> 00:12:25,529
+- ¿Jon Albano?
+- Sí.
+
+219
+00:12:25,703 --> 00:12:27,193
+¿Quién es el juez de la causa?
+
+220
+00:12:29,916 --> 00:12:31,406
+Constance Sweeney.
+
+221
+00:12:31,709 --> 00:12:33,290
+- Será duro.
+- ¿Por qué?
+
+222
+00:12:34,003 --> 00:12:35,243
+Es una buena chica católica.
+
+223
+00:12:37,924 --> 00:12:39,539
+Así que...
+
+224
+00:12:39,717 --> 00:12:41,673
+...por lo que leí,
+parece que no hemos hecho...
+
+225
+00:12:41,844 --> 00:12:44,711
+...una investigación muy minuciosa
+sobre el caso Geoghan.
+
+226
+00:12:44,889 --> 00:12:46,880
+- ¿No es así?
+- No.
+
+227
+00:12:47,600 --> 00:12:49,056
+Investigamos en detalle a Geoghan.
+
+228
+00:12:49,227 --> 00:12:52,219
+David Armstrong de Metro, Michael
+Paulson de la sección Religión.
+
+229
+00:12:52,981 --> 00:12:55,472
+De acuerdo,
+pero, a ver si entiendo bien...
+
+230
+00:12:55,650 --> 00:12:57,982
+...más allá de la cobertura diaria,
+¿no hemos asignado...
+
+231
+00:12:58,152 --> 00:13:01,064
+...ningún recurso de investigación
+a largo plazo...
+
+232
+00:13:01,239 --> 00:13:03,730
+...a la pregunta de si el cardenal Law
+sabía sobre esto?
+
+233
+00:13:05,243 --> 00:13:06,483
+No, no lo hicimos.
+
+234
+00:13:06,953 --> 00:13:08,659
+Y ¿eso es lo que haría su equipo?
+
+235
+00:13:09,080 --> 00:13:10,320
+¿Spotlight? Sí.
+
+236
+00:13:10,498 --> 00:13:14,207
+Pero aún estamos analizando la historia
+de la policía de Boston que le comenté.
+
+237
+00:13:15,378 --> 00:13:17,960
+- ¿Podrían interrumpir eso un tiempo?
+- Podríamos.
+
+238
+00:13:18,298 --> 00:13:21,882
+Marty, en el pasado, Spotlight
+tuvo éxito en gran parte porque...
+
+239
+00:13:22,051 --> 00:13:23,507
+...ellos eligen sus propios proyectos.
+
+240
+00:13:27,265 --> 00:13:29,256
+¿Considerarían elegir este?
+
+241
+00:13:30,184 --> 00:13:31,344
+No sé si escribe sobre usted...
+
+242
+00:13:31,519 --> 00:13:34,261
+...pero le avisaré que llamó.
+Bien, adiós.
+
+243
+00:13:35,231 --> 00:13:37,313
+- Hola.
+- Hola, ¿cómo fue?
+
+244
+00:13:38,151 --> 00:13:39,151
+Bien.
+
+245
+00:13:40,320 --> 00:13:42,902
+Baron quiere que investiguemos
+el caso Geoghan.
+
+246
+00:13:44,866 --> 00:13:46,276
+- Genial.
+- ¿No cubrimos ya a Geoghan?
+
+247
+00:13:46,451 --> 00:13:48,942
+Sí, un abogado alegó
+que el cardenal Law sabía.
+
+248
+00:13:49,579 --> 00:13:50,659
+- Mitch Garabedian, ¿no?
+- Sí.
+
+249
+00:13:50,872 --> 00:13:51,872
+Yo lo cubrí en el juzgado.
+
+250
+00:13:52,498 --> 00:13:54,238
+- ¿Puedes ubicarlo?
+- Lo entrevisté una vez.
+
+251
+00:13:54,417 --> 00:13:57,124
+- Es un personaje.
+- Me gustan los personajes. Yo lo hago.
+
+252
+00:13:57,337 --> 00:13:58,372
+Bien. Ocúpate tú.
+
+253
+00:13:58,546 --> 00:14:00,457
+Y debemos comunicarnos con el abogado...
+
+254
+00:14:00,631 --> 00:14:03,464
+...que representó a las víctimas
+en el caso Porter. Eric Macleish.
+
+255
+00:14:03,634 --> 00:14:06,467
+- Ese tipo siempre salía en televisión.
+- ¿El caso Porter?
+
+256
+00:14:06,679 --> 00:14:09,295
+- Recuérdamelo.
+- El padre Porter, una historia similar.
+
+257
+00:14:09,474 --> 00:14:11,542
+Abusó de varios niños en Fall River
+hace 10 años.
+
+258
+00:14:11,642 --> 00:14:13,211
+¿Abandonamos lo de la policía de Boston?
+
+259
+00:14:13,311 --> 00:14:14,462
+- Yo voto que sí.
+- No.
+
+260
+00:14:14,562 --> 00:14:16,393
+Solo lo interrumpimos por ahora.
+Oigan...
+
+261
+00:14:16,522 --> 00:14:19,685
+...no hace falta que les diga esto,
+debemos ser más discretos que nunca.
+
+262
+00:14:19,901 --> 00:14:20,901
+¿De acuerdo?
+
+263
+00:14:21,152 --> 00:14:23,643
+Todos estarán interesados en esto,
+no solo el <i>Herald.</i>
+
+264
+00:14:24,280 --> 00:14:26,942
+El cardenal Law no puede enterarse
+hasta saber qué tenemos.
+
+265
+00:14:28,201 --> 00:14:29,566
+Buena suerte con eso.
+
+266
+00:14:35,375 --> 00:14:36,609
+<i>¿Cuándo te vas, abuela?</i>
+
+267
+00:14:36,709 --> 00:14:39,701
+El autobús pasa por el estacionamiento
+de la Iglesia a las 9:00.
+
+268
+00:14:39,837 --> 00:14:41,168
+Vamos 40 personas.
+
+269
+00:14:41,464 --> 00:14:42,920
+Y ¿va a ir el padre Dominic?
+
+270
+00:14:43,091 --> 00:14:44,877
+No, dice que no tiene suerte.
+
+271
+00:14:45,051 --> 00:14:46,632
+Pero no es cuestión de suerte.
+
+272
+00:14:46,928 --> 00:14:49,590
+- La última vez, la abuela ganó $160.
+- ¡Vaya!
+
+273
+00:14:52,517 --> 00:14:53,677
+¿Le vas a contar?
+
+274
+00:14:54,894 --> 00:14:56,350
+Aún ni sabemos si hay una historia.
+
+275
+00:14:56,521 --> 00:14:59,103
+¿"El <i>Globe</i> demanda a la Iglesia"?
+Va a ser una historia.
+
+276
+00:15:18,793 --> 00:15:21,751
+Oye, Lisa. ¿Me buscarías
+todas las notas relacionadas con esto?
+
+277
+00:15:21,921 --> 00:15:23,411
+Sí.
+
+278
+00:15:23,589 --> 00:15:24,999
+¿Es para Spotlight?
+
+279
+00:15:25,174 --> 00:15:26,880
+Déjamelas cuando las tengas. Gracias.
+
+280
+00:15:29,971 --> 00:15:32,212
+Disculpe, ¿sabe dónde está
+la oficina editorial?
+
+281
+00:15:33,474 --> 00:15:34,805
+Sí, claro.
+
+282
+00:15:38,146 --> 00:15:39,386
+¿Cómo está, Marty?
+
+283
+00:15:39,939 --> 00:15:41,099
+¿Adaptándose?
+
+284
+00:15:41,357 --> 00:15:43,769
+- Sí, eso creo.
+- Bien.
+
+285
+00:15:44,402 --> 00:15:45,482
+¿Qué puedo hacer por usted?
+
+286
+00:15:48,030 --> 00:15:50,772
+Quisiera recusar la orden de protección
+en el caso Geoghan.
+
+287
+00:15:51,868 --> 00:15:53,278
+¿Quiere demandar
+a la Iglesia Católica?
+
+288
+00:15:55,329 --> 00:15:58,162
+Solo haremos una petición, pero...
+
+289
+00:15:58,332 --> 00:15:59,332
+Sí.
+
+290
+00:16:00,168 --> 00:16:01,328
+¿Le parece tan importante?
+
+291
+00:16:02,253 --> 00:16:03,868
+- Sí.
+- Porque...
+
+292
+00:16:04,922 --> 00:16:07,413
+...obviamente la Iglesia
+se nos va a venir encima.
+
+293
+00:16:08,009 --> 00:16:10,500
+Y no pasará inadvertido
+para nuestra base de suscriptores.
+
+294
+00:16:10,678 --> 00:16:12,339
+El 53% son católicos.
+
+295
+00:16:15,224 --> 00:16:16,805
+Yo creo que estarán interesados.
+
+296
+00:16:20,480 --> 00:16:21,480
+De acuerdo.
+
+297
+00:16:26,861 --> 00:16:31,195
+Marty. Lake Street lo contactará por
+una entrevista con el Cardenal. Rutina.
+
+298
+00:16:32,074 --> 00:16:35,237
+Sí. Ya lo hicieron.
+Lo programé para la semana próxima.
+
+299
+00:16:36,746 --> 00:16:38,407
+Yo no mencionaría esto.
+
+300
+00:16:49,342 --> 00:16:50,342
+¿Hola?
+
+301
+00:16:53,930 --> 00:16:54,930
+¿Hola?
+
+302
+00:16:55,348 --> 00:16:56,428
+- ¿Puedo ayudarle?
+- Hola.
+
+303
+00:16:56,599 --> 00:16:59,807
+Soy Mike Rezendes de <i>The Boston Globe.</i>
+Busco a Mitchell Garabedian.
+
+304
+00:17:00,394 --> 00:17:02,476
+Está hablando por teléfono.
+Tome asiento.
+
+305
+00:17:03,189 --> 00:17:04,599
+De acuerdo.
+
+306
+00:17:05,900 --> 00:17:07,515
+Lo escucho. Adelante.
+
+307
+00:17:12,198 --> 00:17:14,136
+<i>Bill. ¿Dónde diablos están esos papeles?</i>
+
+308
+00:17:14,236 --> 00:17:16,236
+<i>¡Te pedí que los dejaras
+en mi escritorio!</i>
+
+309
+00:17:31,509 --> 00:17:34,342
+El famoso Walter Robinson
+en mi sala de conferencias.
+
+310
+00:17:35,596 --> 00:17:36,596
+Me alegra verte, Eric.
+
+311
+00:17:36,764 --> 00:17:39,255
+- Sacha Pfeiffer, Eric Macleish.
+- Un gusto.
+
+312
+00:17:39,433 --> 00:17:41,139
+¿Juegas golf?
+
+313
+00:17:41,519 --> 00:17:43,305
+- No.
+- Bien.
+
+314
+00:17:43,479 --> 00:17:44,685
+Tu colega se quedó con mi dinero...
+
+315
+00:17:44,855 --> 00:17:45,970
+...en un evento solidario.
+
+316
+00:17:46,148 --> 00:17:49,436
+Fue un <i>putt</i> muy afortunado.
+Es más, tenía los ojos cerrados.
+
+317
+00:17:50,987 --> 00:17:52,818
+¿En qué puedo ayudarles?
+
+318
+00:17:54,156 --> 00:17:56,317
+¿Estás al tanto del caso Geoghan?
+
+319
+00:17:56,659 --> 00:17:57,659
+Sí, claro.
+
+320
+00:17:57,827 --> 00:18:00,660
+Ochenta demandantes.
+Todos casos individuales.
+
+321
+00:18:00,830 --> 00:18:02,366
+Garabedian debe estar nadando.
+
+322
+00:18:02,790 --> 00:18:06,157
+Bueno. ¿Y los alegatos
+contra el cardenal Law?
+
+323
+00:18:06,961 --> 00:18:08,497
+Sí, es complicado.
+
+324
+00:18:09,714 --> 00:18:12,330
+Deben entender algo.
+Estos casos son un asco.
+
+325
+00:18:13,342 --> 00:18:15,674
+El plazo de prescripción es
+de solo tres años...
+
+326
+00:18:15,845 --> 00:18:18,882
+...y la mayoría de las víctimas no
+comparecen hasta mucho después de eso.
+
+327
+00:18:19,640 --> 00:18:20,800
+¿Por qué es así?
+
+328
+00:18:20,975 --> 00:18:22,340
+Son niños.
+
+329
+00:18:22,852 --> 00:18:24,137
+Culpa, vergüenza.
+
+330
+00:18:24,312 --> 00:18:26,018
+Y la mayoría viene de barrios pesados.
+
+331
+00:18:26,188 --> 00:18:29,180
+Nadie quiere admitir
+este tipo de cosas. Así que...
+
+332
+00:18:29,525 --> 00:18:31,390
+Están complicados con el plazo.
+
+333
+00:18:31,569 --> 00:18:33,184
+Y...
+
+334
+00:18:33,487 --> 00:18:35,068
+...aun si logran encontrarle
+la vuelta a eso...
+
+335
+00:18:35,239 --> 00:18:38,481
+...la ley de inmunidad caritativa limita
+la indemnización a $20.000.
+
+336
+00:18:39,660 --> 00:18:42,026
+¿$20.000 por abuso de menores?
+
+337
+00:18:43,331 --> 00:18:45,868
+Eso es lo que establece el sistema. Sí.
+
+338
+00:18:46,042 --> 00:18:48,533
+La Iglesia es dura.
+
+339
+00:18:48,711 --> 00:18:54,172
+Su mejor opción es tratar estos casos
+en la prensa, como hice yo con Porter.
+
+340
+00:18:55,176 --> 00:18:57,918
+Pero la mayoría de las víctimas
+no quieren aparecer en TV.
+
+341
+00:18:58,095 --> 00:18:59,585
+Y...
+
+342
+00:18:59,764 --> 00:19:03,256
+...Mitch no es bueno
+interactuando con la gente.
+
+343
+00:19:03,893 --> 00:19:07,385
+Sí, y si Garabedian no puede hacer
+que sus víctimas recurran a la prensa...
+
+344
+00:19:07,563 --> 00:19:08,563
+...entonces...
+
+345
+00:19:08,731 --> 00:19:12,064
+Así es.
+Tiene un largo camino por delante.
+
+346
+00:19:12,360 --> 00:19:15,852
+A mi parecer,
+no tiene pruebas contra Law.
+
+347
+00:19:16,947 --> 00:19:18,608
+¿Qué? ¿Cree que está alardeando o...?
+
+348
+00:19:19,075 --> 00:19:22,613
+Creo que está presumiendo
+para conseguir un mejor acuerdo.
+
+349
+00:19:23,621 --> 00:19:24,952
+Parece un poco imprudente.
+
+350
+00:19:26,248 --> 00:19:28,239
+¿Ya conocieron a Mitch Garabedian?
+
+351
+00:19:29,085 --> 00:19:33,249
+<i>Te pedí que redactaras esa petición,
+Bill. No que la archivaras.</i>
+
+352
+00:19:43,099 --> 00:19:47,433
+Oye, Bill,
+estos son los legajos de ayer.
+
+353
+00:19:56,570 --> 00:19:57,605
+Hola.
+
+354
+00:19:58,614 --> 00:20:00,900
+- ¿Quién es usted?
+- Mike Rezendes de <i>The Boston Globe.</i>
+
+355
+00:20:01,075 --> 00:20:02,281
+Tenía cita hace una hora.
+
+356
+00:20:02,451 --> 00:20:04,282
+Ahora no puedo.
+Estoy ocupado. ¿Sharon?
+
+357
+00:20:04,453 --> 00:20:06,444
+No. Fue por un café.
+Dijo que volvía enseguida.
+
+358
+00:20:06,622 --> 00:20:08,158
+Estoy con el seguimiento de un artículo.
+
+359
+00:20:09,166 --> 00:20:11,157
+- ¿El del <i>Phoenix?</i>
+- No. El del <i>Globe</i>.
+
+360
+00:20:11,585 --> 00:20:12,745
+¿Vio el del <i>Phoenix?</i>
+
+361
+00:20:13,421 --> 00:20:14,831
+- No.
+- Me pareció muy bueno.
+
+362
+00:20:15,005 --> 00:20:17,621
+- Tengo una copia aquí.
+- Está bien. Luego lo busco.
+
+363
+00:20:18,676 --> 00:20:21,918
+Trabajo en la columna que escribió
+Eileen McNamara sobre su juicio.
+
+364
+00:20:22,138 --> 00:20:24,174
+Juicios. Son 84.
+
+365
+00:20:24,348 --> 00:20:25,428
+No es una acción colectiva.
+
+366
+00:20:25,808 --> 00:20:27,969
+- Debe corroborar los hechos.
+- No, tiene razón. Sí.
+
+367
+00:20:28,644 --> 00:20:30,475
+Busco información de contexto sobre--
+
+368
+00:20:30,646 --> 00:20:32,477
+No está grabando, ¿no?
+
+369
+00:20:33,315 --> 00:20:34,430
+No, no lo haría sin preguntar.
+
+370
+00:20:34,608 --> 00:20:36,815
+No puedo mostrarle
+los documentos de la Iglesia.
+
+371
+00:20:36,986 --> 00:20:38,146
+Son confidenciales.
+
+372
+00:20:38,779 --> 00:20:39,779
+Sí, lo sé.
+
+373
+00:20:40,781 --> 00:20:41,781
+¿Sabía que quisieron llevarme...
+
+374
+00:20:41,949 --> 00:20:44,691
+...ante la Junta de Ética Profesional
+tres veces?
+
+375
+00:20:45,119 --> 00:20:46,325
+Me están vigilando de cerca.
+
+376
+00:20:46,495 --> 00:20:48,952
+- ¿La Iglesia?
+- Sí. La Iglesia. Sí.
+
+377
+00:20:49,165 --> 00:20:51,326
+Quieren que me inhabiliten.
+De hecho, guarde eso.
+
+378
+00:20:52,543 --> 00:20:53,874
+- Guárdelo.
+- Sí, claro.
+
+379
+00:20:54,044 --> 00:20:55,830
+No quiero que registre esto
+de ningún modo.
+
+380
+00:20:56,005 --> 00:20:57,870
+Ni por escrito. Ni grabado. Nada.
+
+381
+00:20:58,048 --> 00:21:00,790
+De hecho, ni debería
+estar hablándole. Así que...
+
+382
+00:21:00,968 --> 00:21:02,128
+Escuche, Sr. Garabedian...
+
+383
+00:21:02,470 --> 00:21:05,132
+...sé que hay cosas
+que no puede contarme...
+
+384
+00:21:05,681 --> 00:21:08,468
+...pero también sé que hay
+una historia aquí. Y que es importante.
+
+385
+00:21:08,893 --> 00:21:10,349
+Ya hablé con el <i>Phoenix.</i>
+
+386
+00:21:10,519 --> 00:21:11,975
+Y hay un motivo por el cual no lo vi.
+
+387
+00:21:12,396 --> 00:21:14,352
+Ya nadie lee el <i>Phoenix.</i>
+
+388
+00:21:14,523 --> 00:21:16,013
+Quebraron. No tienen poder.
+
+389
+00:21:16,400 --> 00:21:17,731
+El <i>Globe</i> sí.
+
+390
+00:21:18,652 --> 00:21:20,859
+Si cubrimos esta historia,
+todo el mundo se enterará.
+
+391
+00:21:22,865 --> 00:21:25,481
+La Iglesia piensa en siglos,
+Sr. Rezendes.
+
+392
+00:21:25,826 --> 00:21:28,363
+¿Cree que su periódico tiene
+los recursos para enfrentarlo?
+
+393
+00:21:28,704 --> 00:21:29,910
+Sí.
+
+394
+00:21:30,706 --> 00:21:33,038
+Pero si no le molesta que pregunte...
+
+395
+00:21:33,209 --> 00:21:34,209
+...¿y usted?
+
+396
+00:21:35,419 --> 00:21:38,252
+No puedo hablar ahora,
+Sr. Rezendes, estoy muy ocupado.
+
+397
+00:21:41,884 --> 00:21:43,875
+- ¿Sharon?
+- Gracias.
+
+398
+00:21:44,053 --> 00:21:46,419
+¿Puedo hablar con algunos
+de sus clientes? ¿Las víctimas?
+
+399
+00:21:46,597 --> 00:21:48,212
+Realmente quisiera hacerlo.
+
+400
+00:21:49,183 --> 00:21:51,174
+- Llámeme mañana, debo pensarlo.
+- Gracias.
+
+401
+00:22:16,460 --> 00:22:18,872
+UN PATRÓN CONOCIDO
+Sin comentarios del cardenal Bernard Law
+
+402
+00:22:22,091 --> 00:22:24,548
+The Boston Globe - Porter detenido
+en Minn. por cargos en Mass.
+
+403
+00:22:26,053 --> 00:22:27,984
+Porter ante el tribunal de Mass.
+por denuncias de abuso en el 87
+
+404
+00:22:44,947 --> 00:22:46,403
+Tengo más notas de la biblioteca.
+
+405
+00:22:46,574 --> 00:22:47,939
+Déjalas ahí.
+
+406
+00:22:48,617 --> 00:22:50,608
+¿Harán una historia sobre la Iglesia?
+
+407
+00:22:50,786 --> 00:22:53,072
+No, no haremos
+una historia sobre la Iglesia.
+
+408
+00:22:53,622 --> 00:22:55,954
+Matt, ¿encontraste algo
+sobre Phil Saviano?
+
+409
+00:22:56,625 --> 00:22:58,161
+No. ¿Quién es?
+
+410
+00:22:58,335 --> 00:22:59,916
+Es de una organización de víctimas.
+
+411
+00:23:00,504 --> 00:23:02,495
+Kurkjian escribió sobre él
+tras el caso Porter.
+
+412
+00:23:03,173 --> 00:23:05,084
+¿Hay una organización de víctimas?
+
+413
+00:23:05,259 --> 00:23:09,093
+Sí, se llama SNAP. Red de Sobrevivientes
+de Abuso Eclesiástico.
+
+414
+00:23:09,430 --> 00:23:10,920
+Qué acrónimo horrible.
+
+415
+00:23:13,601 --> 00:23:15,933
+- ¿Quieres que lo ubique?
+- Sí. Tráelo.
+
+416
+00:23:16,478 --> 00:23:18,514
+¿Cuánto tiempo necesitas
+para ver esas notas?
+
+417
+00:23:19,023 --> 00:23:20,979
+Unos días. Hay mucho material.
+
+418
+00:23:21,150 --> 00:23:22,481
+- Lisa sigue enviando más.
+- Bien.
+
+419
+00:23:22,651 --> 00:23:25,721
+Oigan, muchachos.
+Creo que tengo otro cura.
+
+420
+00:23:25,821 --> 00:23:27,311
+Archidiócesis de Boston demandada
+por presunto abuso sexual de cura
+
+421
+00:23:27,448 --> 00:23:29,860
+Liam Barrett.
+Abusó de unos niños en Filadelfia...
+
+422
+00:23:30,492 --> 00:23:31,777
+...y lo trasladaron a Boston.
+
+423
+00:23:31,952 --> 00:23:34,113
+Hizo lo mismo,
+y lo volvieron a trasladar.
+
+424
+00:23:34,288 --> 00:23:35,824
+¿En serio? Parecido a lo de Geoghan.
+
+425
+00:23:35,998 --> 00:23:39,786
+- ¿Es una de nuestras notas?
+- Sí. La firma Diego Ribadeneira, 1997.
+
+426
+00:23:39,960 --> 00:23:41,666
+Debió ser cuando estaba en Religión.
+
+427
+00:23:42,546 --> 00:23:45,003
+- ¿Hubo algún seguimiento?
+- No mucho. Un artículo breve.
+
+428
+00:23:46,467 --> 00:23:48,128
+La Iglesia resolvió el caso.
+
+429
+00:23:50,846 --> 00:23:52,552
+¿No conoces a Jim Sullivan?
+
+430
+00:23:53,015 --> 00:23:54,676
+Sí. ¿Por qué?
+
+431
+00:23:55,184 --> 00:23:57,345
+Parece que la Iglesia lo trajo
+para ayudar.
+
+432
+00:24:05,569 --> 00:24:06,900
+Cielos...
+
+433
+00:24:07,237 --> 00:24:09,193
+¿Alguien más además de Manny
+la sacó del cuadro?
+
+434
+00:24:10,407 --> 00:24:12,398
+No.
+¿Por qué pierdes tiempo con eso?
+
+435
+00:24:12,910 --> 00:24:14,741
+Me distrae del juego.
+
+436
+00:24:14,995 --> 00:24:16,826
+¿Sabes qué más es bueno para eso?
+
+437
+00:24:17,206 --> 00:24:20,164
+Sí. Buena idea.
+Yo invito. Enseguida vuelvo.
+
+438
+00:24:20,501 --> 00:24:21,661
+- ¿Quieren algo de comer?
+- No.
+
+439
+00:24:21,835 --> 00:24:23,371
+- Yo estoy bien.
+- Un perro caliente.
+
+440
+00:24:25,881 --> 00:24:27,337
+¿Están avanzando?
+
+441
+00:24:27,508 --> 00:24:30,500
+- Por supuesto. Es una buena historia.
+- ¿Por qué?
+
+442
+00:24:30,844 --> 00:24:33,051
+¿Eres otro católico rebelde
+enojado con la Iglesia?
+
+443
+00:24:33,222 --> 00:24:35,213
+- Tenemos mucho material bueno.
+- ¿Como qué?
+
+444
+00:24:36,850 --> 00:24:38,886
+Solo estoy mirando el partido. Omertá.
+
+445
+00:24:39,228 --> 00:24:41,463
+Tienen a otro cura, Liam Barrett.
+
+446
+00:24:41,563 --> 00:24:42,598
+Escribimos sobre él.
+
+447
+00:24:43,774 --> 00:24:44,934
+- Solo digo que lo hicimos.
+- Bien...
+
+448
+00:24:45,109 --> 00:24:47,896
+...pero lo pasaron de una parroquia
+a otra cada tantos años...
+
+449
+00:24:48,070 --> 00:24:50,436
+...igual que a Geoghan y Porter.
+Creo que hay un patrón.
+
+450
+00:24:51,573 --> 00:24:53,029
+Suena poco contundente.
+
+451
+00:24:53,200 --> 00:24:54,200
+¿Qué más tienes?
+
+452
+00:24:54,368 --> 00:24:57,860
+Sacha tiene a otro tipo de una
+organización de víctimas, Phil Saviano.
+
+453
+00:24:58,038 --> 00:25:00,905
+¿De la SNAP? Dios.
+También escribimos sobre él.
+
+454
+00:25:01,083 --> 00:25:03,074
+¿No estabas mirando el partido, Steve?
+
+455
+00:25:03,252 --> 00:25:05,789
+- Ese tipo está mal, Mike.
+- Hicimos un par de notas sobre él.
+
+456
+00:25:05,963 --> 00:25:07,373
+No paraba de escribir cartas.
+
+457
+00:25:07,715 --> 00:25:08,875
+Quiere una guerra santa.
+
+458
+00:25:09,049 --> 00:25:11,586
+- ¿Qué? ¿No vale la pena hablarle?
+- ¿Cómo vas con Garabedian?
+
+459
+00:25:11,760 --> 00:25:12,875
+Estoy en eso.
+
+460
+00:25:13,053 --> 00:25:14,918
+Robby dijo que Macleish cree
+que alardea.
+
+461
+00:25:15,973 --> 00:25:17,133
+Creo que hay algo ahí, Ben.
+
+462
+00:25:17,307 --> 00:25:19,263
+Búscame algo contundente,
+o te saco el caso.
+
+463
+00:25:19,601 --> 00:25:21,887
+No quiero
+que nos quedemos varados con esto.
+
+464
+00:25:30,988 --> 00:25:32,899
+Aléjate de ese búnker.
+
+465
+00:25:33,073 --> 00:25:35,280
+No llegarías a ese búnker
+ni en un millón de años.
+
+466
+00:25:35,451 --> 00:25:37,282
+Ya llegué a ese búnker antes.
+
+467
+00:25:37,453 --> 00:25:39,318
+¿Sí? Paul, puede ser.
+
+468
+00:25:40,414 --> 00:25:42,245
+- ¿Cómo vamos?
+- Bien.
+
+469
+00:25:42,624 --> 00:25:44,114
+Vamos dos arriba adelante.
+
+470
+00:25:44,293 --> 00:25:45,783
+Bien.
+
+471
+00:25:45,961 --> 00:25:47,497
+¿Qué tal el editor nuevo?
+
+472
+00:25:47,671 --> 00:25:49,957
+No le gusta el béisbol.
+
+473
+00:25:50,174 --> 00:25:53,166
+Pero parece inteligente.
+
+474
+00:25:53,927 --> 00:25:55,167
+Sí, leí un artículo sobre él.
+
+475
+00:25:55,345 --> 00:25:58,462
+Decía que es
+el primer editor judío en el <i>Globe</i>.
+
+476
+00:25:59,349 --> 00:26:01,635
+Debió ser un día de pocas noticias.
+
+477
+00:26:02,436 --> 00:26:03,767
+¿Tiene familia?
+
+478
+00:26:03,937 --> 00:26:06,144
+No. No está casado.
+
+479
+00:26:06,440 --> 00:26:08,977
+- ¿Divorciado?
+- No, no lo creo.
+
+480
+00:26:09,610 --> 00:26:12,352
+Entonces ¿el editor nuevo del <i>Globe</i>
+es un soltero judío...
+
+481
+00:26:12,529 --> 00:26:14,360
+...que odia el béisbol?
+
+482
+00:26:14,823 --> 00:26:16,654
+- Sí.
+- Debí habérselo dado a Ben.
+
+483
+00:26:17,201 --> 00:26:18,532
+Es un Bradlee, por el amor de Dios.
+
+484
+00:26:18,702 --> 00:26:21,318
+Se demoró en levantar la mano, supongo.
+
+485
+00:26:22,664 --> 00:26:23,664
+A propósito...
+
+486
+00:26:23,791 --> 00:26:25,998
+...estuve leyendo sobre un cura,
+el padre Barrett.
+
+487
+00:26:26,168 --> 00:26:27,533
+Dijo que estuviste involucrado en eso.
+
+488
+00:26:28,128 --> 00:26:30,289
+Barrett, sí. Una manzana podrida.
+
+489
+00:26:30,881 --> 00:26:32,212
+Lake Street pidió ayuda,
+di una mano.
+
+490
+00:26:33,884 --> 00:26:36,341
+Las víctimas dijeron
+que el cardenal Law sabía de Barret...
+
+491
+00:26:36,512 --> 00:26:37,512
+...cuando vino de Filadelfia.
+
+492
+00:26:37,846 --> 00:26:39,052
+¿Es cierto?
+
+493
+00:26:39,223 --> 00:26:41,509
+Sabes que no puedo hablar del caso,
+Robby.
+
+494
+00:26:43,852 --> 00:26:45,183
+¿Extraoficialmente?
+
+495
+00:26:45,479 --> 00:26:47,470
+Extraoficialmente,
+no puedo hablar de eso.
+
+496
+00:26:47,898 --> 00:26:50,184
+- De acuerdo.
+- ¿Esto tiene que ver con el juicio?
+
+497
+00:26:51,193 --> 00:26:52,353
+¿Sabes sobre eso?
+
+498
+00:26:53,654 --> 00:26:55,190
+Mira...
+
+499
+00:26:55,697 --> 00:26:57,983
+...no conozco a Baron
+ni sé qué tiene en mente.
+
+500
+00:26:58,158 --> 00:26:59,694
+Francamente, no me importa.
+
+501
+00:27:00,410 --> 00:27:02,696
+Solo no quiero ver que te baleen por él.
+
+502
+00:27:03,247 --> 00:27:05,033
+Creo que fue fuera.
+
+503
+00:27:10,379 --> 00:27:12,040
+- Ponlo aquí.
+- Vamos.
+
+504
+00:27:12,214 --> 00:27:16,048
+<i>El otro día, estaba en la web.</i>
+
+505
+00:27:16,218 --> 00:27:18,709
+<i>Todo lo que quieran saber está ahí.</i>
+
+506
+00:27:19,888 --> 00:27:24,382
+Debo admitir que como cura,
+me pone un poco nervioso.
+
+507
+00:27:25,018 --> 00:27:27,555
+¿Debería estar preocupado
+por perder mi trabajo?
+
+508
+00:27:29,398 --> 00:27:30,433
+No lo creo.
+
+509
+00:27:31,066 --> 00:27:33,899
+<i>El conocimiento es una cosa...</i>
+
+510
+00:27:34,236 --> 00:27:36,067
+<i>...pero la fe...</i>
+
+511
+00:27:36,238 --> 00:27:38,229
+<i>...la fe es otra cosa.</i>
+
+512
+00:27:53,213 --> 00:27:54,544
+Hola.
+
+513
+00:27:54,923 --> 00:27:56,083
+Hola.
+
+514
+00:27:57,759 --> 00:27:59,750
+¿No deberías estar golfeando o algo así?
+
+515
+00:28:00,429 --> 00:28:02,260
+"Golfear" no es un verbo.
+
+516
+00:28:02,639 --> 00:28:04,129
+Y no conseguí turno para jugar.
+
+517
+00:28:04,641 --> 00:28:06,597
+¿Así lo llaman? ¿Turno para jugar?
+
+518
+00:28:07,102 --> 00:28:10,094
+También lo llaman actividad recreativa.
+Deberías probar, Mike.
+
+519
+00:28:10,272 --> 00:28:13,264
+- Lo hago. Corro.
+- Sí, corres al trabajo...
+
+520
+00:28:16,612 --> 00:28:17,612
+¿A qué viniste hoy?
+
+521
+00:28:18,280 --> 00:28:20,271
+Estoy mirando estas notas de Saviano.
+
+522
+00:28:20,449 --> 00:28:22,735
+Sí, Ben y Steve creen
+que es un callejón sin salida.
+
+523
+00:28:22,951 --> 00:28:24,441
+Me hablaron estupideces en el partido.
+
+524
+00:28:24,953 --> 00:28:26,318
+Sí, Ben me envió un mensaje.
+
+525
+00:28:26,788 --> 00:28:28,449
+- ¿Sí?
+- Sí.
+
+526
+00:28:29,291 --> 00:28:30,952
+Dijo que debíamos olvidarlo.
+
+527
+00:28:31,668 --> 00:28:32,783
+¿Qué quieres hacer?
+
+528
+00:28:33,629 --> 00:28:35,119
+Quiero traer a Saviano.
+
+529
+00:28:35,923 --> 00:28:38,289
+¿Ignoramos a esos tipos?
+
+530
+00:28:41,470 --> 00:28:44,007
+Creo que debemos empezar
+a ignorar a todos esta vez.
+
+531
+00:28:44,640 --> 00:28:46,255
+Soy bueno para eso.
+
+532
+00:28:51,021 --> 00:28:53,979
+¿Crees que Baron sabe
+lo que se le viene encima?
+
+533
+00:28:54,358 --> 00:28:57,191
+No. Tampoco creo que le importe.
+
+534
+00:28:57,611 --> 00:29:00,444
+- Es bueno saberlo.
+- Sí.
+
+535
+00:29:02,658 --> 00:29:04,319
+A menos que se equivoque.
+
+536
+00:29:22,844 --> 00:29:26,007
+<i>Siempre me ha fascinado</i>
+<i>el negocio de la prensa.</i>
+
+537
+00:29:26,682 --> 00:29:29,048
+Solía sentarme en las clases
+con la gente de Nieman...
+
+538
+00:29:29,226 --> 00:29:30,682
+...cuando estaba en Harvard.
+
+539
+00:29:31,895 --> 00:29:34,887
+Leí que fue editor en algún momento.
+
+540
+00:29:35,649 --> 00:29:36,889
+Sí.
+
+541
+00:29:37,651 --> 00:29:39,812
+Sí, fue hace mucho tiempo.
+
+542
+00:29:39,987 --> 00:29:42,194
+El <i>Mississippi Register.</i>
+
+543
+00:29:42,489 --> 00:29:45,697
+Un pequeño periódico diocesano.
+
+544
+00:29:46,576 --> 00:29:51,195
+Pero para un pastor de 30 años,
+era una gran responsabilidad.
+
+545
+00:29:52,332 --> 00:29:53,538
+Demasiada, a veces.
+
+546
+00:29:55,043 --> 00:29:56,043
+¿En qué sentido?
+
+547
+00:29:58,213 --> 00:30:00,249
+Era amigo de los hermanos Ever.
+
+548
+00:30:00,716 --> 00:30:02,999
+Tomamos partido
+por los derechos civiles.
+
+549
+00:30:03,099 --> 00:30:06,246
+A nuestros lectores no les gustó.
+
+550
+00:30:06,346 --> 00:30:08,553
+Me consideraron un entrometido.
+
+551
+00:30:10,183 --> 00:30:11,889
+Me imagino.
+
+552
+00:30:12,102 --> 00:30:13,592
+Fue complicado ocupar ese puesto...
+
+553
+00:30:13,854 --> 00:30:15,845
+...más en un pueblo pequeño.
+
+554
+00:30:16,732 --> 00:30:20,395
+Verá que Boston también es
+un pueblo pequeño, Marty...
+
+555
+00:30:20,569 --> 00:30:22,059
+...en muchos sentidos.
+
+556
+00:30:23,613 --> 00:30:27,947
+Pero si puedo ser de ayuda, Marty,
+no dude en preguntar.
+
+557
+00:30:28,577 --> 00:30:31,410
+Siento que la ciudad florece...
+
+558
+00:30:31,580 --> 00:30:33,741
+...cuando sus grandes instituciones
+trabajan juntas.
+
+559
+00:30:35,459 --> 00:30:36,619
+Gracias.
+
+560
+00:30:36,793 --> 00:30:40,081
+Yo opino que para que un periódico
+cumpla mejor su función...
+
+561
+00:30:40,255 --> 00:30:43,088
+...debe ser independiente.
+
+562
+00:30:45,802 --> 00:30:47,292
+Por supuesto.
+
+563
+00:30:48,305 --> 00:30:50,261
+Pero mi oferta sigue en pie.
+
+564
+00:30:50,932 --> 00:30:52,422
+Gracias.
+
+565
+00:30:53,894 --> 00:30:55,054
+Adelante.
+
+566
+00:30:58,565 --> 00:30:59,896
+Gracias, Maureen.
+
+567
+00:31:02,444 --> 00:31:04,230
+Un regalito, Marty.
+
+568
+00:31:05,489 --> 00:31:09,277
+Considérelo la guía del Cardenal
+para conocer la ciudad de Boston.
+
+569
+00:31:16,124 --> 00:31:19,616
+CATECISMO
+DE LA IGLESIA CATÓLICA
+
+570
+00:31:26,593 --> 00:31:28,584
+Vengo a ver a Sacha Pfeiffer.
+
+571
+00:31:28,804 --> 00:31:30,795
+- ¿Su nombre?
+- Phil Saviano.
+
+572
+00:31:30,972 --> 00:31:32,758
+Un minuto.
+
+573
+00:31:34,267 --> 00:31:36,258
+¿Soy el primer sobreviviente
+con el que hablan?
+
+574
+00:31:36,436 --> 00:31:37,642
+Sí, Phil. Así es.
+
+575
+00:31:37,979 --> 00:31:39,765
+Bien...
+
+576
+00:31:40,315 --> 00:31:43,478
+...primero, permítanme agradecerles
+por recibirme aquí hoy.
+
+577
+00:31:44,361 --> 00:31:46,272
+Quiero que sepan
+que tienen toda la colaboración...
+
+578
+00:31:46,446 --> 00:31:48,277
+...de mi organización, la SNAP.
+
+579
+00:31:48,782 --> 00:31:50,647
+¿Cuántos miembros hay
+en su organización, Phil?
+
+580
+00:31:51,118 --> 00:31:53,029
+Éramos 11 en nuestra última reunión...
+
+581
+00:31:53,203 --> 00:31:55,660
+No, 10. Karen acaba de mudarse.
+
+582
+00:31:56,331 --> 00:31:57,787
+¿Había una mujer en su grupo?
+
+583
+00:31:57,958 --> 00:31:59,368
+Claro que sí.
+No discriminan...
+
+584
+00:31:59,543 --> 00:32:00,783
+...no cuando se trata de abuso.
+
+585
+00:32:00,961 --> 00:32:02,622
+Y no tiene nada que ver con ser gay.
+
+586
+00:32:02,796 --> 00:32:05,378
+Son curas que usan su vestidura
+para violar a niños.
+
+587
+00:32:06,007 --> 00:32:07,838
+Niños. Varones y mujeres.
+
+588
+00:32:12,347 --> 00:32:14,791
+PHIL SAVIANO
+11 AÑOS
+
+589
+00:32:14,891 --> 00:32:16,222
+Yo tenía 11...
+
+590
+00:32:16,852 --> 00:32:20,140
+...y fui acosado
+por el padre David Holley en Worcester.
+
+591
+00:32:20,981 --> 00:32:23,347
+Y no me acosó con rezos,
+sino sexualmente.
+
+592
+00:32:25,527 --> 00:32:26,562
+¿Alguno es católico?
+
+593
+00:32:27,070 --> 00:32:30,983
+Me criaron como católico, pero ahora voy
+a la iglesia presbiteriana de mi esposa.
+
+594
+00:32:32,075 --> 00:32:33,531
+Yo no soy practicante.
+
+595
+00:32:33,702 --> 00:32:35,408
+A veces voy a la iglesia
+con mi abuela.
+
+596
+00:32:35,829 --> 00:32:38,195
+Me atrevo a decir que a todos
+nos criaron como católicos...
+
+597
+00:32:38,373 --> 00:32:40,364
+- ...pero ahora...
+- No tanto.
+
+598
+00:32:40,542 --> 00:32:43,033
+Bien. Déjenme decirles.
+
+599
+00:32:43,211 --> 00:32:46,829
+Para un niño pobre de una familia pobre,
+la religión pesa mucho.
+
+600
+00:32:47,007 --> 00:32:49,999
+Y cuando un cura te presta atención,
+es importante.
+
+601
+00:32:50,719 --> 00:32:54,177
+Te pide que juntes los cancioneros,
+saques la basura, y te sientes especial.
+
+602
+00:32:54,389 --> 00:32:56,380
+Es como si Dios te pidiera ayuda.
+
+603
+00:32:57,058 --> 00:32:59,549
+Así que quizá es raro
+cuando te cuenta un chiste sexual...
+
+604
+00:33:00,103 --> 00:33:03,436
+...pero entonces compartes
+un secreto con él, así que sigues.
+
+605
+00:33:04,357 --> 00:33:07,349
+Luego te muestra una revista porno,
+y sigues.
+
+606
+00:33:07,903 --> 00:33:10,064
+Y sigues y sigues...
+
+607
+00:33:10,238 --> 00:33:13,401
+...hasta que un día te pide
+que lo masturbes o le hagas una mamada.
+
+608
+00:33:13,575 --> 00:33:15,065
+Y sigues también con eso.
+
+609
+00:33:15,243 --> 00:33:16,858
+Porque te sientes atrapado.
+
+610
+00:33:17,037 --> 00:33:19,403
+Porque te ha preparado.
+
+611
+00:33:20,207 --> 00:33:22,038
+¿Cómo le dices que no a Dios, no?
+
+612
+00:33:22,751 --> 00:33:23,786
+Verán...
+
+613
+00:33:24,920 --> 00:33:27,252
+...es importante entender
+que no es solo abuso físico...
+
+614
+00:33:27,422 --> 00:33:29,253
+...también es abuso espiritual.
+
+615
+00:33:29,966 --> 00:33:33,959
+Y cuando un cura te hace esto,
+te roba la fe.
+
+616
+00:33:35,055 --> 00:33:36,966
+Así que recurres al alcohol
+o las drogas...
+
+617
+00:33:37,641 --> 00:33:39,757
+...o si eso no funciona,
+saltas de un puente.
+
+618
+00:33:39,935 --> 00:33:41,766
+Por eso nos llamamos sobrevivientes.
+
+619
+00:33:41,937 --> 00:33:42,937
+¿Leyeron a Jason Berry?
+
+620
+00:33:43,104 --> 00:33:45,060
+Escribió sobre el caso Gauthe
+en Luisiana.
+
+621
+00:33:45,232 --> 00:33:47,097
+- Es G...
+- G-A-U-T-H-E.
+
+622
+00:33:47,400 --> 00:33:49,106
+Tomen. Y hablen con Richard Sipe.
+
+623
+00:33:49,444 --> 00:33:51,651
+Trabajó en un centro
+de "tratamiento" de la Iglesia...
+
+624
+00:33:51,905 --> 00:33:53,611
+...antes era cura...
+
+625
+00:33:53,907 --> 00:33:55,397
+...se casó con una monja.
+
+626
+00:33:55,909 --> 00:33:56,944
+Aquí tienen...
+
+627
+00:33:57,285 --> 00:34:00,448
+- ...su testimonio sobre el caso Kos.
+- ¿Qué es un centro de tratamiento?
+
+628
+00:34:00,956 --> 00:34:02,412
+Adónde van los curas que descubren.
+
+629
+00:34:02,582 --> 00:34:05,745
+Está todo aquí en la caja,
+se los envié hace cinco años.
+
+630
+00:34:07,003 --> 00:34:09,289
+¿Al <i>Globe</i>? ¿A quién se lo envió?
+
+631
+00:34:11,800 --> 00:34:13,916
+No quiero decir a quiénes,
+pero no les interesó.
+
+632
+00:34:14,761 --> 00:34:16,467
+Pero, Phil,
+sí escribimos sobre usted.
+
+633
+00:34:16,638 --> 00:34:17,798
+Vi algunas notas.
+
+634
+00:34:17,931 --> 00:34:20,968
+Sí, pero francamente,
+no fue suficiente.
+
+635
+00:34:22,310 --> 00:34:24,847
+Tienen que entender...
+
+636
+00:34:25,226 --> 00:34:26,227
+...que esto es pesado.
+
+637
+00:34:26,359 --> 00:34:30,148
+No es solo Boston,
+es todo el país. El mundo entero.
+
+638
+00:34:30,485 --> 00:34:32,146
+Y llega hasta el Vaticano.
+
+639
+00:34:32,988 --> 00:34:34,319
+¿Tiene pruebas de eso, Phil?
+
+640
+00:34:34,781 --> 00:34:37,488
+No, todavía no. Pero piénsenlo,
+hay muchos de ellos.
+
+641
+00:34:37,659 --> 00:34:39,149
+¿Cómo lo ocultaron tanto tiempo si no?
+
+642
+00:34:39,828 --> 00:34:41,659
+- ¿Muchos qué?
+- ¡Curas!
+
+643
+00:34:42,497 --> 00:34:43,987
+¡Curas!
+
+644
+00:34:44,541 --> 00:34:46,657
+Sé de 13 aquí en Boston.
+
+645
+00:34:47,377 --> 00:34:50,460
+¿Sabe de 13 curas de Boston
+que abusaron de niños?
+
+646
+00:34:50,630 --> 00:34:52,871
+Sí, ¿por qué siguen repitiendo
+todo lo que digo?
+
+647
+00:34:53,508 --> 00:34:55,243
+Me gusta aclarar las cosas.
+
+648
+00:34:55,343 --> 00:34:57,174
+Quizá debieron aclararlo
+hace cinco años...
+
+649
+00:34:57,304 --> 00:34:58,885
+...cuando les envié todo esto.
+
+650
+00:34:59,055 --> 00:35:01,216
+¡Está todo aquí!
+
+651
+00:35:10,191 --> 00:35:11,681
+¿Puedo usar el baño?
+
+652
+00:35:12,068 --> 00:35:13,524
+Sí, claro, Phil.
+
+653
+00:35:13,695 --> 00:35:15,026
+Vamos.
+
+654
+00:35:21,494 --> 00:35:23,485
+¿Qué piensan?
+
+655
+00:35:24,581 --> 00:35:26,697
+El tipo tiene algo en mente,
+está claro.
+
+656
+00:35:26,875 --> 00:35:28,365
+- ¿Te parece?
+- Obviamente sufrió mucho.
+
+657
+00:35:28,543 --> 00:35:30,659
+Pero es listo,
+y si es cierto lo de los 13 curas...
+
+658
+00:35:30,837 --> 00:35:32,543
+Este tipo es una incógnita.
+
+659
+00:35:32,714 --> 00:35:34,045
+Averigua sus antecedentes...
+
+660
+00:35:34,215 --> 00:35:36,331
+...y contacta a otros sobrevivientes
+de su grupo.
+
+661
+00:35:36,509 --> 00:35:38,875
+Voy a rastrear a este ex-cura, Sipe.
+
+662
+00:35:39,012 --> 00:35:40,843
+Pero sigue con Garabedian.
+Es más importante.
+
+663
+00:35:41,723 --> 00:35:43,384
+Garabedian, qué hinchapelotas.
+
+664
+00:35:43,850 --> 00:35:45,215
+Tú puedes ser un hinchapelotas.
+
+665
+00:35:58,990 --> 00:36:01,017
+Mitchell, qué sorpresa. ¿Cómo está?
+
+666
+00:36:01,117 --> 00:36:02,727
+- Estoy bien, Sr. Rezendes.
+- Bien.
+
+667
+00:36:02,827 --> 00:36:05,188
+No recibí respuesta suya.
+Le dejé mensajes.
+
+668
+00:36:05,288 --> 00:36:07,620
+Lo sé. Estuve ocupado.
+No tengo tiempo para llamadas.
+
+669
+00:36:07,749 --> 00:36:08,784
+Cielos, me imagino.
+
+670
+00:36:08,917 --> 00:36:11,903
+Escuche, Mitch,
+déjeme hablar con un par de víctimas.
+
+671
+00:36:12,003 --> 00:36:14,531
+Puede venir a la entrevista,
+y si no le gusta, la detiene.
+
+672
+00:36:14,631 --> 00:36:17,498
+Hablé con mis clientes, no quieren salir
+en la prensa. Lo siento.
+
+673
+00:36:17,634 --> 00:36:20,091
+Entiendo, pero no necesito dar nombres.
+
+674
+00:36:20,428 --> 00:36:22,089
+- No le creo, Sr. Rezendes.
+- Seguro que no.
+
+675
+00:36:22,263 --> 00:36:23,628
+- No.
+- Escuche, Mitchell.
+
+676
+00:36:23,848 --> 00:36:26,806
+- Sr. Rezendes, por favor...
+- No estoy escribiendo un perfil.
+
+677
+00:36:26,976 --> 00:36:28,967
+- Trabajo en algo más grande.
+- ¿Más grande?
+
+678
+00:36:29,145 --> 00:36:30,430
+No sé qué significa eso.
+
+679
+00:36:30,605 --> 00:36:33,438
+No debería contarle,
+pero estoy investigando para Spotlight.
+
+680
+00:36:35,443 --> 00:36:37,149
+- ¿Spotlight está en esto?
+- Sí, en este tema...
+
+681
+00:36:37,320 --> 00:36:38,810
+...pero debe ayudarme.
+
+682
+00:36:39,030 --> 00:36:41,271
+Déjeme hablar
+con algunas víctimas. Por favor.
+
+683
+00:36:44,828 --> 00:36:46,113
+Por favor.
+
+684
+00:36:49,374 --> 00:36:51,205
+Vuelva mañana. A las 9:30 a.m.
+
+685
+00:36:52,043 --> 00:36:53,453
+Gracias.
+
+686
+00:37:06,015 --> 00:37:07,471
+- ¿Srta. Pfeiffer?
+- ¿Joe?
+
+687
+00:37:07,809 --> 00:37:08,809
+- Hola.
+- Diablos.
+
+688
+00:37:08,977 --> 00:37:09,977
+- Está bien.
+- Disculpe.
+
+689
+00:37:10,145 --> 00:37:11,145
+- No hay problema.
+- Siéntese.
+
+690
+00:37:11,312 --> 00:37:12,347
+Gracias.
+
+691
+00:37:12,522 --> 00:37:13,978
+¿Esta mesa está bien?
+
+692
+00:37:14,149 --> 00:37:15,685
+Es perfecta.
+
+693
+00:37:15,984 --> 00:37:17,975
+Me comí una magdalena mientras esperaba.
+
+694
+00:37:18,319 --> 00:37:19,980
+Dos, en realidad.
+
+695
+00:37:20,530 --> 00:37:23,146
+- Como cuando estoy nervioso.
+- Yo también.
+
+696
+00:37:23,992 --> 00:37:26,984
+Espero no llegar tarde.
+Phil me dijo a la 1:00.
+
+697
+00:37:27,537 --> 00:37:30,324
+No, llegó bien. Yo llegué antes.
+
+698
+00:37:30,498 --> 00:37:31,738
+Hace como una hora.
+
+699
+00:37:34,586 --> 00:37:37,498
+¿Le molesta si tomo nota?
+¿Está bien?
+
+700
+00:37:42,761 --> 00:37:44,843
+No le molesta que tome nota, ¿no?
+
+701
+00:37:45,346 --> 00:37:47,337
+- ¿Van a usar mi nombre?
+- No.
+
+702
+00:37:48,850 --> 00:37:50,181
+No si usted no quiere. No.
+
+703
+00:37:50,852 --> 00:37:52,837
+Acabo de tener un hijo.
+
+704
+00:37:52,937 --> 00:37:55,895
+Tiene apenas un año,
+pero no sé si quiero que sepa esto.
+
+705
+00:37:56,524 --> 00:37:57,730
+Claro. Entiendo.
+
+706
+00:37:57,901 --> 00:38:00,187
+Puede detener la entrevista
+cuando quiera, Patrick.
+
+707
+00:38:00,528 --> 00:38:02,234
+- ¿De acuerdo?
+- Bien.
+
+708
+00:38:05,116 --> 00:38:06,526
+Puede tomar nota.
+
+709
+00:38:07,035 --> 00:38:08,445
+Bien. Entonces...
+
+710
+00:38:10,872 --> 00:38:12,578
+¿Dónde vivía cuando pasó la primera vez?
+
+711
+00:38:13,541 --> 00:38:15,782
+En las viviendas del gobierno,
+en Hyde Park.
+
+712
+00:38:16,377 --> 00:38:17,617
+¿Cerca de Stop & Shop?
+
+713
+00:38:18,546 --> 00:38:20,377
+Sí, ¿conoce el lugar?
+
+714
+00:38:20,965 --> 00:38:22,705
+Sí, fui taxista por unos años.
+
+715
+00:38:23,134 --> 00:38:24,715
+Abre temprano.
+El café es malo, ¿no?
+
+716
+00:38:25,595 --> 00:38:27,085
+Sí, eso creo.
+
+717
+00:38:28,807 --> 00:38:30,798
+¿Qué edad tenía cuando sucedió?
+
+718
+00:38:31,476 --> 00:38:32,807
+Tenía 12 años.
+
+719
+00:38:34,270 --> 00:38:36,056
+Justo después de que se suicidó mi papá.
+
+720
+00:38:36,898 --> 00:38:38,138
+Cielos.
+
+721
+00:38:38,316 --> 00:38:40,147
+Él era una mierda.
+
+722
+00:38:40,568 --> 00:38:42,900
+Y mi mamá tampoco era muy estable.
+
+723
+00:38:43,571 --> 00:38:45,107
+- ¿Qué quiere decir?
+- Estaba loca.
+
+724
+00:38:45,281 --> 00:38:48,398
+- Era esquizofrénica.
+- La misma mierda.
+
+725
+00:38:51,246 --> 00:38:52,736
+¿Cuándo conoció a Geoghan?
+
+726
+00:38:54,415 --> 00:38:55,951
+Mi hermana...
+
+727
+00:38:56,334 --> 00:38:58,325
+...lo vio en el Dunkin' Donuts.
+
+728
+00:38:58,962 --> 00:39:01,749
+Le contó sobre la muerte de mi papá,
+y él se acercó enseguida.
+
+729
+00:39:01,923 --> 00:39:03,163
+Y la hermana Barbara...
+
+730
+00:39:03,341 --> 00:39:05,832
+...dirigía un grupo
+para niños con familias problemáticas.
+
+731
+00:39:07,303 --> 00:39:08,668
+¿Dónde era eso?
+
+732
+00:39:08,930 --> 00:39:11,296
+- En San Ambrosio, Dorchester.
+- Bien.
+
+733
+00:39:12,475 --> 00:39:14,761
+Ella me presentó
+al padre Shanley.
+
+734
+00:39:16,354 --> 00:39:17,935
+Era un cura callejero.
+
+735
+00:39:18,481 --> 00:39:20,472
+Tenía pelo largo. Era muy moderno.
+
+736
+00:39:21,985 --> 00:39:23,941
+Me invitó a su apartamento en Back Bay.
+
+737
+00:39:24,112 --> 00:39:26,319
+- ¿Dónde en Back Bay?
+- Calle Beacon.
+
+738
+00:39:27,085 --> 00:39:28,086
+Beacon. Bien.
+
+739
+00:39:28,186 --> 00:39:29,192
+¿Tú eres de aquí?
+
+740
+00:39:30,201 --> 00:39:32,943
+No. Me críe en Ohio,
+pero mi madre es del sur de Boston.
+
+741
+00:39:33,162 --> 00:39:36,450
+Entonces entiendes.
+Yo ni siquiera había visto Back Bay.
+
+742
+00:39:38,209 --> 00:39:40,825
+¿Qué pasó en esa primera visita, Joe?
+
+743
+00:39:41,838 --> 00:39:43,499
+Fue muy amable al principio...
+
+744
+00:39:44,007 --> 00:39:45,668
+...muy gracioso, muy relajado.
+
+745
+00:39:47,010 --> 00:39:49,001
+Creo que se dio cuenta
+de que yo era gay...
+
+746
+00:39:49,971 --> 00:39:51,677
+...y me mostró un móvil que tenía...
+
+747
+00:39:52,390 --> 00:39:54,221
+...¿como el de las cunas?
+
+748
+00:39:54,809 --> 00:39:56,219
+Pero con distintas palabras.
+
+749
+00:39:56,811 --> 00:39:59,473
+Homosexual, transexual, bisexual.
+
+750
+00:39:59,898 --> 00:40:02,731
+Y ¿sabías que eras gay
+en ese momento, Joe?
+
+751
+00:40:03,526 --> 00:40:04,526
+Sí.
+
+752
+00:40:04,819 --> 00:40:06,810
+Pero no compartía
+esa información con nadie.
+
+753
+00:40:06,988 --> 00:40:08,228
+No en Dorchester.
+
+754
+00:40:09,490 --> 00:40:10,490
+Bien.
+
+755
+00:40:10,992 --> 00:40:13,904
+¿Qué pasó
+después de que te mostró el móvil?
+
+756
+00:40:14,245 --> 00:40:15,735
+Me asusté un poco.
+
+757
+00:40:17,165 --> 00:40:18,530
+Creo que se dio cuenta...
+
+758
+00:40:19,876 --> 00:40:23,039
+...así que dijo: "Lo que va a ayudar es
+si jugamos al póquer erótico".
+
+759
+00:40:25,006 --> 00:40:26,712
+Obviamente perdí.
+
+760
+00:40:28,176 --> 00:40:30,041
+Y luego se fue dando todo.
+
+761
+00:40:31,387 --> 00:40:33,378
+¿Puedes contarme específicamente
+lo que pasó?
+
+762
+00:40:35,183 --> 00:40:36,764
+Específicamente, él...
+
+763
+00:40:37,393 --> 00:40:39,008
+Abusó de mí.
+
+764
+00:40:42,523 --> 00:40:46,186
+Joe, creo que el lenguaje va a ser
+muy importante aquí.
+
+765
+00:40:46,611 --> 00:40:49,853
+No podemos suavizar esto.
+Decir solo "abusar" no será suficiente.
+
+766
+00:40:50,031 --> 00:40:52,773
+La gente necesita saber
+lo que pasó en realidad.
+
+767
+00:40:55,479 --> 00:40:57,552
+Pidamos que nos lo empaquen
+para llevar.
+
+768
+00:40:57,652 --> 00:40:58,706
+Sí.
+
+769
+00:40:58,806 --> 00:41:02,039
+Apareció Geoghan,
+y mi mamá estaba...
+
+770
+00:41:02,210 --> 00:41:04,622
+Estaba encantada. Quiero decir...
+
+771
+00:41:05,088 --> 00:41:07,044
+Era como si hubiera aparecido
+Dios, ¿entiendes?
+
+772
+00:41:07,215 --> 00:41:08,546
+Sí. Claro.
+
+773
+00:41:08,716 --> 00:41:09,876
+Y ¿qué pasó después?
+
+774
+00:41:13,096 --> 00:41:14,381
+¿Realmente quieres oír esta mierda?
+
+775
+00:41:15,098 --> 00:41:16,759
+Sí, Patrick, sí.
+
+776
+00:41:25,233 --> 00:41:27,224
+Se ofreció a llevarme
+a comprar un helado.
+
+777
+00:41:27,568 --> 00:41:30,560
+Era un cura.
+Yo era un niño, así que fui.
+
+778
+00:41:31,489 --> 00:41:34,731
+- Sí, claro.
+- Volvíamos en el auto a casa, y él...
+
+779
+00:41:37,745 --> 00:41:39,576
+Me empezó a acariciar la pierna...
+
+780
+00:41:41,749 --> 00:41:44,115
+...tú sabes, luego...
+
+781
+00:41:44,627 --> 00:41:49,621
+...deslizó su mano y me agarró el pito.
+
+782
+00:41:50,466 --> 00:41:54,926
+Yo me quedé paralizado.
+Estaba petrificado, no podía moverme.
+
+783
+00:41:56,139 --> 00:41:58,130
+No sabía qué hacer.
+Era un niño.
+
+784
+00:42:00,643 --> 00:42:01,643
+Sí.
+
+785
+00:42:06,441 --> 00:42:08,648
+Ni siquiera toqué el helado.
+
+786
+00:42:09,027 --> 00:42:10,858
+Se me derritió todo en el brazo.
+
+787
+00:42:17,827 --> 00:42:19,158
+¿Tú...?
+
+788
+00:42:20,538 --> 00:42:22,028
+¿Lo volviste a ver después de eso?
+
+789
+00:42:28,129 --> 00:42:29,289
+Sí.
+
+790
+00:42:32,842 --> 00:42:35,834
+Bien. Muy bien.
+Paremos aquí por ahora.
+
+791
+00:42:36,471 --> 00:42:37,471
+Sí, claro.
+
+792
+00:42:37,972 --> 00:42:40,964
+Dijo que era para que me sintiera
+más cómodo con mi cuerpo.
+
+793
+00:42:42,477 --> 00:42:43,683
+Y ¿qué pasó después de eso?
+
+794
+00:42:44,645 --> 00:42:46,476
+Se quitó la ropa y dijo:
+
+795
+00:42:46,647 --> 00:42:48,012
+"He estado muy deprimido...
+
+796
+00:42:48,191 --> 00:42:50,477
+...pero quizá tú puedas alegrarme
+y hacerme una mamada".
+
+797
+00:42:51,360 --> 00:42:52,691
+Un tipo con clase.
+
+798
+00:42:54,489 --> 00:42:56,195
+- Y ¿lo hiciste?
+- Sí.
+
+799
+00:42:57,533 --> 00:43:00,696
+Sé lo que debes estar pensando,
+¿por qué le haría eso...
+
+800
+00:43:00,870 --> 00:43:03,703
+...a un degenerado
+30 años mayor que yo, pero...?
+
+801
+00:43:03,998 --> 00:43:06,865
+Hay que entender
+que era la primera vez en mi vida...
+
+802
+00:43:07,043 --> 00:43:09,034
+...que alguien me decía
+que estaba bien ser gay.
+
+803
+00:43:09,670 --> 00:43:11,661
+- Y era un cura.
+- Claro.
+
+804
+00:43:13,007 --> 00:43:16,170
+Así que tuvieron sexo oral.
+¿Hubo penetración?
+
+805
+00:43:17,345 --> 00:43:18,551
+Sí.
+
+806
+00:43:18,763 --> 00:43:20,344
+No en ese momento, sino después.
+
+807
+00:43:22,600 --> 00:43:24,181
+Me arruinó la vida.
+
+808
+00:43:25,603 --> 00:43:28,345
+No bebo ahora, pero eso...
+fue el comienzo de todo.
+
+809
+00:43:31,234 --> 00:43:33,020
+Es muy confuso...
+
+810
+00:43:34,112 --> 00:43:36,398
+...debutar en el sexo de esa manera,
+y luego...
+
+811
+00:43:37,240 --> 00:43:39,231
+...que te atraigan los hombres es...
+
+812
+00:43:43,037 --> 00:43:44,948
+Lo siento.
+Sabía que me iba a pasar esto.
+
+813
+00:43:45,123 --> 00:43:46,909
+- Lo lamento.
+- No lo lamentes.
+
+814
+00:43:47,083 --> 00:43:49,039
+Está bien, Joe. Está bien.
+
+815
+00:43:49,210 --> 00:43:51,121
+Obviamente hay una iglesia ahí.
+
+816
+00:43:51,754 --> 00:43:53,369
+Y un parque infantil.
+
+817
+00:43:54,090 --> 00:43:56,081
+Joe, ¿alguna vez
+intentaste contárselo a alguien?
+
+818
+00:43:56,634 --> 00:43:58,465
+¿Como a quién? ¿A un cura?
+
+819
+00:43:59,887 --> 00:44:01,468
+¿Puedo usar su teléfono?
+
+820
+00:44:01,931 --> 00:44:03,421
+Sí, claro. Ya sabes dónde está.
+
+821
+00:44:04,642 --> 00:44:06,553
+Puedes usar mi nombre si quieres.
+
+822
+00:44:07,478 --> 00:44:08,888
+Gracias, Patrick.
+
+823
+00:44:09,564 --> 00:44:11,930
+No me agradezcas,
+solo atrapa a estos imbéciles, ¿sí?
+
+824
+00:44:18,406 --> 00:44:20,397
+Él es uno de los afortunados.
+
+825
+00:44:21,576 --> 00:44:23,612
+Sigue vivo.
+
+826
+00:44:31,419 --> 00:44:33,080
+¿Quieres una taza de té, Sacha?
+
+827
+00:44:33,254 --> 00:44:34,994
+- Estoy bien, abuela. Gracias.
+- Bien.
+
+828
+00:44:38,301 --> 00:44:40,007
+<i>- Hola.</i>
+- Hola, Joe, habla Sacha Pfeiffer.
+
+829
+00:44:40,178 --> 00:44:43,090
+<i>- Hola, Sacha. ¿Cómo estás?</i>
+- Bien, gracias.
+
+830
+00:44:43,514 --> 00:44:46,347
+Oye, Joe,
+solo quería consultarte algo.
+
+831
+00:44:46,809 --> 00:44:48,925
+Hablaste con Phil Saviano
+sobre todo esto, ¿no?
+
+832
+00:44:49,103 --> 00:44:51,435
+<i>Sí. Fui a un par de reuniones
+de la SNAP.</i>
+
+833
+00:44:51,814 --> 00:44:54,647
+Y ¿Phil alguna vez te sugirió
+que hicieras algo al respecto?
+
+834
+00:44:54,942 --> 00:44:55,942
+<i>No.</i>
+
+835
+00:44:56,110 --> 00:44:57,600
+<i>Las reuniones no eran para eso.</i>
+
+836
+00:44:57,778 --> 00:44:59,109
+<i>Un par habían visto a un abogado...</i>
+
+837
+00:44:59,280 --> 00:45:01,316
+<i>...pero no me pareció
+que valiera la pena.</i>
+
+838
+00:45:01,490 --> 00:45:02,605
+¿Por qué no?
+
+839
+00:45:02,783 --> 00:45:05,525
+<i>Había que completar muchos formularios.</i>
+<i>Era tedioso.</i>
+
+840
+00:45:05,953 --> 00:45:08,285
+<i>Y dijo que solo conseguiría</i>
+<i>un acuerdo mínimo.</i>
+
+841
+00:45:08,456 --> 00:45:10,868
+- ¿Quién dijo eso?
+<i>- El abogado.</i>
+
+842
+00:45:11,959 --> 00:45:14,325
+Entonces ¿sí fuiste a ver a un abogado?
+
+843
+00:45:15,296 --> 00:45:19,164
+<i>Sí, pero al final no lo contraté,</i>
+<i>así que no me pareció importante.</i>
+
+844
+00:45:19,342 --> 00:45:21,458
+<i>Lo siento.
+No intento ocultar nada.</i>
+
+845
+00:45:21,636 --> 00:45:23,172
+No, lo sé, Joe.
+
+846
+00:45:23,387 --> 00:45:25,378
+¿Recuerdas su nombre? ¿El abogado?
+
+847
+00:45:25,890 --> 00:45:28,472
+<i>No, pero quizá Phil lo sepa.</i>
+
+848
+00:45:28,684 --> 00:45:31,175
+<i>El tipo apareció mucho en TV</i>
+<i>durante el caso Porter.</i>
+
+849
+00:45:31,479 --> 00:45:32,719
+<i>Era guapo.</i>
+
+850
+00:45:33,147 --> 00:45:34,387
+¿Era Eric Macleish?
+
+851
+00:45:34,649 --> 00:45:36,480
+<i>Sí, ese mismo. Macleish.</i>
+
+852
+00:45:37,151 --> 00:45:38,687
+<i>Me pareció muy guapo.</i>
+
+853
+00:45:42,073 --> 00:45:43,483
+- Hola.
+- Hola.
+
+854
+00:45:43,699 --> 00:45:46,691
+Vengo de la sala de prensa.
+La jueza Sweeney fijó la audiencia.
+
+855
+00:45:47,495 --> 00:45:50,077
+- ¿Sí? ¿Para cuándo?
+- Dentro de dos semanas. En Springfield.
+
+856
+00:45:50,831 --> 00:45:52,922
+Canellos empezó un pozo.
+10 dólares para entrar.
+
+857
+00:45:53,334 --> 00:45:54,814
+¿Alguien apuesta al <i>Globe</i>?
+
+858
+00:45:55,236 --> 00:45:57,968
+La apuesta es cuán rápido
+Sweeney falla en contra nuestra.
+
+859
+00:45:59,674 --> 00:46:01,210
+- Robby.
+<i>- Hola, soy yo.</i>
+
+860
+00:46:01,384 --> 00:46:02,715
+<i>- ¿Recibiste mi mensaje?</i>
+- Sí.
+
+861
+00:46:02,885 --> 00:46:05,046
+El padre Shanley podría ser
+el cuarto cura.
+
+862
+00:46:05,221 --> 00:46:06,552
+<i>Sí, creo que lo es.</i>
+
+863
+00:46:06,722 --> 00:46:09,346
+- ¿Hiciste el seguimiento con Macleish?
+<i>- Hablé con Phil.</i>
+
+864
+00:46:09,517 --> 00:46:11,599
+<i>Dijo que Macleish se ocupó</i>
+<i>de varios de estos casos.</i>
+
+865
+00:46:11,894 --> 00:46:14,180
+<i>- Supongo que olvidó mencionarlo.</i>
+- Sí.
+
+866
+00:46:14,522 --> 00:46:15,762
+Iré al juzgado mañana.
+
+867
+00:46:15,940 --> 00:46:18,522
+A ver si encuentro casos resueltos
+en contra de la Iglesia.
+
+868
+00:46:19,026 --> 00:46:21,267
+<i>Bien. Llámame después.
+Buenas noches.</i>
+
+869
+00:46:21,445 --> 00:46:23,106
+Bien, buenas noches.
+
+870
+00:46:25,783 --> 00:46:26,898
+Hola.
+
+871
+00:46:27,118 --> 00:46:28,449
+¿Querías hablar?
+
+872
+00:46:28,619 --> 00:46:30,450
+Sí, llego tarde a una cena.
+¿Vamos saliendo?
+
+873
+00:46:30,621 --> 00:46:32,031
+Sí, claro.
+
+874
+00:46:33,207 --> 00:46:34,242
+Cielos.
+
+875
+00:46:34,417 --> 00:46:36,533
+- ¿Este tipo nunca va a casa?
+- Eso parece.
+
+876
+00:46:36,877 --> 00:46:38,613
+Algunos no se van hasta que se vaya él.
+
+877
+00:46:38,787 --> 00:46:40,703
+Está agotando a la sala de prensa.
+
+878
+00:46:40,881 --> 00:46:42,246
+¿Cómo vamos con Geoghan?
+
+879
+00:46:42,550 --> 00:46:44,381
+Seguimos viendo más víctimas.
+
+880
+00:46:44,885 --> 00:46:46,716
+Quiero ampliar la investigación.
+
+881
+00:46:46,887 --> 00:46:48,798
+- ¿Por qué?
+- Tenemos un cuarto cura.
+
+882
+00:46:48,973 --> 00:46:50,804
+Podría haber hasta 13.
+
+883
+00:46:50,975 --> 00:46:52,465
+- ¿Trece?
+- Sí.
+
+884
+00:46:53,060 --> 00:46:55,051
+- ¿Quién es tu fuente?
+- Phil Saviano.
+
+885
+00:46:55,604 --> 00:46:58,220
+- Cielos, Robby, le dije a Mike--
+- Lo sé...
+
+886
+00:46:58,399 --> 00:47:00,640
+Creo que Saviano
+podría estar diciendo la verdad, Ben.
+
+887
+00:47:02,153 --> 00:47:03,563
+¿Quieres desarrollar eso?
+
+888
+00:47:03,738 --> 00:47:05,569
+No. En realidad no.
+
+889
+00:47:06,240 --> 00:47:09,232
+Parece que esto crece cada vez más.
+Lo intuyo.
+
+890
+00:47:12,621 --> 00:47:14,612
+- Bien.
+- Bien. Perfecto.
+
+891
+00:47:14,790 --> 00:47:15,790
+Gracias.
+
+892
+00:47:25,426 --> 00:47:26,506
+¿Hola?
+
+893
+00:47:26,802 --> 00:47:29,760
+<i>- ¿Sr. Rezendes?</i>
+- Sí. ¿Quién habla?
+
+894
+00:47:29,930 --> 00:47:31,466
+<i>Richard Sipe.</i>
+
+895
+00:47:31,807 --> 00:47:34,765
+- Sí. Hola, Richard, ¿cómo está?
+<i>- Bien.</i>
+
+896
+00:47:34,935 --> 00:47:36,766
+Gracias por llamar. Mire...
+
+897
+00:47:36,937 --> 00:47:38,928
+...Phil Saviano me dio su nombre.
+
+898
+00:47:39,106 --> 00:47:41,097
+Quería saber
+si podía hacerle unas preguntas.
+
+899
+00:47:41,275 --> 00:47:43,266
+<i>- Por supuesto. Sí.</i>
+- Genial.
+
+900
+00:47:43,444 --> 00:47:45,355
+Phil me dijo que usted trabajaba...
+
+901
+00:47:45,529 --> 00:47:48,612
+...en uno de los centros de tratamiento
+de la Iglesia de Baltimore.
+
+902
+00:47:48,949 --> 00:47:51,611
+<i>Sí. El Instituto Psiquiátrico Seton.</i>
+
+903
+00:47:51,786 --> 00:47:53,492
+<i>Estaba dirigido
+por las Hijas de Caridad.</i>
+
+904
+00:47:53,662 --> 00:47:56,654
+Y ¿cuándo fue eso, Richard?
+
+905
+00:47:57,291 --> 00:48:01,534
+<i>Empecé mi beca
+de psicoterapia ahí en 1965...</i>
+
+906
+00:48:02,129 --> 00:48:04,473
+<i>...y estuve cinco años,
+pero dediqué los próximos 30 años...</i>
+
+907
+00:48:04,573 --> 00:48:07,628
+<i>...al estudio de curas abusivos
+y sus víctimas.</i>
+
+908
+00:48:07,802 --> 00:48:08,802
+¿En serio?
+
+909
+00:48:09,136 --> 00:48:11,218
+¿Y se concentró exclusivamente en eso?
+
+910
+00:48:12,014 --> 00:48:13,014
+<i>Mire, Mike...</i>
+
+911
+00:48:13,182 --> 00:48:16,174
+<i>...la Iglesia quiere que creamos</i>
+<i>que son unas pocas manzanas podridas.</i>
+
+912
+00:48:16,644 --> 00:48:18,134
+<i>Pero es un problema mucho más grave.</i>
+
+913
+00:48:18,312 --> 00:48:19,893
+¿Cuánto más grave, Richard?
+
+914
+00:48:20,064 --> 00:48:21,975
+<i>Según las investigaciones...</i>
+
+915
+00:48:22,149 --> 00:48:25,641
+<i>...lo clasificaría como</i>
+<i>un fenómeno psiquiátrico identificable.</i>
+
+916
+00:48:26,821 --> 00:48:28,152
+Es grave.
+
+917
+00:48:33,702 --> 00:48:37,240
+Hola, Mac, si quisiera
+datos históricos sobre un cura...
+
+918
+00:48:37,415 --> 00:48:39,872
+...parroquias a las que lo asignaron,
+¿dónde los encontraría?
+
+919
+00:48:40,042 --> 00:48:42,658
+¿El caso Geoghan? Está en las notas.
+Lisa tiene todo.
+
+920
+00:48:42,837 --> 00:48:45,579
+Sí, ¿y si fuera otro cura
+que no salió en los periódicos?
+
+921
+00:48:45,840 --> 00:48:48,081
+- ¿Investigas a otro cura?
+- ¿A quién investigas?
+
+922
+00:48:49,009 --> 00:48:50,215
+¿Alguna idea?
+
+923
+00:48:50,386 --> 00:48:52,172
+Vamos, Matt, ¿no me vas a decir?
+
+924
+00:48:53,222 --> 00:48:54,712
+Debo ir a una reunión. Gracias, Mac.
+
+925
+00:48:54,932 --> 00:48:56,263
+Hola, Steve.
+
+926
+00:48:57,601 --> 00:48:59,683
+La archidiócesis publica
+un directorio anual...
+
+927
+00:48:59,854 --> 00:49:02,015
+- ...cada cura y parroquia.
+- Genial.
+
+928
+00:49:02,440 --> 00:49:04,681
+¿Figuran los datos previos al año 98?
+
+929
+00:49:04,859 --> 00:49:06,599
+Sí. En el entrepiso
+llegan hasta los ochenta.
+
+930
+00:49:06,777 --> 00:49:08,563
+Antes de eso es
+la biblioteca pública.
+
+931
+00:49:08,696 --> 00:49:10,732
+- ¿En el entrepiso? Gracias, Lisa.
+- De nada.
+
+932
+00:49:12,408 --> 00:49:14,524
+Dijo que todos apuntan
+al mismo tipo de niño.
+
+933
+00:49:15,077 --> 00:49:18,240
+Familias de bajos ingresos,
+padres ausentes, hogares rotos...
+
+934
+00:49:18,706 --> 00:49:21,743
+Un tipo como Geoghan busca niños
+no porque los prefiera...
+
+935
+00:49:21,917 --> 00:49:24,579
+...porque tienen más vergüenza.
+Es menos probable que hablen.
+
+936
+00:49:26,297 --> 00:49:27,958
+Estos tipos son depredadores, Robby.
+
+937
+00:49:28,257 --> 00:49:32,045
+Hablé con Sipe. Dijo que vio docenas
+de ellos en los 60 en Seton.
+
+938
+00:49:32,553 --> 00:49:33,759
+Lo llamó "fenómeno".
+
+939
+00:49:33,929 --> 00:49:35,590
+- ¿Por qué no lo hizo público?
+- Lo hizo...
+
+940
+00:49:35,806 --> 00:49:37,797
+...pero la Iglesia hizo de todo
+para desacreditarlo.
+
+941
+00:49:37,975 --> 00:49:41,217
+Campañas de desprestigio, declaraciones
+públicas de obispos destacados.
+
+942
+00:49:41,770 --> 00:49:44,477
+Es como dijo Saviano. Y Garabedian.
+
+943
+00:49:44,648 --> 00:49:46,229
+¿Estás avanzando con él?
+
+944
+00:49:46,400 --> 00:49:48,732
+- Más víctimas.
+- Más víctimas.
+
+945
+00:49:48,903 --> 00:49:50,609
+- ¿No puedes sacarle algo?
+- Ya lo haré.
+
+946
+00:49:50,779 --> 00:49:52,770
+- Solo necesito más tiempo.
+- Vamos, Mike.
+
+947
+00:49:52,990 --> 00:49:54,821
+- Tienes que convencerlo.
+- Lo haré.
+
+948
+00:49:58,454 --> 00:49:59,910
+Cielos. ¿Qué diablos es ese olor?
+
+949
+00:50:00,080 --> 00:50:01,911
+Hay una rata muerta en el rincón.
+
+950
+00:50:02,666 --> 00:50:04,452
+- ¿Qué tienes?
+- Directorios de la Iglesia.
+
+951
+00:50:04,627 --> 00:50:07,571
+Cada cura de Massachusetts.
+Las parroquias a las que los asignaron.
+
+952
+00:50:07,671 --> 00:50:08,671
+DIRECTORIO CATÓLICO
+DE MASSACHUSETTS
+
+953
+00:50:08,771 --> 00:50:10,161
+- ¿Son oficiales?
+- Sí. Nos ayudará a rastrear...
+
+954
+00:50:10,261 --> 00:50:13,461
+...a algunos curas que mencionó Saviano.
+Quizá a hallar más víctimas.
+
+955
+00:50:13,636 --> 00:50:15,922
+- ¿Podemos encender las luces?
+- No encontré la perilla.
+
+956
+00:50:16,096 --> 00:50:17,961
+- ¿Te presto mis anteojos?
+- No, estoy bien.
+
+957
+00:50:18,140 --> 00:50:22,429
+Miren, 1983. John Geoghan,
+Parroquia St. Brendan, Dorchester.
+
+958
+00:50:22,937 --> 00:50:25,303
+¿Aparece dónde estuvo cada cura
+en cualquier año?
+
+959
+00:50:25,439 --> 00:50:27,646
+Sí, aquí está en...
+
+960
+00:50:29,652 --> 00:50:30,767
+- ¿Qué?
+- 1980...
+
+961
+00:50:30,945 --> 00:50:33,937
+...cuando sacaron a Geoghan de JP.
+Dice "licencia por enfermedad".
+
+962
+00:50:34,156 --> 00:50:35,942
+Vamos. ¿En serio dice eso?
+
+963
+00:50:37,159 --> 00:50:39,366
+¿Dónde está 1991?
+
+964
+00:50:40,996 --> 00:50:42,611
+- Aquí.
+- Déjame ver.
+
+965
+00:50:42,790 --> 00:50:43,996
+Barrett. Barrett. Liam.
+
+966
+00:50:44,208 --> 00:50:46,620
+No veo nada.
+Busca a Liam Barrett ahí.
+
+967
+00:50:46,794 --> 00:50:49,501
+En 1991 lo sacaron
+de la Parroquia Charlestown.
+
+968
+00:50:52,007 --> 00:50:53,292
+Barrett, Liam.
+
+969
+00:50:53,509 --> 00:50:54,965
+Licencia por enfermedad
+
+970
+00:50:55,302 --> 00:50:56,508
+"Licencia por enfermedad".
+
+971
+00:50:57,137 --> 00:50:58,843
+Es una designación oficial.
+
+972
+00:51:00,683 --> 00:51:02,469
+Subamos esto.
+
+973
+00:51:02,726 --> 00:51:04,967
+Matt, investiga a los curas
+que mencionó Saviano.
+
+974
+00:51:05,145 --> 00:51:07,306
+- Robby.
+<i>- Hola, estoy en el juzgado.</i>
+
+975
+00:51:08,023 --> 00:51:10,981
+- Algo no está bien aquí.
+- Nada sobre Shanley tampoco, Sacha.
+
+976
+00:51:11,151 --> 00:51:12,641
+Bien, gracias.
+
+977
+00:51:12,820 --> 00:51:14,481
+Sí, debemos hablar otra vez
+con Macleish.
+
+978
+00:51:14,655 --> 00:51:17,237
+<i>- ¿En serio, por qué?</i>
+- No hay nada aquí.
+
+979
+00:51:17,825 --> 00:51:19,235
+No hay ningún registro.
+
+980
+00:51:24,748 --> 00:51:26,704
+Gracias por esperar.
+Perdón. Estaba al teléfono.
+
+981
+00:51:26,875 --> 00:51:28,706
+- No hay problema. ¿Cómo estás?
+- Bien.
+
+982
+00:51:28,836 --> 00:51:30,542
+- Gracias por recibirnos.
+- De nada. ¿Qué pasa?
+
+983
+00:51:31,505 --> 00:51:34,542
+Sr. Macleish,
+¿conoce a un cura llamado Paul Shanley?
+
+984
+00:51:35,426 --> 00:51:37,007
+Sí, lo conozco.
+
+985
+00:51:38,846 --> 00:51:40,837
+Y ¿ha resuelto casos
+en contra del padre Shanley?
+
+986
+00:51:42,182 --> 00:51:46,516
+Como podrán entender,
+no puedo hablar de eso con ustedes.
+
+987
+00:51:47,062 --> 00:51:50,600
+¿Qué hay del padre Ronald Paquin?
+
+988
+00:51:51,275 --> 00:51:53,857
+Eso tampoco lo puedo hablar con ustedes.
+Vamos, muchachos.
+
+989
+00:51:55,738 --> 00:51:58,275
+Entendemos que ha resuelto
+varios casos contra ellos.
+
+990
+00:51:58,949 --> 00:52:01,281
+Aunque hubiera estado involucrado
+en esos casos...
+
+991
+00:52:01,452 --> 00:52:03,113
+...los acuerdos serían confidenciales...
+
+992
+00:52:03,287 --> 00:52:06,245
+...y podrían inhabilitarme
+por admitir su existencia.
+
+993
+00:52:07,124 --> 00:52:08,124
+¿De acuerdo?
+
+994
+00:52:09,376 --> 00:52:11,207
+Les dije que eran casos difíciles.
+
+995
+00:52:12,796 --> 00:52:15,879
+La mayoría de esta gente
+solo quiere que se reconozca...
+
+996
+00:52:16,467 --> 00:52:17,707
+...lo que pasó.
+
+997
+00:52:17,885 --> 00:52:20,217
+Los sentamos con el obispo
+y les dimos algo de dinero...
+
+998
+00:52:20,387 --> 00:52:22,127
+...y eso es lo mejor que podían esperar.
+
+999
+00:52:22,723 --> 00:52:26,557
+Sin duda, es lo mejor
+que podían esperar los curas.
+
+1000
+00:52:27,728 --> 00:52:30,561
+No, la Iglesia prometió
+sacar a los curas de circulación.
+
+1001
+00:52:30,898 --> 00:52:33,059
+¿Hizo un seguimiento de eso?
+
+1002
+00:52:38,405 --> 00:52:40,066
+¿Necesitan algo más?
+
+1003
+00:52:40,240 --> 00:52:42,652
+Sí. ¿Por qué no hay registros?
+
+1004
+00:52:43,077 --> 00:52:44,077
+Estuve en el juzgado hoy.
+
+1005
+00:52:44,244 --> 00:52:46,405
+No hay registros
+de ninguno de estos acuerdos.
+
+1006
+00:52:49,625 --> 00:52:51,411
+Tratamos directamente con la Iglesia.
+
+1007
+00:52:52,920 --> 00:52:56,412
+Redactamos una carta de demanda
+y la enviamos al archivo eclesiástico.
+
+1008
+00:52:57,925 --> 00:52:59,415
+¿Nunca presentaron nada en el juzgado?
+
+1009
+00:52:59,802 --> 00:53:01,417
+Es una mediación privada.
+
+1010
+00:53:01,595 --> 00:53:06,259
+O sea que ¿son solo ustedes
+y los abogados de la archidiócesis...
+
+1011
+00:53:06,934 --> 00:53:07,934
+...en una sala?
+
+1012
+00:53:08,602 --> 00:53:09,602
+Correcto.
+
+1013
+00:53:10,145 --> 00:53:11,260
+¿Alguien más?
+
+1014
+00:53:11,855 --> 00:53:14,938
+A veces, la Iglesia llevaba
+otro abogado defensor para que ayudara.
+
+1015
+00:53:15,693 --> 00:53:18,435
+- ¿Tienes nombres?
+- No.
+
+1016
+00:53:19,196 --> 00:53:20,436
+No, no tengo nada.
+
+1017
+00:53:21,532 --> 00:53:24,615
+- ¿Se hizo todo clandestinamente?
+- No hay documentos. Nada.
+
+1018
+00:53:25,119 --> 00:53:27,030
+La víctima firma
+un acuerdo de confidencialidad...
+
+1019
+00:53:27,204 --> 00:53:28,284
+...para cerrar el acuerdo.
+
+1020
+00:53:28,455 --> 00:53:30,946
+El abogado se lleva un tercio,
+y la Iglesia lo esconde.
+
+1021
+00:53:31,125 --> 00:53:32,535
+Cielos. Es un maldito fraude.
+
+1022
+00:53:32,710 --> 00:53:34,200
+Es más complicado que eso.
+
+1023
+00:53:34,461 --> 00:53:37,294
+Macleish tiene el deber con el cliente
+de lograr el mejor acuerdo.
+
+1024
+00:53:37,464 --> 00:53:40,331
+Seguro, pero ¿a cuántas víctimas
+representas y explotas...
+
+1025
+00:53:40,459 --> 00:53:41,459
+...antes de decir algo?
+
+1026
+00:53:41,559 --> 00:53:43,133
+Garabedian diría que a ninguna.
+
+1027
+00:53:43,804 --> 00:53:45,623
+Por eso lleva estos casos al juzgado.
+
+1028
+00:53:45,723 --> 00:53:47,338
+Quiere que la gente se entere de esto.
+
+1029
+00:53:47,516 --> 00:53:50,223
+Coincido.
+Y dejando de lado la ética, Ben...
+
+1030
+00:53:50,394 --> 00:53:52,350
+...al operar como lo hace Macleish...
+
+1031
+00:53:52,521 --> 00:53:54,728
+...garantiza que el abuso
+permanezca oculto.
+
+1032
+00:53:55,858 --> 00:53:58,816
+Sí. ¿Macleish confirmó
+a todos los curas de Saviano?
+
+1033
+00:53:59,153 --> 00:54:03,487
+No. No se lo permite
+el acuerdo de confidencialidad.
+
+1034
+00:54:03,907 --> 00:54:06,239
+Pero claramente resolvió casos
+contra varios de ellos.
+
+1035
+00:54:06,827 --> 00:54:08,408
+Phil me contactó
+con otras víctimas...
+
+1036
+00:54:08,579 --> 00:54:11,821
+...estoy segura de que van a confirmarse
+todos sus curas.
+
+1037
+00:54:12,332 --> 00:54:14,038
+Entonces ¿son 13 curas?
+
+1038
+00:54:14,209 --> 00:54:15,870
+- Sí.
+- Así parece.
+
+1039
+00:54:17,421 --> 00:54:19,082
+A la mierda.
+
+1040
+00:54:21,508 --> 00:54:23,339
+Bien. Sigan trabajando.
+
+1041
+00:54:24,344 --> 00:54:26,747
+GALA DE CARIDADES CATÓLICAS
+
+1042
+00:54:26,847 --> 00:54:28,838
+Perdón. ¿Me repite el nombre?
+
+1043
+00:54:30,350 --> 00:54:35,014
+Baron. B-A-R-O-N.
+
+1044
+00:54:36,064 --> 00:54:38,851
+No lo encuentro.
+Deme un segundo.
+
+1045
+00:54:39,193 --> 00:54:41,184
+Está bien, Kim, yo me hago responsable.
+
+1046
+00:54:41,570 --> 00:54:44,232
+Soy Pete Conley, Estoy en la junta
+de Caridades Católicas.
+
+1047
+00:54:44,406 --> 00:54:46,067
+Bienvenido a Boston, Sr. Baron.
+
+1048
+00:54:46,700 --> 00:54:48,736
+- Gracias.
+- Aprecio que haya venido.
+
+1049
+00:54:49,536 --> 00:54:51,777
+Estamos orgullosos del trabajo
+que hacemos en Boston.
+
+1050
+00:54:52,581 --> 00:54:54,242
+El Cardenal dijo
+que les gustó su visita.
+
+1051
+00:54:55,417 --> 00:54:56,577
+Sí, así es.
+
+1052
+00:54:56,794 --> 00:54:59,957
+Es un hombre extraordinario.
+Me alegra que pudieran hablar.
+
+1053
+00:55:14,269 --> 00:55:15,759
+¿Está disfrutando?
+
+1054
+00:55:17,731 --> 00:55:20,894
+Sinceramente, estos eventos no son
+mi fuerte.
+
+1055
+00:55:21,485 --> 00:55:23,476
+- Sí.
+- ¿Está involucrado con la caridad?
+
+1056
+00:55:24,071 --> 00:55:26,232
+No directamente.
+Pero sí muchos de mis amigos.
+
+1057
+00:55:26,406 --> 00:55:28,897
+Fuimos todos a la secundaria. BC High.
+
+1058
+00:55:29,076 --> 00:55:31,567
+Es la escuela que está frente al <i>Globe</i>.
+
+1059
+00:55:32,079 --> 00:55:33,569
+- Es difícil no verla.
+- Sí.
+
+1060
+00:55:34,748 --> 00:55:36,284
+También es difícil escapar, al parecer.
+
+1061
+00:55:38,794 --> 00:55:43,413
+El Cardenal está en el rincón,
+si le interesa.
+
+1062
+00:55:43,841 --> 00:55:45,502
+- Nos conocimos.
+- ¿En serio?
+
+1063
+00:55:45,843 --> 00:55:47,629
+¿Mencionó el juicio?
+
+1064
+00:55:48,136 --> 00:55:50,627
+No, pero me dio una
+copia del Catecismo.
+
+1065
+00:55:51,765 --> 00:55:54,427
+Sí, bueno, el Cardenal no es conocido
+por su sutileza.
+
+1066
+00:55:54,977 --> 00:55:56,467
+Durante la investigación de Porter...
+
+1067
+00:55:56,645 --> 00:55:59,478
+...literalmente, invocó
+el poder de Dios contra el <i>Globe</i>.
+
+1068
+00:56:00,440 --> 00:56:01,771
+¿Y cómo resultó?
+
+1069
+00:56:02,943 --> 00:56:05,776
+A la semana, nuestro editor se quebró
+la pierna esquiando.
+
+1070
+00:56:07,114 --> 00:56:08,479
+¿Tostadas con camarones, caballeros?
+
+1071
+00:56:09,324 --> 00:56:10,939
+- No, gracias.
+- No.
+
+1072
+00:56:12,661 --> 00:56:15,778
+¿Dijo que una de las víctimas presentó
+una demanda penal?
+
+1073
+00:56:16,456 --> 00:56:17,946
+Sí, hubo varias demandas.
+
+1074
+00:56:19,585 --> 00:56:23,294
+Pero el juez selló los expedientes
+tras quejas de amigos de la Iglesia.
+
+1075
+00:56:23,630 --> 00:56:25,291
+Y la Iglesia tiene muchos amigos.
+
+1076
+00:56:25,465 --> 00:56:26,625
+¿Como Eric Macleish?
+
+1077
+00:56:28,302 --> 00:56:29,302
+Sí.
+
+1078
+00:56:29,678 --> 00:56:32,670
+Digamos que él no es parte
+de la solución.
+
+1079
+00:56:32,848 --> 00:56:34,804
+- ¿Me entiende?
+- Sí, claro.
+
+1080
+00:56:35,517 --> 00:56:36,927
+Trabaja mucho, Sr. Rezendes.
+
+1081
+00:56:37,102 --> 00:56:39,809
+- ¿Es casado?
+- Sí.
+
+1082
+00:56:40,022 --> 00:56:41,603
+¿Su mujer no le reclama?
+
+1083
+00:56:41,773 --> 00:56:43,183
+Sí.
+
+1084
+00:56:45,485 --> 00:56:48,318
+Por eso yo nunca me casé.
+Estoy demasiado ocupado.
+
+1085
+00:56:49,156 --> 00:56:50,692
+Lo que hago es demasiado importante.
+
+1086
+00:56:55,203 --> 00:56:56,443
+Su editor nuevo es judío, ¿no?
+
+1087
+00:56:58,040 --> 00:57:00,031
+- Sí.
+- Sí, verá...
+
+1088
+00:57:00,792 --> 00:57:04,071
+...él llega, y de pronto
+todos se interesan por la Iglesia.
+
+1089
+00:57:04,171 --> 00:57:05,286
+¿Sabe por qué?
+
+1090
+00:57:06,214 --> 00:57:09,047
+Porque hace falta alguien de afuera,
+como yo.
+
+1091
+00:57:09,801 --> 00:57:11,337
+Yo soy armenio.
+
+1092
+00:57:11,511 --> 00:57:13,342
+¿Cuántos armenios conoce en Boston?
+
+1093
+00:57:14,723 --> 00:57:16,509
+Steve Kurkjian,
+trabaja en el <i>Globe</i>.
+
+1094
+00:57:17,476 --> 00:57:20,343
+Somos dos.
+Deberían darle un premio o algo.
+
+1095
+00:57:21,229 --> 00:57:23,470
+- ¿Usted es italiano?
+- No, portugués.
+
+1096
+00:57:24,816 --> 00:57:27,023
+- ¿De dónde?
+- Del este de Boston.
+
+1097
+00:57:28,987 --> 00:57:30,852
+¿En serio? ¿Del este de Boston?
+
+1098
+00:57:32,866 --> 00:57:34,231
+No parece de ahí.
+
+1099
+00:57:40,707 --> 00:57:43,244
+Esta ciudad, esta gente...
+
+1100
+00:57:45,253 --> 00:57:47,369
+...hace que el resto sintamos
+que no pertenecemos.
+
+1101
+00:57:48,090 --> 00:57:49,375
+Pero no son mejores que nosotros.
+
+1102
+00:57:50,384 --> 00:57:52,215
+Mire cómo tratan a sus hijos.
+
+1103
+00:57:54,554 --> 00:57:56,260
+Recuerde mis palabras, Sr. Rezendes...
+
+1104
+00:57:56,556 --> 00:58:00,265
+...si es trabajo de un pueblo criar
+un niño, también lo es abusar de él.
+
+1105
+00:58:04,940 --> 00:58:07,932
+- Aquí está. ¿Quieres una cerveza?
+- Me encantaría.
+
+1106
+00:58:08,944 --> 00:58:11,230
+Otra. ¿Viniste con Barbara?
+
+1107
+00:58:11,405 --> 00:58:14,442
+- No, ella odia estas cosas.
+- Karen también.
+
+1108
+00:58:14,741 --> 00:58:15,947
+- Sí.
+- Son mujeres listas.
+
+1109
+00:58:20,414 --> 00:58:21,745
+Conocí a tu editor nuevo.
+
+1110
+00:58:22,708 --> 00:58:25,040
+- Me pareció un tipo decente.
+- Creo que lo es.
+
+1111
+00:58:27,421 --> 00:58:31,414
+Tuve una conversación interesante
+con Eric Macleish el otro día.
+
+1112
+00:58:32,259 --> 00:58:36,923
+Viene resolviendo casos de abuso
+con la Archidiócesis desde hace años.
+
+1113
+00:58:37,597 --> 00:58:40,259
+¿Realmente quieres hablar de esto aquí?
+
+1114
+00:58:40,767 --> 00:58:45,761
+Jim, dijiste que ayudaste
+en lo del padre Barrett como favor.
+
+1115
+00:58:46,773 --> 00:58:48,263
+¿Fue esa única vez?
+
+1116
+00:58:51,778 --> 00:58:53,939
+¿En cuántos de estos casos
+has estado involucrado?
+
+1117
+00:58:55,282 --> 00:58:57,944
+Sabes que no puedo responder eso, Robby.
+No es ético.
+
+1118
+00:58:59,411 --> 00:59:00,821
+¿Es por eso solamente?
+
+1119
+00:59:03,290 --> 00:59:08,458
+Este sería el Robby Robinson
+sobre el que siempre oí...
+
+1120
+00:59:08,558 --> 00:59:11,036
+...pero que nunca conocí.
+
+1121
+00:59:11,590 --> 00:59:12,955
+Escúchame, Jimmy.
+
+1122
+00:59:13,759 --> 00:59:15,795
+Quieres estar del lado correcto.
+
+1123
+00:59:18,013 --> 00:59:22,340
+Estás hablando de la Iglesia, Robby.
+Mira alrededor. Es gente buena...
+
+1124
+00:59:22,440 --> 00:59:24,970
+...han hecho muchas cosas buenas
+por esta ciudad.
+
+1125
+00:59:26,146 --> 00:59:27,852
+Disfruta la fiesta.
+
+1126
+00:59:36,615 --> 00:59:37,615
+Directorio católico
+de Massachusetts 1994
+
+1127
+00:59:37,715 --> 00:59:40,560
+Ya revisé bastantes. No solo usan la
+designación "Licencia por enfermedad"...
+
+1128
+00:59:40,660 --> 00:59:42,525
+...cuando sacan a estos curas
+de circulación.
+
+1129
+00:59:42,662 --> 00:59:45,000
+Usan muchas más.
+"Ausente por licencia"...
+
+1130
+00:59:45,100 --> 00:59:47,734
+..."no asignado",
+"respuesta de emergencia".
+
+1131
+00:59:47,834 --> 00:59:50,237
+- Tienen una palabra para todo.
+- Menos para violación.
+
+1132
+00:59:50,337 --> 00:59:53,240
+Y se van de las parroquias
+con más frecuencia que otros curas.
+
+1133
+00:59:53,340 --> 00:59:55,501
+Cuando era niño,
+los curas se iban tras 7 u 8 años.
+
+1134
+00:59:55,634 --> 00:59:58,787
+A veces más. Con estos tipos,
+son 2 o 3 años como mucho.
+
+1135
+00:59:58,887 --> 01:00:01,173
+¿Usan esos términos
+para todos los curas de Saviano?
+
+1136
+01:00:01,348 --> 01:00:03,213
+Sí, es un patrón bastante claro.
+
+1137
+01:00:03,391 --> 01:00:05,006
+Muchachos, tengo a Sipe al teléfono.
+
+1138
+01:00:05,644 --> 01:00:08,511
+<i>Creo que si realmente</i>
+<i>quieren entender la crisis...</i>
+
+1139
+01:00:08,688 --> 01:00:11,020
+<i>...deben empezar</i>
+<i>por el voto de celibato.</i>
+
+1140
+01:00:11,233 --> 01:00:13,019
+<i>Ese fue mi primer hallazgo clave.</i>
+
+1141
+01:00:13,401 --> 01:00:16,017
+<i>Solo el 50% del clérigo es célibe.</i>
+
+1142
+01:00:17,197 --> 01:00:20,064
+<i>La mayoría tiene sexo con otros adultos.</i>
+
+1143
+01:00:20,659 --> 01:00:23,241
+<i>Pero el hecho es</i>
+<i>que esto crea una cultura de secretos...</i>
+
+1144
+01:00:23,411 --> 01:00:26,403
+<i>...que tolera y hasta protege
+a los pedófilos.</i>
+
+1145
+01:00:27,749 --> 01:00:31,537
+¿Cree que la Iglesia está al tanto
+del alcance de esta crisis?
+
+1146
+01:00:31,711 --> 01:00:34,999
+<i>Por supuesto. Después del primer
+escándalo grave de Luisiana...</i>
+
+1147
+01:00:35,173 --> 01:00:38,356
+<i>Tom Doyle, el secretario-canonista</i>
+<i>del nuncio papal, redactó un informe...</i>
+
+1148
+01:00:38,426 --> 01:00:43,420
+<i>...advirtiendo que los curas pedófilos</i>
+<i>representaban juicios multimillonarios.</i>
+
+1149
+01:00:43,723 --> 01:00:45,213
+<i>Eso fue en 1985.</i>
+
+1150
+01:00:45,392 --> 01:00:47,553
+- ¿1985?
+<i>- Así es.</i>
+
+1151
+01:00:48,687 --> 01:00:51,178
+¿Quién vio ese informe?
+¿Alguien de jerarquía católica?
+
+1152
+01:00:51,565 --> 01:00:53,831
+<i>Sí. Doyle quiso presentarlo...</i>
+
+1153
+01:00:53,931 --> 01:00:57,179
+<i>...en la Conferencia Nacional
+de Obispos Católicos.</i>
+
+1154
+01:00:57,279 --> 01:01:00,771
+<i>De hecho, el cardenal Law inicialmente
+ayudó a financiar el informe.</i>
+
+1155
+01:01:00,949 --> 01:01:03,018
+<i>Pero luego se echó atrás,</i>
+<i>y lo archivaron.</i>
+
+1156
+01:01:03,118 --> 01:01:04,144
+¿Es broma?
+
+1157
+01:01:04,244 --> 01:01:06,530
+Richard, soy Robby.
+
+1158
+01:01:06,913 --> 01:01:11,282
+Creemos que tenemos 13 curas
+de Boston que siguen este patrón...
+
+1159
+01:01:11,459 --> 01:01:15,122
+...lo cual sería
+una historia muy importante.
+
+1160
+01:01:15,297 --> 01:01:18,289
+¿Le suena bien
+en términos de escala?
+
+1161
+01:01:19,259 --> 01:01:21,921
+<i>No, Robby. No es suficiente.</i>
+
+1162
+01:01:23,054 --> 01:01:26,546
+<i>Según mis cálculos, el 6% tiene
+prácticas sexuales con menores.</i>
+
+1163
+01:01:27,809 --> 01:01:29,424
+¿El 6% de qué?
+
+1164
+01:01:29,936 --> 01:01:31,927
+<i>El 6% de todos los curas.</i>
+
+1165
+01:01:32,439 --> 01:01:33,929
+¿Cuántos curas hay en Boston?
+
+1166
+01:01:34,107 --> 01:01:36,063
+Unos 1.500. El 1% es 15.
+
+1167
+01:01:36,234 --> 01:01:39,442
+El 6% serían... 90.
+
+1168
+01:01:40,822 --> 01:01:44,440
+- Bien. Noventa curas.
+- ¿Es posible?
+
+1169
+01:01:44,993 --> 01:01:47,154
+<i>Desde un punto de vista métrico...</i>
+
+1170
+01:01:47,329 --> 01:01:51,163
+<i>...sí, eso coincidiría</i>
+<i>con mis averiguaciones.</i>
+
+1171
+01:01:57,172 --> 01:01:58,252
+<i>¿Hola?</i>
+
+1172
+01:02:01,134 --> 01:02:03,170
+¿Noventa malditos curas? ¿En Boston?
+
+1173
+01:02:03,678 --> 01:02:04,963
+Eso es lo que dijo.
+
+1174
+01:02:06,306 --> 01:02:08,467
+Si hubiera 90 de estos desgraciados,
+se sabría.
+
+1175
+01:02:08,808 --> 01:02:09,968
+Quizá se sabe.
+
+1176
+01:02:10,268 --> 01:02:11,633
+¿Y nadie dijo nada?
+
+1177
+01:02:12,312 --> 01:02:13,812
+Como en la Alemania nazi.
+
+1178
+01:02:14,606 --> 01:02:16,767
+No deberías hacer
+esa comparación públicamente.
+
+1179
+01:02:17,275 --> 01:02:19,766
+Macleish sabía. Solo que no dijo nada.
+
+1180
+01:02:19,986 --> 01:02:21,522
+Son 13 curas.
+
+1181
+01:02:21,821 --> 01:02:23,777
+Hay una gran diferencia entre 13 y 90.
+
+1182
+01:02:23,949 --> 01:02:25,314
+¿De dónde saca las cifras Sipe?
+
+1183
+01:02:25,659 --> 01:02:29,151
+Lo viene estudiando hace 30 años.
+Es un psicoterapeuta capacitado.
+
+1184
+01:02:29,329 --> 01:02:32,162
+Bien, pero necesitamos
+algo más que una métrica...
+
+1185
+01:02:32,332 --> 01:02:34,618
+...de un ex-cura hippie
+que convive con una monja.
+
+1186
+01:02:34,834 --> 01:02:36,995
+Buscaremos más víctimas.
+
+1187
+01:02:37,170 --> 01:02:40,503
+Y más curas.
+Podemos usar los directorios.
+
+1188
+01:02:40,632 --> 01:02:42,168
+Son un montón de víctimas.
+
+1189
+01:02:42,300 --> 01:02:43,506
+Las veremos a todas.
+
+1190
+01:02:43,677 --> 01:02:44,792
+¿Cuánto nos va a llevar?
+
+1191
+01:02:46,471 --> 01:02:47,506
+Demasiado tiempo.
+
+1192
+01:02:49,224 --> 01:02:51,806
+- Esperen, ¿la reunión terminó?
+- Sí, por ahora.
+
+1193
+01:02:54,312 --> 01:02:56,644
+- ¿Qué piensas?
+- ¿Y si lo hacemos al revés?
+
+1194
+01:02:57,357 --> 01:02:59,188
+- ¿Cómo? ¿De dónde?
+- De los directorios.
+
+1195
+01:02:59,359 --> 01:03:01,224
+Los usamos para confirmar
+los curas malos.
+
+1196
+01:03:01,403 --> 01:03:02,518
+¿Y si hacemos al revés?
+
+1197
+01:03:02,696 --> 01:03:04,440
+Usamos los directorios
+para identificarlos.
+
+1198
+01:03:04,540 --> 01:03:06,654
+Sí. Los buscamos por designación.
+
+1199
+01:03:06,825 --> 01:03:09,532
+Curas con "licencia por enfermedad"
+o "no asignados".
+
+1200
+01:03:09,703 --> 01:03:11,694
+- O los que hayan trasladado mucho.
+- Sí.
+
+1201
+01:03:11,871 --> 01:03:13,407
+Va a ser mucho trabajo.
+
+1202
+01:03:13,540 --> 01:03:15,246
+No si nos dedicamos todos a esto.
+
+1203
+01:03:15,583 --> 01:03:16,583
+¿Tú también?
+
+1204
+01:03:16,835 --> 01:03:19,668
+- En general, "todos" significa eso. Sí.
+- Sí, en general.
+
+1205
+01:03:22,048 --> 01:03:23,379
+Licencia por enfermedad
+
+1206
+01:03:24,384 --> 01:03:26,045
+Mahan, Paul J.
+Diócesis de Boston
+
+1207
+01:03:28,054 --> 01:03:29,054
+No asignado
+
+1208
+01:03:29,764 --> 01:03:31,049
+Keane, John F.
+Centro de Tratamiento
+
+1209
+01:03:31,766 --> 01:03:32,766
+Licencia por enfermedad
+
+1210
+01:03:33,727 --> 01:03:34,727
+Paquin, Ronald H.
+Diócesis de Boston
+
+1211
+01:03:48,408 --> 01:03:52,242
+o'sullivan- eugene- m -60 - no asignado
+
+1212
+01:03:53,872 --> 01:03:55,112
+probable - activo
+
+1213
+01:04:07,093 --> 01:04:09,254
+mahan - paul-68- licencia por enfermedad
+
+1214
+01:04:13,725 --> 01:04:15,716
+La biblioteca está cerrando.
+
+1215
+01:04:18,438 --> 01:04:20,429
+La biblioteca está cerrando.
+
+1216
+01:04:26,946 --> 01:04:28,046
+O'Sullivan, Eugene
+Centro de Tratamiento
+
+1217
+01:04:28,173 --> 01:04:29,508
+Calle Pelton 276,
+W. Roxbury
+
+1218
+01:04:29,741 --> 01:04:30,947
+A la mierda.
+
+1219
+01:05:18,623 --> 01:05:20,614
+No puede ser.
+
+1220
+01:05:24,003 --> 01:05:26,289
+NIÑOS. No se acerquen a esta casa
+de la calle Pelton 276.
+
+1221
+01:05:26,506 --> 01:05:29,213
+Ni se acerquen a los hombres
+que viven en ella.
+
+1222
+01:05:29,342 --> 01:05:30,385
+- Talbot.
+- Sí.
+
+1223
+01:05:30,485 --> 01:05:31,485
+- Tivnan.
+- Sí.
+
+1224
+01:05:32,011 --> 01:05:33,011
+- Toma.
+- Sí.
+
+1225
+01:05:33,179 --> 01:05:34,464
+- Turnbull.
+- Sí.
+
+1226
+01:05:34,639 --> 01:05:35,674
+- Walsh.
+- Sí.
+
+1227
+01:05:35,849 --> 01:05:36,964
+- Welsh.
+- Sí.
+
+1228
+01:05:37,183 --> 01:05:38,548
+- Listo.
+- Listo.
+
+1229
+01:05:38,726 --> 01:05:40,011
+- A la mierda.
+- ¿Robby?
+
+1230
+01:05:40,186 --> 01:05:42,518
+Son tres menos de los que dijo Sipe.
+Es increíble.
+
+1231
+01:05:42,689 --> 01:05:43,804
+¿Robby?
+
+1232
+01:05:43,982 --> 01:05:45,062
+- ¿Cuántos?
+- Ochenta y siete.
+
+1233
+01:05:45,233 --> 01:05:47,224
+Ochenta y siete curas en Boston.
+
+1234
+01:05:49,904 --> 01:05:51,360
+Llama a Macleish.
+
+1235
+01:05:51,460 --> 01:05:53,310
+- Quiero hablar con él.
+- De acuerdo.
+
+1236
+01:05:53,575 --> 01:05:56,362
+- ¿Puedes imprimirlo?
+- Sí, claro.
+
+1237
+01:05:58,997 --> 01:06:00,362
+<i>Oficina de Jim Sullivan.</i>
+
+1238
+01:06:00,540 --> 01:06:04,499
+Soy Walter Robinson, quiero hablar con
+Jim Sullivan. Dígale que es importante.
+
+1239
+01:06:04,669 --> 01:06:06,250
+<i>Un momento, por favor.</i>
+
+1240
+01:06:11,050 --> 01:06:12,506
+<i>Hola, Robby. ¿Todo en orden?</i>
+
+1241
+01:06:12,677 --> 01:06:14,542
+Necesito que me digas algo, Jim.
+
+1242
+01:06:14,929 --> 01:06:16,590
+¿Podrían ser 90 curas?
+
+1243
+01:06:17,182 --> 01:06:19,343
+<i>- ¿Qué?</i>
+- ¿Podrían sumar 90?
+
+1244
+01:06:20,018 --> 01:06:21,383
+<i>Cielos, Robby.</i>
+
+1245
+01:06:21,561 --> 01:06:25,053
+Necesito saberlo, Jim.
+No preguntaría si no fuera importante.
+
+1246
+01:06:27,066 --> 01:06:28,852
+<i>Tienes que parar con esto,
+Robby.</i>
+
+1247
+01:06:36,951 --> 01:06:40,114
+La asistente de Macleish dijo
+que está muy ocupado, no puede vernos.
+
+1248
+01:06:41,039 --> 01:06:43,030
+Sí. Va a tener que poder.
+
+1249
+01:06:48,630 --> 01:06:50,621
+Bien. Será divertido.
+
+1250
+01:06:54,469 --> 01:06:55,925
+¿Sabes qué? Ahora te alcanzo, ¿sí?
+
+1251
+01:06:56,095 --> 01:06:57,426
+Bien.
+
+1252
+01:06:57,597 --> 01:07:00,930
+Hola, lo siento mucho, pero no tengo
+tiempo para hablar ahora--
+
+1253
+01:07:01,100 --> 01:07:02,931
+Sr. Macleish,
+tenemos motivos para creer...
+
+1254
+01:07:03,102 --> 01:07:06,094
+...que hay alegatos
+contra 87 curas de Boston.
+
+1255
+01:07:07,273 --> 01:07:08,604
+No puedo hablar con ustedes de eso.
+
+1256
+01:07:08,816 --> 01:07:10,602
+- ¿Esa cifra le suena correcta?
+- ¿Bromean?
+
+1257
+01:07:10,777 --> 01:07:12,608
+Les dije que no tengo tiempo
+para esta basura.
+
+1258
+01:07:12,779 --> 01:07:14,940
+Eric. ¿A cuántos curas representaste?
+
+1259
+01:07:16,282 --> 01:07:17,567
+Sabes que no puedo decirte eso.
+
+1260
+01:07:17,909 --> 01:07:21,072
+Me vas a dar los nombres.
+Y los nombres de sus víctimas.
+
+1261
+01:07:23,122 --> 01:07:24,237
+¿Me estás amenazando?
+
+1262
+01:07:24,791 --> 01:07:26,577
+Tenemos dos historias aquí.
+
+1263
+01:07:26,793 --> 01:07:30,486
+Una sobre el clero degenerado,
+y otra sobre abogados...
+
+1264
+01:07:30,586 --> 01:07:33,329
+...que convierten el abuso de niños
+en una pequeña industria.
+
+1265
+01:07:33,925 --> 01:07:36,172
+¿Qué historia quieres que contemos?
+
+1266
+01:07:36,272 --> 01:07:39,043
+Porque vamos a escribir
+sobre una de ellas.
+
+1267
+01:07:41,641 --> 01:07:44,132
+Ya les envié una lista de nombres.
+
+1268
+01:07:45,520 --> 01:07:46,976
+¿De qué hablas? ¿A quién?
+
+1269
+01:07:47,438 --> 01:07:49,599
+Al <i>Globe</i>. Hace años.
+
+1270
+01:07:50,149 --> 01:07:51,980
+Tras el caso Porter,
+recibí muchas llamadas.
+
+1271
+01:07:52,151 --> 01:07:56,144
+Tenía 20 curas solo de Boston, pero
+no podía ir tras ellos sin la prensa.
+
+1272
+01:07:56,698 --> 01:08:01,158
+Así que les envié una lista de nombres,
+y ustedes la enterraron.
+
+1273
+01:08:03,329 --> 01:08:04,535
+Quiero esos nombres mañana.
+
+1274
+01:08:04,998 --> 01:08:07,034
+Fíjate en tus malditas notas, Robby.
+
+1275
+01:08:09,335 --> 01:08:10,825
+No encontramos nada en las notas.
+
+1276
+01:08:11,004 --> 01:08:12,835
+Sí. Qué sorpresa.
+
+1277
+01:08:14,340 --> 01:08:17,548
+Richard, ¿usted sigue yendo a misa?
+
+1278
+01:08:18,177 --> 01:08:20,793
+<i>No. Hace mucho que no voy a la iglesia.</i>
+
+1279
+01:08:21,055 --> 01:08:23,341
+<i>Pero me considero católico.</i>
+
+1280
+01:08:23,683 --> 01:08:25,048
+¿Qué quiere decir?
+
+1281
+01:08:25,351 --> 01:08:27,967
+<i>La iglesia es una institución,
+Mike.</i>
+
+1282
+01:08:28,354 --> 01:08:29,514
+<i>Formada por hombres.</i>
+
+1283
+01:08:29,981 --> 01:08:33,018
+<i>Es algo pasajero.</i>
+<i>Mi fe está en lo eterno.</i>
+
+1284
+01:08:34,068 --> 01:08:35,729
+<i>Intento separar las dos cosas.</i>
+
+1285
+01:08:36,529 --> 01:08:38,861
+- Suena complicado.
+<i>- Lo es.</i>
+
+1286
+01:08:39,157 --> 01:08:41,819
+<i>Especialmente porque la Iglesia</i>
+<i>continúa persiguiéndome.</i>
+
+1287
+01:08:42,368 --> 01:08:43,858
+<i>Tiene su precio, Mike.</i>
+
+1288
+01:08:44,370 --> 01:08:46,031
+<i>Intentan silenciar
+a todos los que hablan.</i>
+
+1289
+01:08:46,205 --> 01:08:48,571
+<i>Seguramente muy pronto irán</i>
+<i>detrás de usted y su equipo.</i>
+
+1290
+01:08:48,875 --> 01:08:51,082
+¿En serio? ¿Y cómo cree que lo harán?
+
+1291
+01:08:54,922 --> 01:08:56,537
+¿Hola?
+
+1292
+01:08:56,716 --> 01:08:57,716
+¿Richard?
+
+1293
+01:09:04,223 --> 01:09:05,223
+¿Quién es?
+
+1294
+01:09:05,433 --> 01:09:07,424
+El Arzobispo de Canterbury.
+
+1295
+01:09:11,272 --> 01:09:13,103
+Fui a cenar a Santarpio,
+son las sobras.
+
+1296
+01:09:13,274 --> 01:09:16,732
+Eres el mejor.
+Gracias. ¿Quieres una cerveza?
+
+1297
+01:09:17,403 --> 01:09:19,860
+- Sí.
+- Enseguida.
+
+1298
+01:09:20,031 --> 01:09:21,396
+Cielos.
+
+1299
+01:09:21,908 --> 01:09:23,364
+¿Cuánto más vas a estar
+en esta pocilga?
+
+1300
+01:09:23,534 --> 01:09:25,070
+Sí. Ya me estoy ocupando.
+
+1301
+01:09:25,953 --> 01:09:27,238
+Es una buena chica, Mike.
+
+1302
+01:09:27,413 --> 01:09:29,904
+Sí. Ya lo resolveremos.
+
+1303
+01:09:30,583 --> 01:09:32,414
+No he tenido mucho tiempo últimamente.
+
+1304
+01:09:33,252 --> 01:09:34,913
+De hecho, acabo de colgar con Sipe.
+
+1305
+01:09:35,755 --> 01:09:37,245
+¿Ya lo conociste en persona?
+
+1306
+01:09:37,924 --> 01:09:40,586
+No, pero su conocimiento sobre el tema
+está a otro nivel.
+
+1307
+01:09:41,386 --> 01:09:42,546
+Me muero de hambre.
+
+1308
+01:09:43,763 --> 01:09:46,300
+¿Ya llegamos a los 90?
+
+1309
+01:09:47,600 --> 01:09:49,215
+- Estamos cerca.
+- ¿Qué tan cerca?
+
+1310
+01:09:49,769 --> 01:09:52,101
+- Estamos cerca.
+- Responde la pregunta, ¿quieres?
+
+1311
+01:09:55,650 --> 01:09:57,140
+Tenemos 87 nombres.
+
+1312
+01:09:57,902 --> 01:09:59,608
+Intentamos confirmarlos.
+Creo que lo haremos.
+
+1313
+01:10:02,615 --> 01:10:04,071
+¿Te molesta algo?
+
+1314
+01:10:04,617 --> 01:10:06,232
+Es sorprendente, es todo.
+
+1315
+01:10:07,286 --> 01:10:10,744
+Sí. Sí, lo es. Para todos.
+
+1316
+01:10:16,129 --> 01:10:18,745
+Espera, Ben. Olvidé preguntarte.
+
+1317
+01:10:19,257 --> 01:10:22,590
+Phil Saviano dijo que envió
+mucha información al <i>Globe</i> hace años.
+
+1318
+01:10:22,760 --> 01:10:23,920
+¿Sabes a quién se la envió?
+
+1319
+01:10:24,470 --> 01:10:25,630
+No, ¿por qué?
+
+1320
+01:10:25,930 --> 01:10:28,797
+Solo por curiosidad. Quería ver
+si hay pistas que no evaluaron.
+
+1321
+01:10:29,642 --> 01:10:31,803
+Saviano era un desastre
+hace cinco años.
+
+1322
+01:10:31,978 --> 01:10:33,263
+No se nos escapó nada.
+
+1323
+01:10:33,438 --> 01:10:35,099
+Esta historia necesitaba de Spotlight.
+
+1324
+01:10:36,524 --> 01:10:38,515
+Sí, coincido. Solo preguntaba.
+
+1325
+01:10:41,487 --> 01:10:43,148
+- Buenas noches.
+- Sí, buenas noches.
+
+1326
+01:10:48,035 --> 01:10:50,492
+Es increíble.
+¿Cuándo lo recibiste?
+
+1327
+01:10:50,705 --> 01:10:52,696
+Macleish me envió la lista esta mañana.
+
+1328
+01:10:52,832 --> 01:10:55,323
+Resolvió casos contra 45 curas.
+
+1329
+01:10:56,210 --> 01:10:57,825
+¿Qué tenemos de Law?
+
+1330
+01:10:58,004 --> 01:10:59,835
+¿Algo que demuestre
+que conocía todo esto?
+
+1331
+01:11:00,006 --> 01:11:02,338
+Seguimos investigando a Garabedian.
+Pero nada concreto.
+
+1332
+01:11:02,675 --> 01:11:04,882
+Sigo pensando en la conversación
+de la otra noche...
+
+1333
+01:11:05,052 --> 01:11:07,338
+...sobre cómo Law invocó
+el poder de Dios...
+
+1334
+01:11:07,513 --> 01:11:09,879
+...cuando escribimos sobre Porter.
+
+1335
+01:11:10,308 --> 01:11:12,173
+Así es Law.
+
+1336
+01:11:12,310 --> 01:11:13,920
+Pero revisé las notas...
+
+1337
+01:11:14,020 --> 01:11:17,638
+...y Porter ni siquiera está
+en la archidiócesis de Boston.
+
+1338
+01:11:17,815 --> 01:11:22,024
+Es de Fall River.
+¿Por qué la reacción extrema?
+
+1339
+01:11:23,821 --> 01:11:25,311
+Law debía saberlo.
+
+1340
+01:11:25,865 --> 01:11:27,696
+Por eso reaccionó así.
+
+1341
+01:11:28,034 --> 01:11:29,570
+Porque sabía que había otros.
+
+1342
+01:11:32,914 --> 01:11:34,700
+Creo que esa es la gran historia.
+
+1343
+01:11:36,250 --> 01:11:37,706
+¿Más grande que 50 curas?
+
+1344
+01:11:38,544 --> 01:11:40,535
+Si viniera de arriba hacia abajo, sí.
+
+1345
+01:11:41,047 --> 01:11:44,210
+Pero las cifras indican que había clero
+de alto nivel involucrado.
+
+1346
+01:11:44,383 --> 01:11:45,768
+Son solo eso. Indicios.
+
+1347
+01:11:45,843 --> 01:11:49,122
+¿Dice que si hacemos una historia con
+50 sacerdotes pedófilos en Boston...?
+
+1348
+01:11:49,222 --> 01:11:50,382
+¡Mike!
+
+1349
+01:11:50,515 --> 01:11:52,881
+Tendremos la misma pelea de gatos
+que tuviste con Porter...
+
+1350
+01:11:53,017 --> 01:11:56,555
+...lo cual hizo mucho ruido,
+pero no cambió nada.
+
+1351
+01:12:00,066 --> 01:12:03,399
+Debemos concentrarnos en la institución,
+no en los curas por separado.
+
+1352
+01:12:04,070 --> 01:12:05,185
+Práctica y política.
+
+1353
+01:12:05,905 --> 01:12:07,520
+Muestren que la Iglesia
+manipuló el sistema...
+
+1354
+01:12:07,740 --> 01:12:09,401
+...para que ellos no enfrentaran cargos.
+
+1355
+01:12:09,534 --> 01:12:12,071
+Que pusieron a los mismos curas
+en otras parroquias...
+
+1356
+01:12:12,203 --> 01:12:13,568
+...una y otra vez.
+
+1357
+01:12:13,704 --> 01:12:17,242
+Muestren que fue sistémico,
+que se hizo de arriba hacia abajo.
+
+1358
+01:12:19,544 --> 01:12:21,409
+Parece que iremos tras Law.
+
+1359
+01:12:25,591 --> 01:12:27,582
+Iremos tras el sistema.
+
+1360
+01:12:30,429 --> 01:12:33,136
+Hagan una lista
+de todas las víctimas. Contáctenlas.
+
+1361
+01:12:33,391 --> 01:12:34,927
+Y traigan a Matt si necesitan ayuda.
+
+1362
+01:12:35,101 --> 01:12:36,716
+- Bien.
+- ¿Cuándo vas a Springfield?
+
+1363
+01:12:36,894 --> 01:12:38,759
+- Nuestra audiencia es el lunes.
+- Bien.
+
+1364
+01:12:39,480 --> 01:12:41,095
+Oye, Robby, ¿tienes un segundo?
+
+1365
+01:12:41,607 --> 01:12:42,607
+Sí.
+
+1366
+01:12:43,651 --> 01:12:47,314
+Uno de esos centros de tratamiento está
+a una cuadra de mi casa.
+
+1367
+01:12:49,657 --> 01:12:51,113
+Tenemos vecinos con niños.
+
+1368
+01:12:51,325 --> 01:12:55,318
+Sé que el trabajo que hacemos
+es confidencial, pero siento que...
+
+1369
+01:12:55,788 --> 01:12:56,823
+...debería decirles.
+
+1370
+01:13:01,419 --> 01:13:02,499
+Les diremos pronto.
+
+1371
+01:13:03,629 --> 01:13:04,629
+¿Seguro?
+
+1372
+01:13:06,132 --> 01:13:07,292
+- Sí.
+- De acuerdo.
+
+1373
+01:13:10,803 --> 01:13:13,135
+Hola. Soy Sacha Pfeiffer.
+De <i>The Boston Globe.</i>
+
+1374
+01:13:13,306 --> 01:13:16,093
+Busco a un caballero
+llamado Matthew Walsh.
+
+1375
+01:13:17,518 --> 01:13:18,598
+No. No es.
+
+1376
+01:13:31,991 --> 01:13:34,482
+Hola. Soy Sacha Pfeiffer
+de <i>The Boston Globe.</i>
+
+1377
+01:13:34,660 --> 01:13:35,660
+¿Sí? ¿Qué quieres?
+
+1378
+01:13:35,786 --> 01:13:36,946
+Busco a Thomas Kennedy.
+
+1379
+01:13:37,371 --> 01:13:39,862
+- Ya no vive aquí.
+- ¿Sabe dónde vive?
+
+1380
+01:13:40,333 --> 01:13:41,698
+Señor, solo quisiera preguntar--
+
+1381
+01:13:44,170 --> 01:13:45,285
+Sacha Pfeiffer, <i>Boston Globe.</i>
+
+1382
+01:13:45,463 --> 01:13:48,330
+- Sí, hola.
+- Hola. Gracias.
+
+1383
+01:13:49,050 --> 01:13:51,883
+- ¿Algo más que puedas recordar?
+- No.
+
+1384
+01:13:52,011 --> 01:13:55,845
+No, pero tengo una prima en Quincy que
+lo vio en la calle unos años después.
+
+1385
+01:13:56,849 --> 01:13:58,339
+<i>El Obispo vino a la casa.</i>
+
+1386
+01:13:58,517 --> 01:14:00,178
+Dijo que nunca había pasado algo así...
+
+1387
+01:14:00,353 --> 01:14:01,638
+...y pidió
+que no presentáramos cargos.
+
+1388
+01:14:02,313 --> 01:14:03,974
+Y ¿qué hizo tu madre?
+
+1389
+01:14:04,190 --> 01:14:05,475
+¿Mi madre?
+
+1390
+01:14:06,859 --> 01:14:08,520
+Le ofreció galletas.
+
+1391
+01:14:12,865 --> 01:14:14,856
+<i>Hubo mucha presión</i>
+<i>para silenciarnos.</i>
+
+1392
+01:14:15,201 --> 01:14:17,533
+- ¿De parte de la Iglesia?
+- Sí, de la Iglesia...
+
+1393
+01:14:18,204 --> 01:14:19,694
+...pero no solo de la Iglesia.
+
+1394
+01:14:20,665 --> 01:14:22,701
+De mis amigos.
+
+1395
+01:14:22,917 --> 01:14:24,248
+De los otros parroquianos.
+
+1396
+01:14:24,669 --> 01:14:28,662
+<i>Muchos de los curas que traté</i>
+<i>sufrían de atrofia psicosexual.</i>
+
+1397
+01:14:29,048 --> 01:14:31,209
+En el nivel emocional
+de un niño de 12 o 13 años.
+
+1398
+01:14:31,550 --> 01:14:32,756
+Cielos.
+
+1399
+01:14:32,927 --> 01:14:36,590
+Seguramente el Jefe sabía. Todos,
+pero nadie quiere esposar a un cura.
+
+1400
+01:14:38,391 --> 01:14:39,551
+¿Y qué hay del fiscal?
+
+1401
+01:14:40,559 --> 01:14:42,049
+No debería hablar de esta mierda.
+
+1402
+01:14:42,395 --> 01:14:44,386
+Yo creo que sí.
+
+1403
+01:14:44,563 --> 01:14:46,849
+¿Conoces al padre Hurley
+o al padre Gale?
+
+1404
+01:14:47,500 --> 01:14:48,509
+Sí.
+
+1405
+01:14:48,609 --> 01:14:50,725
+- Juro que los voy a hacer mierda.
+- Lo siento.
+
+1406
+01:14:50,861 --> 01:14:53,398
+Déjeme en paz. ¡Deje en paz
+a mi hermano! ¿Me oyó, maldición?
+
+1407
+01:15:02,123 --> 01:15:04,114
+Hola. Busco a Ronald Paquin.
+
+1408
+01:15:04,250 --> 01:15:05,250
+¿Sí?
+
+1409
+01:15:06,544 --> 01:15:08,876
+- ¿Usted es el padre Paquin?
+- Sí, soy yo.
+
+1410
+01:15:10,089 --> 01:15:12,455
+Soy Sacha Pfeiffer <i>The Boston Globe.</i>
+
+1411
+01:15:12,633 --> 01:15:14,544
+- Bien.
+- ¿Podría hacerle unas preguntas?
+
+1412
+01:15:14,885 --> 01:15:16,375
+Adelante, querida.
+
+1413
+01:15:17,054 --> 01:15:18,965
+Hablamos con varios hombres
+que conoció de niños...
+
+1414
+01:15:19,140 --> 01:15:20,801
+...en San Juan Bautista, en Haverhill.
+
+1415
+01:15:21,767 --> 01:15:22,767
+¿Usted...?
+
+1416
+01:15:23,394 --> 01:15:25,055
+Dijeron que abusó de ellos.
+¿Es cierto?
+
+1417
+01:15:27,648 --> 01:15:31,607
+Sí, claro, jugueteamos,
+pero nunca me sentí gratificado.
+
+1418
+01:15:33,112 --> 01:15:37,105
+Bien. Pero ¿admite haber abusado
+de niños en San Juan Bautista?
+
+1419
+01:15:38,159 --> 01:15:42,277
+Sí, pero como dije,
+eso nunca me dio placer.
+
+1420
+01:15:42,747 --> 01:15:44,738
+Es importante que lo entienda.
+
+1421
+01:15:44,915 --> 01:15:45,915
+Sí.
+
+1422
+01:15:47,001 --> 01:15:50,414
+Pero ¿puede decirme dónde y cómo
+jugueteó con estos niños?
+
+1423
+01:15:52,631 --> 01:15:55,668
+Quiero dejar algo claro,
+yo nunca violé a nadie.
+
+1424
+01:15:56,802 --> 01:15:59,009
+Hay una diferencia. Yo lo sé.
+
+1425
+01:15:59,638 --> 01:16:02,129
+- ¿Cómo lo sabe?
+- Porque fui violado.
+
+1426
+01:16:04,810 --> 01:16:07,768
+- Lo siento, ¿quién lo violó?
+- Ronnie, ¿con quién hablas?
+
+1427
+01:16:07,938 --> 01:16:09,519
+- Está bien, Jane.
+- Padre, ¿quién lo violó?
+
+1428
+01:16:09,648 --> 01:16:10,807
+¿Quién eres tú?
+
+1429
+01:16:11,442 --> 01:16:12,602
+Sacha Pfeiffer, del <i>Globe</i>.
+
+1430
+01:16:12,943 --> 01:16:14,649
+- Fuera de aquí.
+- Puedo hablar por mí mismo.
+
+1431
+01:16:14,820 --> 01:16:16,811
+- Entra a la casa, Ronnie.
+- Señor...
+
+1432
+01:16:16,989 --> 01:16:18,599
+- Entra, Ronald.
+- Lo siento.
+
+1433
+01:16:18,699 --> 01:16:20,860
+- Disculpe, ¿quién es usted?
+- Soy su hermana...
+
+1434
+01:16:21,285 --> 01:16:23,697
+- ...y no quiero que vuelva aquí.
+- Sra. Paquin--
+
+1435
+01:16:31,462 --> 01:16:34,795
+- A que te gano hasta la esquina.
+- No lo harás. Yo te gané la última vez.
+
+1436
+01:16:34,965 --> 01:16:37,126
+- No, hiciste trampa.
+- Tú hiciste trampa.
+
+1437
+01:16:43,682 --> 01:16:47,721
+¿Podría aclararme
+la postura del <i>Globe</i>, Sr. Albano?
+
+1438
+01:16:48,020 --> 01:16:49,385
+Sí, jueza Sweeney.
+
+1439
+01:16:53,567 --> 01:16:55,899
+Nuestro argumento
+para hacer públicos estos documentos...
+
+1440
+01:16:56,070 --> 01:16:58,527
+...se fundamenta en la Primera Enmienda.
+
+1441
+01:16:59,031 --> 01:17:01,397
+También tenemos
+algunos otros argumentos relevantes.
+
+1442
+01:17:01,700 --> 01:17:04,032
+Después de todo, Su Señoría,
+fue una orden discrecional.
+
+1443
+01:17:04,370 --> 01:17:06,907
+Sí, se hizo a discreción del Juez.
+
+1444
+01:17:07,081 --> 01:17:09,743
+- Hola, Mike.
+- Hola, Joe.
+
+1445
+01:17:10,543 --> 01:17:12,875
+¿Qué hace un periodista de Spotlight
+en Springfield?
+
+1446
+01:17:15,256 --> 01:17:17,542
+Tu muchacho Albano se va para arriba.
+
+1447
+01:17:17,883 --> 01:17:19,839
+¿Crees que tienes
+posibilidades de ganar esto?
+
+1448
+01:17:20,010 --> 01:17:22,001
+¿Quieres que haga comentarios
+para el <i>Herald?</i>
+
+1449
+01:17:23,931 --> 01:17:26,422
+"Periodista de <i>Globe</i>
+no hizo comentarios...
+
+1450
+01:17:27,268 --> 01:17:29,884
+...pero no parecía esperanzado".
+
+1451
+01:17:31,021 --> 01:17:32,852
+No intentó ocultarlo para nada.
+
+1452
+01:17:33,023 --> 01:17:35,730
+Tenía una forma muy extraña
+de racionalizarlo.
+
+1453
+01:17:35,901 --> 01:17:38,563
+Como si fuera normal
+juguetear sexualmente con niños.
+
+1454
+01:17:39,655 --> 01:17:41,896
+Realmente quisiera volver.
+Creo que nos hablaría.
+
+1455
+01:17:42,741 --> 01:17:44,151
+Sí, volveremos.
+
+1456
+01:17:44,577 --> 01:17:45,908
+Pero todavía no.
+
+1457
+01:17:46,162 --> 01:17:48,574
+Quiero que te concentres
+en las víctimas ahora.
+
+1458
+01:17:48,747 --> 01:17:51,033
+Sacha, ¿me recuerdas
+adónde enviaron al padre Talbot?
+
+1459
+01:17:51,834 --> 01:17:54,729
+- ¿No era a Cheverus?
+- Cheverus, sí.
+
+1460
+01:17:54,829 --> 01:17:57,416
+¿El padre Talbot
+de la secundaria BC High?
+
+1461
+01:17:58,007 --> 01:17:59,713
+Sí, ¿lo conoces?
+
+1462
+01:17:59,884 --> 01:18:02,045
+Sí, estaba ahí cuando yo iba.
+
+1463
+01:18:02,678 --> 01:18:05,841
+- ¿Tenemos una víctima?
+- Sí, vive en Providence.
+
+1464
+01:18:08,017 --> 01:18:09,418
+REV. JAMES F. TALBOT - BC HIGH 72- 80
+TRANSFERIDO A CHEVERUS
+
+1465
+01:18:09,518 --> 01:18:11,930
+No hay nada personal
+en estos documentos, Su Señoría.
+
+1466
+01:18:12,605 --> 01:18:14,015
+Se refieren
+al manejo del Cardenal--
+
+1467
+01:18:14,190 --> 01:18:15,350
+Diga la arquidiócesis.
+
+1468
+01:18:16,859 --> 01:18:17,859
+¿Perdón?
+
+1469
+01:18:18,068 --> 01:18:21,276
+No puede adjudicarle todo
+al Cardenal, Sr. Albano.
+
+1470
+01:18:21,447 --> 01:18:22,937
+Diga la arquidiócesis.
+
+1471
+01:18:23,782 --> 01:18:25,613
+Su Señoría,
+el <i>Globe</i> no es parte de este caso...
+
+1472
+01:18:25,784 --> 01:18:26,864
+...solo desea vender periódicos.
+
+1473
+01:18:27,036 --> 01:18:30,574
+Si el Sr. Garabedian no hubiera manchado
+el buen nombre del Cardenal...
+
+1474
+01:18:31,290 --> 01:18:32,746
+- ...ni estaríamos aquí.
+- Su Señoría...
+
+1475
+01:18:32,917 --> 01:18:34,953
+...objeto el uso
+de la palabra "manchar".
+
+1476
+01:18:35,211 --> 01:18:37,793
+- Queda asentado, Sr. Garabedian.
+- Gracias, Su Señoría.
+
+1477
+01:18:37,963 --> 01:18:40,079
+- ¿Algo más, Sr. Rogers?
+- No, Su Señoría.
+
+1478
+01:18:40,299 --> 01:18:42,381
+Sr. Albano, puede continuar.
+
+1479
+01:18:45,888 --> 01:18:47,549
+Hola, Mitch, ¿cómo está?
+
+1480
+01:18:48,224 --> 01:18:49,224
+Bien.
+
+1481
+01:18:50,142 --> 01:18:52,474
+Wilson Rogers es duro.
+
+1482
+01:18:52,978 --> 01:18:54,218
+Es engreído.
+
+1483
+01:18:54,730 --> 01:18:56,061
+Y es descuidado.
+
+1484
+01:18:56,273 --> 01:18:57,638
+No parece descuidado.
+
+1485
+01:18:58,484 --> 01:19:00,270
+Y me quedo corto. Créame.
+
+1486
+01:19:01,654 --> 01:19:03,394
+¿Por qué se queda corto?
+
+1487
+01:19:05,574 --> 01:19:06,780
+Dígame, Mitch.
+
+1488
+01:19:08,953 --> 01:19:10,944
+- ¿Extraoficialmente?
+- Extraoficialmente, sí.
+
+1489
+01:19:14,500 --> 01:19:16,832
+Hace tres años,
+recibí una llamada de un ex-cura.
+
+1490
+01:19:17,127 --> 01:19:18,412
+Anthony Benzevich.
+
+1491
+01:19:18,587 --> 01:19:20,794
+Estuvo en el Santísimo Sacramento
+en el 62...
+
+1492
+01:19:20,965 --> 01:19:23,172
+...y vio a Geoghan...
+
+1493
+01:19:24,093 --> 01:19:26,425
+...llevando a niños
+al dormitorio de la rectoría.
+
+1494
+01:19:26,595 --> 01:19:29,678
+Estaba consternado, ¿sí?
+Le contó al obispo.
+
+1495
+01:19:30,641 --> 01:19:32,472
+El obispo amenazó con reasignarlo.
+
+1496
+01:19:32,851 --> 01:19:34,182
+A Sudamérica.
+
+1497
+01:19:34,478 --> 01:19:35,684
+- Cielos.
+- Sí, bien.
+
+1498
+01:19:35,854 --> 01:19:37,344
+Pasaron 35 años...
+
+1499
+01:19:37,523 --> 01:19:41,266
+...y Benzevich leyó que habían acusado
+a Geoghan de abusar de cientos de niños.
+
+1500
+01:19:41,443 --> 01:19:45,678
+- Se sintió culpable. Me llamó.
+- ¿Tiene el testimonio de un cura...
+
+1501
+01:19:45,778 --> 01:19:48,851
+...que avisó a sus superiores
+sobre Geoghan en el 62?
+
+1502
+01:19:48,951 --> 01:19:50,316
+No.
+
+1503
+01:19:50,494 --> 01:19:53,110
+Porque cuando llamé a Benzevich
+para que declarara...
+
+1504
+01:19:53,289 --> 01:19:54,369
+...vino con un abogado.
+
+1505
+01:19:55,291 --> 01:19:56,872
+- Wilson Rogers.
+- Sí.
+
+1506
+01:19:57,334 --> 01:19:59,825
+Y de pronto el padre Benzevich
+tenía pésima memoria.
+
+1507
+01:20:00,045 --> 01:20:02,001
+No recordaba nada. No servía.
+
+1508
+01:20:02,172 --> 01:20:04,709
+Así que volví a trabajar,
+me olvidé del tema. Como sea.
+
+1509
+01:20:05,384 --> 01:20:08,249
+Pero hace un año vi un artículo
+de un cura...
+
+1510
+01:20:08,349 --> 01:20:10,873
+...que advertía a sus superiores
+de Geoghan.
+
+1511
+01:20:10,973 --> 01:20:12,804
+- ¿Benzevich fue a la prensa?
+- Sí.
+
+1512
+01:20:13,058 --> 01:20:15,640
+Sí, al periódico local,
+el <i>Patriot Ledger.</i> Nadie lo vio.
+
+1513
+01:20:15,811 --> 01:20:17,347
+Pero tenía la declaración de Benzevich.
+
+1514
+01:20:17,521 --> 01:20:20,729
+Presenté una petición para que Benzevich
+declarara por segunda vez.
+
+1515
+01:20:21,358 --> 01:20:24,691
+¿Sí? Y Wilson Rogers,
+ese engreído hijo de puta...
+
+1516
+01:20:24,862 --> 01:20:27,399
+...presentó una petición contra la mía.
+
+1517
+01:20:28,032 --> 01:20:29,397
+Y ahí fue que lo agarré.
+
+1518
+01:20:30,993 --> 01:20:32,028
+¿En qué sentido?
+
+1519
+01:20:32,536 --> 01:20:34,072
+Rogers se opuso a mi petición...
+
+1520
+01:20:34,246 --> 01:20:36,578
+...así que tuve que argumentar
+por qué podía declarar...
+
+1521
+01:20:36,749 --> 01:20:38,580
+...el padre Benzevich
+por segunda vez, ¿sí?
+
+1522
+01:20:38,751 --> 01:20:41,413
+Pero esta vez, podía adjuntar pruebas.
+
+1523
+01:20:42,046 --> 01:20:43,046
+¿Me sigue?
+
+1524
+01:20:43,756 --> 01:20:44,996
+- ¿Los documentos sellados?
+- Sí.
+
+1525
+01:20:45,341 --> 01:20:49,425
+Podía adjuntar los documentos sellados
+que había descubierto, Sr. Rezendes...
+
+1526
+01:20:49,595 --> 01:20:52,553
+...los mismos documentos por los
+que su periódico entabla esta demanda.
+
+1527
+01:20:53,432 --> 01:20:54,592
+¿Me está jodiendo?
+
+1528
+01:20:54,767 --> 01:20:56,598
+¿Qué? No, no le estoy jodiendo.
+
+1529
+01:20:56,769 --> 01:20:59,500
+Tomé los 14 documentos
+más incriminatorios...
+
+1530
+01:20:59,600 --> 01:21:02,934
+...y los adjunté a mi petición.
+Y probaron todo. Todo.
+
+1531
+01:21:03,108 --> 01:21:05,599
+Sobre la Iglesia,
+sobre los obispos, sobre Law.
+
+1532
+01:21:05,778 --> 01:21:07,439
+¿Y todo eso se hizo público?
+
+1533
+01:21:07,680 --> 01:21:10,237
+Porque su petición
+contra la petición de Rogers...
+
+1534
+01:21:10,407 --> 01:21:12,068
+- ...es pública.
+- Es pública. Sí, exacto.
+
+1535
+01:21:12,451 --> 01:21:13,611
+Ahora está prestando atención.
+
+1536
+01:21:13,786 --> 01:21:15,777
+Entonces ¿podría entrar a ese juzgado
+ahora mismo...
+
+1537
+01:21:15,954 --> 01:21:17,069
+...y conseguir esos documentos?
+
+1538
+01:21:17,247 --> 01:21:20,455
+No, no puede,
+porque los documentos no están ahí.
+
+1539
+01:21:21,210 --> 01:21:22,290
+Pero dijo que eran públicos.
+
+1540
+01:21:22,461 --> 01:21:25,373
+Lo sé, pero estamos en Boston...
+
+1541
+01:21:25,798 --> 01:21:29,290
+...y la Iglesia no quiere
+que los encuentren. Así que...
+
+1542
+01:21:29,635 --> 01:21:31,045
+...no están ahí.
+
+1543
+01:21:32,930 --> 01:21:35,387
+Mitch, ¿me está diciendo
+que la Iglesia Católica...
+
+1544
+01:21:35,557 --> 01:21:37,798
+...retiró documentos legales
+de ese juzgado?
+
+1545
+01:21:38,394 --> 01:21:41,306
+Mire, no estoy loco ni paranoico.
+
+1546
+01:21:41,480 --> 01:21:42,720
+Tengo experiencia.
+
+1547
+01:21:42,898 --> 01:21:44,889
+Revise el expediente. Va a ver.
+
+1548
+01:21:45,943 --> 01:21:47,308
+Ellos controlan todo.
+
+1549
+01:21:50,280 --> 01:21:51,440
+Todo.
+
+1550
+01:21:53,575 --> 01:21:55,156
+Debo volver adentro.
+
+1551
+01:21:58,664 --> 01:22:01,451
+Estos tipos tienen
+los malditos documentos.
+
+1552
+01:22:15,973 --> 01:22:19,181
+Expediente número 49,
+está en el caso Geoghan.
+
+1553
+01:22:19,351 --> 01:22:21,592
+- Cerramos en 10 minutos.
+- Diez minutos.
+
+1554
+01:22:51,467 --> 01:22:54,334
+Rev. James F. Talbot.
+Moderador de Hermandad de Primer Año.
+
+1555
+01:22:59,391 --> 01:23:01,126
+- Robby.
+<i>- Hola, soy yo.</i>
+
+1556
+01:23:01,226 --> 01:23:02,511
+- Hola.
+<i>- No vas a creerlo.</i>
+
+1557
+01:23:03,061 --> 01:23:06,553
+Garabedian me dio un dato, algunos
+documentos sellados son públicos.
+
+1558
+01:23:06,732 --> 01:23:08,063
+Están en una petición que presentó.
+
+1559
+01:23:08,484 --> 01:23:11,637
+<i>Son los más incriminatorios. No hace
+falta esperar el fallo de Sweeney.</i>
+
+1560
+01:23:11,737 --> 01:23:14,194
+- ¿Podemos conseguirlos?
+<i>- Sí, pero no están ahí.</i>
+
+1561
+01:23:14,531 --> 01:23:17,489
+Ya hablé con Albano,
+y solo hay que presentar una petición...
+
+1562
+01:23:17,659 --> 01:23:20,025
+...y Sweeney ordenará a Mitch
+que reabra los documentos.
+
+1563
+01:23:20,579 --> 01:23:21,910
+Y ¿estos documentos serán...?
+
+1564
+01:23:22,080 --> 01:23:24,742
+<i>Dijo que los 14 documentos eran</i>
+<i>suficientes. Son enormes.</i>
+
+1565
+01:23:25,042 --> 01:23:29,206
+Bien. Llamaré a Ben. Buen trabajo.
+
+1566
+01:23:54,696 --> 01:23:55,936
+¿Qué sucedió?
+
+1567
+01:23:56,573 --> 01:23:59,736
+Dicen que es un avión de hélice,
+pero eso no es un avión de hélice.
+
+1568
+01:24:03,956 --> 01:24:06,618
+Dile a Linda que mande
+a todos los periodistas que tenemos.
+
+1569
+01:24:08,252 --> 01:24:09,862
+<i>Recen por las víctimas...</i>
+
+1570
+01:24:09,962 --> 01:24:10,962
+CARDENAL BERNARD LAW
+
+1571
+01:24:11,088 --> 01:24:12,953
+<i>...por los heridos...</i>
+
+1572
+01:24:13,465 --> 01:24:15,956
+<i>...y por los sobrevivientes.</i>
+
+1573
+01:24:17,135 --> 01:24:19,877
+<i>Y recen también por la nación.</i>
+
+1574
+01:24:21,223 --> 01:24:27,223
+<i>Nuestra respuesta a esto podría reflejar</i>
+<i>los mejores ideales de nuestra nación.</i>
+
+1575
+01:24:28,480 --> 01:24:31,472
+<i>Y aún más, podría reflejar</i>
+<i>nuestras propias enseñanzas de Dios.</i>
+
+1576
+01:24:31,942 --> 01:24:35,935
+<i>No solo como se muestra</i>
+<i>en el cristianismo y el judaísmo...</i>
+
+1577
+01:24:36,488 --> 01:24:38,479
+<i>...sino también en el Islam.</i>
+
+1578
+01:24:38,657 --> 01:24:40,989
+- No está mal. ¿Quién está ahí?
+- Paulson.
+
+1579
+01:24:41,326 --> 01:24:42,816
+Quiero hablar con él cuando vuelva.
+
+1580
+01:24:43,412 --> 01:24:44,993
+¿Rezendes ya pudo llegar a Florida?
+
+1581
+01:24:45,497 --> 01:24:48,159
+Abrieron el aeropuerto en Providence.
+Está yendo hacia allá.
+
+1582
+01:24:48,500 --> 01:24:50,331
+Voy a necesitar
+más gente en Massport.
+
+1583
+01:24:50,669 --> 01:24:52,000
+Te enviaré a 3 de mis hombres.
+
+1584
+01:24:52,170 --> 01:24:53,956
+- Robby, envía a tu gente también.
+- Bien.
+
+1585
+01:24:54,131 --> 01:24:56,838
+- Y, Robby, todo lo demás se cancela.
+- Entendido.
+
+1586
+01:24:57,009 --> 01:24:58,294
+¿A qué va Mike a Florida?
+
+1587
+01:24:58,468 --> 01:25:00,629
+A la escuela de vuelo.
+Ahí aprendieron a volar.
+
+1588
+01:25:01,346 --> 01:25:04,008
+Robby, tengo muchas entrevistas
+de víctimas para esta semana.
+
+1589
+01:25:04,266 --> 01:25:05,506
+Debemos cancelarlas.
+
+1590
+01:25:05,684 --> 01:25:07,015
+- Va a ser difícil.
+- Lo sé.
+
+1591
+01:25:07,185 --> 01:25:09,141
+Qué locura.
+Hace dos días le dije a mi mujer...
+
+1592
+01:25:09,313 --> 01:25:11,019
+...que daríamos
+la mayor noticia del planeta.
+
+1593
+01:25:11,189 --> 01:25:12,520
+<i>Boston Globe.</i>
+
+1594
+01:25:12,691 --> 01:25:14,522
+<i>Boston Globe</i> Un momento, por favor.
+
+1595
+01:25:14,693 --> 01:25:16,854
+Sí, si tiene un dato,
+lo transferiré a Metro.
+
+1596
+01:25:19,323 --> 01:25:20,323
+Mitchell Garabedian.
+
+1597
+01:25:20,490 --> 01:25:21,775
+<i>Mitch, soy Mike,</i>
+<i>no podía ubicarlo.</i>
+
+1598
+01:25:21,950 --> 01:25:23,531
+No tengo tiempo, Sr. Rezendes.
+
+1599
+01:25:23,702 --> 01:25:26,193
+Es un minuto.
+¿Ya pidió que reabran esos documentos?
+
+1600
+01:25:26,538 --> 01:25:28,369
+<i>No, acabo de recibir la orden.
+Lleva tiempo.</i>
+
+1601
+01:25:28,540 --> 01:25:30,155
+Genial. ¿Puede postergarlo?
+
+1602
+01:25:30,334 --> 01:25:31,665
+<i>- ¿Postergarlo?</i>
+- Debo ir a Florida.
+
+1603
+01:25:31,835 --> 01:25:33,200
+Una vez que lo haga, serán públicos.
+
+1604
+01:25:33,378 --> 01:25:35,334
+Otros periódicos tendrán acceso a ellos.
+
+1605
+01:25:35,505 --> 01:25:39,339
+<i>No me preocupan los otros periódicos.</i>
+<i>Recibí una orden judicial.</i>
+
+1606
+01:25:39,551 --> 01:25:41,291
+<i>Le dije que la Iglesia
+me está vigilando.</i>
+
+1607
+01:25:41,470 --> 01:25:43,961
+Mitch, por favor.
+Solo necesito unas semanas más.
+
+1608
+01:25:45,557 --> 01:25:47,388
+<i>No puedo prometer nada. Adiós.</i>
+
+1609
+01:25:47,559 --> 01:25:50,050
+¿Mitch? ¡Mitch! Diablos.
+
+1610
+01:25:51,980 --> 01:25:52,980
+¡Diablos!
+
+1611
+01:26:01,907 --> 01:26:05,143
+<i>Entiendo, nadie quiere leer</i>
+<i>sobre niños violados por curas.</i>
+
+1612
+01:26:05,243 --> 01:26:07,575
+Menos ahora.
+Pero le pidieron a mucha gente...
+
+1613
+01:26:07,704 --> 01:26:10,649
+...que reviviera experiencias
+muy dolorosas y desaparecieron.
+
+1614
+01:26:10,749 --> 01:26:12,317
+Sabes por qué nos sacaron la historia.
+
+1615
+01:26:12,417 --> 01:26:14,069
+Pasaron seis semanas desde el 9/11.
+
+1616
+01:26:14,169 --> 01:26:16,376
+Me doy cuenta de eso,
+y vamos a retomarlo.
+
+1617
+01:26:16,755 --> 01:26:17,755
+¿Cuándo?
+
+1618
+01:26:19,424 --> 01:26:21,255
+Están haciendo lo mismo
+de la última vez.
+
+1619
+01:26:21,426 --> 01:26:22,426
+- No.
+- Nos están abandonando.
+
+1620
+01:26:22,594 --> 01:26:24,710
+Quizá deba contarle
+la historia al <i>Herald.</i>
+
+1621
+01:26:26,056 --> 01:26:28,092
+Está bien, Phil, hazlo.
+
+1622
+01:26:28,892 --> 01:26:32,009
+Va a deshacer todo el trabajo
+que hicimos, pero no puedo detenerte.
+
+1623
+01:26:34,231 --> 01:26:37,564
+Escúchame. Estoy aquí porque me importa.
+
+1624
+01:26:39,611 --> 01:26:41,067
+No vamos a desaparecer.
+
+1625
+01:26:41,780 --> 01:26:43,941
+Vamos a contar esta historia,
+y la contaremos bien.
+
+1626
+01:26:44,116 --> 01:26:46,607
+Solo necesitamos más tiempo.
+Es lo único que pedimos.
+
+1627
+01:26:49,788 --> 01:26:51,403
+¿Por qué se molestan
+en pedir más tiempo?
+
+1628
+01:26:52,791 --> 01:26:54,622
+Van a hacer lo que quieran igualmente.
+
+1629
+01:26:55,794 --> 01:26:57,375
+Como siempre.
+
+1630
+01:26:58,088 --> 01:26:59,088
+Phil.
+
+1631
+01:27:00,048 --> 01:27:01,048
+Phil.
+
+1632
+01:27:07,097 --> 01:27:09,133
+- Hola.
+<i>- ¿Qué tal South Beach?</i>
+
+1633
+01:27:09,766 --> 01:27:12,473
+Boynton Beach.
+Un lugar totalmente distinto.
+
+1634
+01:27:12,978 --> 01:27:16,137
+- ¿Qué cuentas?
+<i>- Hoy me llamó Mitch Garabedian.</i>
+
+1635
+01:27:16,481 --> 01:27:18,767
+- ¿Para qué?
+<i>- Porque sabía que tú le gritarías.</i>
+
+1636
+01:27:19,151 --> 01:27:20,482
+<i>Pidió reabrir los documentos.</i>
+
+1637
+01:27:20,652 --> 01:27:21,652
+¿Qué?
+
+1638
+01:27:22,154 --> 01:27:23,485
+Robby, son públicos ahora.
+
+1639
+01:27:23,513 --> 01:27:25,190
+<i>Debemos verlos antes que el resto.</i>
+
+1640
+01:27:25,290 --> 01:27:26,480
+Lo sé.
+
+1641
+01:27:26,658 --> 01:27:29,650
+Empaca y vente en el primer vuelo.
+
+1642
+01:27:29,786 --> 01:27:31,813
+<i>Reservaré un vuelo
+e iré al juzgado mañana.</i>
+
+1643
+01:27:31,913 --> 01:27:33,904
+- Bien. Llámame cuando llegues.
+<i>- Bien.</i>
+
+1644
+01:27:36,001 --> 01:27:38,913
+Robby, quisiera avisarle a Phil Saviano
+que retomamos el caso.
+
+1645
+01:27:39,171 --> 01:27:40,502
+Buena idea.
+
+1646
+01:27:40,839 --> 01:27:43,956
+Ve a cenar con Hansi.
+Podría ser la última vez por un tiempo.
+
+1647
+01:27:49,931 --> 01:27:53,674
+Robby, después de ver a Macleish,
+empecé a revisar las notas otra vez...
+
+1648
+01:27:54,269 --> 01:27:59,184
+...y la semana pasada tuve un rato.
+Encontré esto.
+
+1649
+01:28:00,484 --> 01:28:02,190
+Es del 93.
+
+1650
+01:28:03,528 --> 01:28:07,112
+Abogado de víctimas de Porter dice que
+acusaron a 20 curas más de la zona
+
+1651
+01:28:12,037 --> 01:28:13,037
+¿Eso es todo?
+
+1652
+01:28:15,707 --> 01:28:17,698
+Sí. Eso es todo.
+
+1653
+01:28:20,003 --> 01:28:21,038
+Buenas noches.
+
+1654
+01:28:22,464 --> 01:28:24,295
+Bien. Buenas noches.
+
+1655
+01:29:03,672 --> 01:29:05,583
+Debí estar
+unos pocos años después de ti.
+
+1656
+01:29:05,757 --> 01:29:08,419
+No, más de unos pocos. Créeme.
+
+1657
+01:29:10,178 --> 01:29:13,090
+Después de BC High,
+vine a Providence...
+
+1658
+01:29:13,265 --> 01:29:14,675
+...y jugué al hockey para los Friars.
+
+1659
+01:29:15,267 --> 01:29:17,679
+Debes haber sido muy bueno jugando.
+
+1660
+01:29:17,853 --> 01:29:20,185
+No. Era suplente en la universidad. Sí.
+
+1661
+01:29:20,605 --> 01:29:21,765
+Pero me encantaba la cuidad.
+
+1662
+01:29:22,607 --> 01:29:24,017
+Acabamos de tener
+nuestro tercer hijo.
+
+1663
+01:29:24,609 --> 01:29:26,270
+Y que conste que aún recibo mi <i>Globe</i>.
+
+1664
+01:29:26,444 --> 01:29:28,935
+Es bueno saberlo.
+
+1665
+01:29:29,865 --> 01:29:33,858
+Mira, Kevin. Por eso estoy aquí.
+
+1666
+01:29:35,412 --> 01:29:39,621
+Necesito hacerte unas preguntas
+sobre el padre Talbot.
+
+1667
+01:29:46,882 --> 01:29:48,292
+¿Cómo lo supiste?
+
+1668
+01:29:49,718 --> 01:29:51,049
+Bueno...
+
+1669
+01:29:51,928 --> 01:29:53,759
+Supongo que no importa.
+
+1670
+01:29:59,144 --> 01:30:02,136
+Y nunca se lo conté ni siquiera
+a mi esposa.
+
+1671
+01:30:03,982 --> 01:30:04,982
+Permiso.
+
+1672
+01:30:10,322 --> 01:30:12,278
+Oiga. Necesito entrar.
+
+1673
+01:30:12,449 --> 01:30:13,814
+- Cerramos.
+- Vamos. Cinco minutos.
+
+1674
+01:30:13,992 --> 01:30:16,779
+- Lo siento, cerramos.
+- Vamos. Cinco minutos.
+
+1675
+01:30:17,579 --> 01:30:19,945
+CONDADO DE SUFFOLK
+EXPEDIENTES
+
+1676
+01:30:32,093 --> 01:30:33,093
+Tome.
+
+1677
+01:30:36,765 --> 01:30:38,505
+- ¿Este es el caso Geoghan?
+- Así es.
+
+1678
+01:30:39,351 --> 01:30:40,966
+- Esos expedientes están sellados.
+- No.
+
+1679
+01:30:41,144 --> 01:30:43,305
+Es una petición pública.
+Son expedientes públicos.
+
+1680
+01:30:43,688 --> 01:30:44,928
+Trabajo para el <i>Globe</i>.
+
+1681
+01:30:46,024 --> 01:30:47,024
+Me alegro por usted.
+
+1682
+01:30:49,194 --> 01:30:52,152
+- ¿Puedo hablar con su supervisor?
+- No está hoy.
+
+1683
+01:30:52,656 --> 01:30:56,148
+¿Y un juez? Tiene que haber jueces
+que trabajen en estas cosas.
+
+1684
+01:30:56,701 --> 01:30:57,941
+Sexto piso.
+
+1685
+01:31:04,459 --> 01:31:07,872
+Entendemos la naturaleza
+de los alegatos contra el padre Talbot.
+
+1686
+01:31:08,546 --> 01:31:11,663
+No tengo claro
+qué quieren del presidente Kemeza.
+
+1687
+01:31:12,467 --> 01:31:14,907
+Talbot enseñó aquí
+mucho antes que Bill.
+
+1688
+01:31:15,303 --> 01:31:18,887
+Por supuesto. Solo queremos saber
+si es posible que el Presidente...
+
+1689
+01:31:19,057 --> 01:31:22,015
+...la facultad, la junta,
+nadie supiera lo que pasaba entonces.
+
+1690
+01:31:22,352 --> 01:31:26,686
+Yo me gradué en 1979
+y no tenía idea de esto, así que...
+
+1691
+01:31:27,065 --> 01:31:29,397
+...si sugieren que el padre Gibbons
+y el padre Callahan...
+
+1692
+01:31:29,651 --> 01:31:32,393
+- ...tuvieran alguna--
+- Gibbons y Callahan...
+
+1693
+01:31:32,570 --> 01:31:34,401
+Dirigían este lugar como la armada.
+
+1694
+01:31:35,198 --> 01:31:36,233
+¿En serio cree que no sabían?
+
+1695
+01:31:37,701 --> 01:31:39,692
+Es una escuela grande, Robby. Lo sabes.
+
+1696
+01:31:40,495 --> 01:31:43,157
+Y hablamos de 7 presuntas víctimas...
+
+1697
+01:31:43,331 --> 01:31:44,571
+...durante, cuántos, ocho años.
+
+1698
+01:31:44,749 --> 01:31:47,912
+Hablamos de siete casos
+que conocemos.
+
+1699
+01:31:48,336 --> 01:31:49,997
+Es absurdo.
+
+1700
+01:31:50,588 --> 01:31:52,490
+- Buscan una historia aquí...
+- Jack.
+
+1701
+01:31:52,590 --> 01:31:56,754
+Jack. Si hubiera sido presidente
+entonces, lo habría sabido.
+
+1702
+01:31:57,679 --> 01:31:59,510
+Bill, no sé si eso es relevante.
+
+1703
+01:31:59,681 --> 01:32:02,343
+¿Por qué creen
+que enviaron a Talbot a Cheverus?
+
+1704
+01:32:03,101 --> 01:32:05,092
+Saben que lo querían fuera de la ciudad.
+
+1705
+01:32:07,063 --> 01:32:10,100
+Robby, por más bienintencionados
+que sean los comentarios de Bill...
+
+1706
+01:32:10,275 --> 01:32:13,767
+...intentemos mantener esto entre
+nosotros hasta estar todos de acuerdo.
+
+1707
+01:32:17,615 --> 01:32:19,526
+¿Para eso vinimos,
+para ponernos de acuerdo?
+
+1708
+01:32:20,118 --> 01:32:22,074
+No, vinimos porque eres
+un alumno importante...
+
+1709
+01:32:22,245 --> 01:32:23,245
+...y un amigo.
+
+1710
+01:32:23,413 --> 01:32:26,701
+Exacto, y sabemos que te importa
+esta escuela tanto como a nosotros.
+
+1711
+01:32:29,210 --> 01:32:30,700
+¿Hacías deporte aquí, Jack?
+
+1712
+01:32:31,296 --> 01:32:33,036
+Sí. Fútbol. ¿Por qué?
+
+1713
+01:32:33,798 --> 01:32:35,033
+Yo hacía atletismo.
+
+1714
+01:32:35,133 --> 01:32:39,593
+Fui a Providence ayer a hablar con una
+de las víctimas del padre Talbot.
+
+1715
+01:32:39,763 --> 01:32:41,219
+Jugaba al hockey aquí.
+
+1716
+01:32:41,639 --> 01:32:46,633
+Y es uno de los mejores.
+Tiene esposa, hijos, un buen trabajo.
+
+1717
+01:32:48,730 --> 01:32:51,642
+A los 10 minutos de empezar a hablar...
+
+1718
+01:32:52,275 --> 01:32:53,310
+...el tipo se quebró.
+
+1719
+01:32:54,110 --> 01:32:55,896
+No podía parar de llorar.
+
+1720
+01:32:57,489 --> 01:33:00,731
+Dijo que nunca había entendido por qué
+el padre Talbot lo había elegido.
+
+1721
+01:33:03,078 --> 01:33:05,569
+El padre Talbot entrenaba
+al equipo de hockey.
+
+1722
+01:33:07,624 --> 01:33:11,492
+Supongo que nosotros tuvimos suerte.
+
+1723
+01:33:12,962 --> 01:33:14,668
+Tú y yo.
+
+1724
+01:33:20,804 --> 01:33:24,296
+- ¿Jack Dunn trabaja para la escuela?
+- No, es RRPP en Boston College.
+
+1725
+01:33:24,516 --> 01:33:26,177
+Lo llaman cuando necesitan ayuda.
+
+1726
+01:33:26,351 --> 01:33:28,307
+¿Y Pete Conley? ¿Por qué estaba ahí?
+
+1727
+01:33:28,478 --> 01:33:30,264
+Buena pregunta.
+Pete es un gran alumno...
+
+1728
+01:33:30,438 --> 01:33:33,180
+...pero llamé a Bill directamente
+y le pedí una entrevista.
+
+1729
+01:33:33,358 --> 01:33:35,144
+Nunca mencioné a nadie más.
+
+1730
+01:33:36,653 --> 01:33:38,609
+Parece que todos ya conocen la historia.
+
+1731
+01:33:38,780 --> 01:33:39,780
+Sí.
+
+1732
+01:33:40,031 --> 01:33:42,317
+Excepto nosotros. Y trabajamos ahí.
+
+1733
+01:33:46,162 --> 01:33:47,527
+- ¿Juez Volterra?
+- Sí.
+
+1734
+01:33:47,705 --> 01:33:49,866
+Hola, soy Mike Rezendes
+de <i>The Boston Globe.</i>
+
+1735
+01:33:50,458 --> 01:33:52,824
+Tengo problemas para acceder
+a unos expedientes públicos...
+
+1736
+01:33:53,002 --> 01:33:54,002
+...en la sala de expedientes.
+
+1737
+01:33:54,170 --> 01:33:56,377
+Me preguntaba
+si podía hablar con usted.
+
+1738
+01:33:56,506 --> 01:33:58,371
+- De acuerdo.
+- Gracias.
+
+1739
+01:34:00,677 --> 01:34:01,677
+Muchas gracias.
+
+1740
+01:34:03,388 --> 01:34:06,721
+Estas pruebas que busca, Sr. Rezendes...
+
+1741
+01:34:07,725 --> 01:34:09,215
+...son expedientes muy delicados.
+
+1742
+01:34:10,145 --> 01:34:12,807
+Con todo respeto, Su Señoría,
+esa no es la cuestión.
+
+1743
+01:34:13,523 --> 01:34:14,808
+Son expedientes públicos.
+
+1744
+01:34:16,067 --> 01:34:20,368
+Puede ser, pero dígame, ¿dónde está
+la responsabilidad editorial...
+
+1745
+01:34:20,468 --> 01:34:22,654
+...al publicar registros
+de esta naturaleza?
+
+1746
+01:34:22,991 --> 01:34:27,075
+¿Dónde está la responsabilidad editorial
+al no publicarlos?
+
+1747
+01:34:37,005 --> 01:34:39,496
+No puede llevárselos.
+Debe hacer copias.
+
+1748
+01:34:39,674 --> 01:34:40,914
+Voy a la fotocopiadora.
+
+1749
+01:34:41,092 --> 01:34:42,923
+Cerró a las 4:00.
+
+1750
+01:34:47,765 --> 01:34:52,759
+Le daré 83 dólares para usar la suya.
+
+1751
+01:34:59,027 --> 01:35:00,608
+¡Taxi!
+
+1752
+01:35:01,613 --> 01:35:04,605
+¡Oiga!
+
+1753
+01:35:07,243 --> 01:35:10,021
+Lléveme a <i>The Boston Globe</i>
+en Morrissey Boulevard.
+
+1754
+01:35:10,121 --> 01:35:13,204
+No tome la 93.
+Tome la avenida Dorchester.
+
+1755
+01:35:14,959 --> 01:35:16,824
+<i>Robby, ¡es increíble!</i>
+
+1756
+01:35:17,045 --> 01:35:19,864
+<i>Law supo lo de Geoghan durante años,</i>
+<i>no hay duda.</i>
+
+1757
+01:35:19,964 --> 01:35:22,867
+<i>Hay una carta dirigida a Law</i>
+<i>escrita por Margaret Gallant...</i>
+
+1758
+01:35:22,967 --> 01:35:25,995
+<i>...que vivía en Jamaica Plain en
+los años 80 cuando Geoghan estaba ahí.</i>
+
+1759
+01:35:26,095 --> 01:35:27,413
+<i>Escucha esto:</i>
+
+1760
+01:35:27,513 --> 01:35:29,749
+<i>"Nuestra familia está arraigada</i>
+<i>en la Iglesia...</i>
+
+1761
+01:35:29,849 --> 01:35:32,306
+<i>...nuestro deseo es proteger</i>
+<i>las Órdenes Sagradas...</i>
+
+1762
+01:35:32,936 --> 01:35:34,629
+<i>...incluso en medio de nuestra agonía...</i>
+
+1763
+01:35:34,729 --> 01:35:36,965
+<i>...por los siete niños
+de nuestra familia...</i>
+
+1764
+01:35:37,065 --> 01:35:38,133
+<i>...que han sido violados".</i>
+
+1765
+01:35:38,233 --> 01:35:40,519
+<i>Siete, Robby. Siete niños.</i>
+
+1766
+01:35:41,194 --> 01:35:43,435
+<i>"Nos sugirieron guardar silencio.</i>
+
+1767
+01:35:43,947 --> 01:35:46,975
+<i>No cuestionamos la autoridad</i>
+<i>de la Iglesia hace dos años...</i>
+
+1768
+01:35:47,075 --> 01:35:50,019
+<i>...pero como el padre Geoghan</i>
+<i>sigue en su parroquia..."</i>
+
+1769
+01:35:50,119 --> 01:35:53,703
+<i>Pero ella se la envió a Law,</i>
+<i>y Law no hizo una mierda.</i>
+
+1770
+01:35:54,123 --> 01:35:56,865
+<i>Aquí hay otra dirigida a Law,
+del mismo año. Escucha esto:</i>
+
+1771
+01:35:57,627 --> 01:35:59,946
+<i>"En cuanto a la reciente asignación
+del padre Geoghan...</i>
+
+1772
+01:36:00,046 --> 01:36:03,074
+<i>...como adjunto
+de St. Julia en Weston.</i>
+
+1773
+01:36:03,174 --> 01:36:07,453
+<i>El padre Geoghan tiene antecedentes</i>
+<i>de contacto homosexual con jóvenes.</i>
+
+1774
+01:36:07,553 --> 01:36:09,873
+<i>Entiendo que su reciente partida</i>
+<i>de St. Brendan...</i>
+
+1775
+01:36:09,973 --> 01:36:11,634
+<i>...podría estar relacionada
+con este problema.</i>
+
+1776
+01:36:11,849 --> 01:36:14,919
+Me pregunto si no habría que reducir
+su trabajo al fin de semana...
+
+1777
+01:36:15,019 --> 01:36:17,180
+...mientras recibe algún tipo
+de terapia.
+
+1778
+01:36:17,313 --> 01:36:19,804
+Estoy muy agradecido
+por su constante preocupación.
+
+1779
+01:36:19,983 --> 01:36:21,689
+Unidos en nuestro Señor, lo saluda...
+
+1780
+01:36:21,859 --> 01:36:25,305
+...Reverendísimo John D'Arcy,
+Obispo Auxiliar de Boston.
+
+1781
+01:36:25,405 --> 01:36:26,931
+7 de diciembre de 1984".
+
+1782
+01:36:27,031 --> 01:36:28,737
+¿Un obispo auxiliar escribió eso?
+
+1783
+01:36:28,908 --> 01:36:30,273
+Es increíble.
+
+1784
+01:36:30,493 --> 01:36:33,396
+Se saltó a sus superiores.
+¿Cuándo escribió Gallant su carta?
+
+1785
+01:36:33,496 --> 01:36:35,452
+- En 1984.
+- Y Law la ignoró.
+
+1786
+01:36:36,124 --> 01:36:37,785
+¿Cómo ignoras esa maldita carta?
+
+1787
+01:36:38,042 --> 01:36:39,373
+Los tenemos.
+
+1788
+01:36:39,585 --> 01:36:42,238
+No puedes leer estas cartas
+y pensar otra cosa. Son pruebas.
+
+1789
+01:36:42,338 --> 01:36:44,078
+Sí. Así es.
+
+1790
+01:36:45,008 --> 01:36:46,498
+Buen trabajo.
+
+1791
+01:36:47,093 --> 01:36:48,674
+¿Se lo llevamos a Ben?
+
+1792
+01:36:50,471 --> 01:36:52,132
+No. Todavía no.
+
+1793
+01:36:52,807 --> 01:36:55,890
+¿Por qué no? Tenemos a Law. Ya está.
+
+1794
+01:36:56,269 --> 01:36:59,386
+No, tenemos a Law cubriendo
+a un cura. Hay otros 90.
+
+1795
+01:36:59,897 --> 01:37:02,889
+Sí, publicaremos eso en su momento,
+pero debemos usar esto ahora.
+
+1796
+01:37:03,359 --> 01:37:05,178
+No voy a apurar esta historia, Mike.
+
+1797
+01:37:05,278 --> 01:37:06,358
+No tenemos opción, Robby.
+
+1798
+01:37:06,863 --> 01:37:08,139
+Si no lo publicamos ya...
+
+1799
+01:37:08,239 --> 01:37:10,934
+...alguien más hallará estas cartas
+y destrozará la historia.
+
+1800
+01:37:11,034 --> 01:37:13,696
+Joe Quimby del <i>Herald</i> estaba
+en el maldito juzgado.
+
+1801
+01:37:14,203 --> 01:37:17,140
+Escribiremos una historia dilatoria
+y seguiremos de cerca al <i>Herald.</i>
+
+1802
+01:37:17,240 --> 01:37:18,240
+¿Seguir de cerca al <i>Herald?</i>
+
+1803
+01:37:18,340 --> 01:37:21,027
+Si la publican y lo hacen mal,
+la Iglesia lo va a enterrar.
+
+1804
+01:37:21,127 --> 01:37:23,071
+- Debemos hacer esto ahora.
+- Mike...
+
+1805
+01:37:23,171 --> 01:37:25,573
+¿Qué? ¿Por qué dudamos?
+
+1806
+01:37:25,673 --> 01:37:27,492
+Baron dijo que fuéramos tras Law.
+Aquí está.
+
+1807
+01:37:27,592 --> 01:37:29,503
+Baron dijo que fuéramos tras el sistema.
+
+1808
+01:37:29,927 --> 01:37:31,329
+Necesitamos el panorama completo...
+
+1809
+01:37:31,429 --> 01:37:33,545
+...es lo único
+que le pondrá fin a esto.
+
+1810
+01:37:33,848 --> 01:37:35,509
+Llevémoselo a Ben, que decida él.
+
+1811
+01:37:35,767 --> 01:37:37,428
+¡Se lo llevaremos a Ben cuando yo diga!
+
+1812
+01:37:37,560 --> 01:37:40,097
+Es ahora, Robby. ¡Es el momento!
+
+1813
+01:37:41,439 --> 01:37:45,057
+Sabían y dejaron que pasara. ¡A niños!
+
+1814
+01:37:45,777 --> 01:37:48,268
+¿Sí? ¡Podrías haber sido tú!
+¡Podría haber sido yo!
+
+1815
+01:37:48,404 --> 01:37:50,440
+¡Cualquiera de nosotros!
+
+1816
+01:37:51,240 --> 01:37:52,605
+¡Debemos atrapar a estos degenerados!
+
+1817
+01:37:52,742 --> 01:37:56,020
+¡Debemos mostrarle a la gente
+que nadie puede escaparse de esto!
+
+1818
+01:37:56,120 --> 01:37:59,453
+¡Ni un cura,
+ni un cardenal, ni un maldito Papa!
+
+1819
+01:38:02,251 --> 01:38:03,286
+¿Terminaste?
+
+1820
+01:38:04,253 --> 01:38:07,086
+Sí. Esto es una mierda.
+
+1821
+01:38:36,828 --> 01:38:37,828
+¿Estás bien?
+
+1822
+01:38:48,297 --> 01:38:49,332
+Hola, Hansi.
+
+1823
+01:38:50,341 --> 01:38:52,252
+¿Un día difícil en el trabajo, Mike?
+
+1824
+01:38:56,806 --> 01:38:58,342
+- Toma.
+- Gracias.
+
+1825
+01:38:59,267 --> 01:39:03,254
+No sé por qué me enojé tanto.
+Creo que Robby se equivoca.
+
+1826
+01:39:03,354 --> 01:39:07,017
+A ti solo... Te importa la historia,
+Mike, a todos nos importa.
+
+1827
+01:39:09,193 --> 01:39:10,683
+Sí, supongo.
+
+1828
+01:39:14,031 --> 01:39:16,113
+Dejé de ir a la iglesia con mi abuela.
+
+1829
+01:39:18,202 --> 01:39:19,783
+Era... Me resultaba imposible.
+
+1830
+01:39:20,621 --> 01:39:24,692
+Estaba ahí sentada
+y empezaba a pensar en Joe Crowley...
+
+1831
+01:39:24,792 --> 01:39:28,455
+...o en algún otro y me enojaba mucho.
+
+1832
+01:39:29,839 --> 01:39:31,704
+¿Le contaste por qué?
+
+1833
+01:39:33,176 --> 01:39:35,212
+Ella va a la iglesia
+tres veces a la semana, Mike.
+
+1834
+01:39:40,391 --> 01:39:42,382
+Me enoja mucho.
+
+1835
+01:39:43,811 --> 01:39:44,811
+¿Sabes?
+
+1836
+01:39:46,731 --> 01:39:50,019
+A mí me gustaba ir a la iglesia
+cuando era niño.
+
+1837
+01:39:52,153 --> 01:39:53,484
+¿Por qué dejaste de ir?
+
+1838
+01:39:53,654 --> 01:39:54,985
+Por la mierda de siempre.
+
+1839
+01:39:56,699 --> 01:39:58,815
+Pero lo raro es...
+
+1840
+01:40:01,871 --> 01:40:03,407
+...que creo que...
+
+1841
+01:40:04,415 --> 01:40:07,578
+Creo que supuse que quizá algún día...
+
+1842
+01:40:08,878 --> 01:40:10,914
+...iba a volver.
+
+1843
+01:40:12,882 --> 01:40:15,214
+Me aferraba a eso.
+
+1844
+01:40:17,595 --> 01:40:20,428
+Leo todas esas cartas...
+
+1845
+01:40:21,265 --> 01:40:24,757
+...y se me quebró algo adentro.
+
+1846
+01:40:26,395 --> 01:40:28,556
+- Es una sensación de mierda.
+- Sí.
+
+1847
+01:40:29,941 --> 01:40:32,182
+Es una sensación de mierda.
+
+1848
+01:40:35,613 --> 01:40:37,103
+Parece que tuvo un largo día.
+
+1849
+01:40:37,240 --> 01:40:39,572
+- Hola, Pete.
+- Lamento hacerlo más largo.
+
+1850
+01:40:40,117 --> 01:40:41,197
+Brian.
+
+1851
+01:40:42,370 --> 01:40:44,702
+¿Alguien le ha dicho que no
+a un trago, Pete?
+
+1852
+01:40:46,123 --> 01:40:49,615
+Sí, claro. Pero el truco es
+seguir preguntando.
+
+1853
+01:40:49,919 --> 01:40:52,126
+- Por Boston.
+- Por Boston.
+
+1854
+01:40:55,091 --> 01:40:58,083
+¿Lo manda el Cardenal?
+
+1855
+01:40:58,427 --> 01:41:03,387
+No. No me atrevería a hablar
+en nombre del Cardenal. No.
+
+1856
+01:41:05,142 --> 01:41:08,760
+Hay mucha gente aquí
+que lo respeta, Robby...
+
+1857
+01:41:08,938 --> 01:41:10,724
+...el trabajo que hace.
+
+1858
+01:41:11,482 --> 01:41:14,315
+- Es bueno saberlo.
+- Es porque le preocupa este lugar.
+
+1859
+01:41:14,819 --> 01:41:16,810
+Por eso hace lo que hace.
+Usted es así.
+
+1860
+01:41:18,072 --> 01:41:22,736
+Pero la gente necesita a la Iglesia,
+más que nunca ahora.
+
+1861
+01:41:23,578 --> 01:41:25,159
+Se puede percibir.
+
+1862
+01:41:25,788 --> 01:41:27,449
+Y el Cardenal...
+
+1863
+01:41:28,833 --> 01:41:31,324
+El Cardenal podrá no ser perfecto...
+
+1864
+01:41:32,420 --> 01:41:35,503
+...pero no podemos botar lo bueno
+que hace por unas manzanas podridas.
+
+1865
+01:41:37,633 --> 01:41:39,294
+Le planteo esto...
+
+1866
+01:41:39,468 --> 01:41:43,086
+...porque sé que es idea de Baron.
+Su plan.
+
+1867
+01:41:43,472 --> 01:41:45,082
+Le juro por Dios...
+
+1868
+01:41:45,182 --> 01:41:47,969
+...que a él no le importa esta ciudad
+como a nosotros.
+
+1869
+01:41:48,644 --> 01:41:49,644
+¿Cómo podría?
+
+1870
+01:41:56,777 --> 01:41:59,769
+- Así se dan las cosas, ¿no, Pete?
+- ¿Qué cosas?
+
+1871
+01:42:00,197 --> 01:42:01,778
+Un tipo presiona a otro...
+
+1872
+01:42:01,949 --> 01:42:05,533
+...y de pronto,
+todo el pueblo mira hacia otro lado.
+
+1873
+01:42:07,204 --> 01:42:10,321
+Robby, mire...
+
+1874
+01:42:11,709 --> 01:42:14,542
+...Marty Baron
+solo intenta dejar su marca.
+
+1875
+01:42:14,670 --> 01:42:17,448
+Estará aquí un par de años
+y continuará su camino.
+
+1876
+01:42:17,548 --> 01:42:19,960
+Como hizo en Nueva York y Miami.
+
+1877
+01:42:22,011 --> 01:42:23,842
+¿Adónde va a ir usted?
+
+1878
+01:42:28,809 --> 01:42:30,891
+Buenas noches, Robby. Brian.
+
+1879
+01:42:32,229 --> 01:42:34,720
+- Pete.
+- ¿Sí?
+
+1880
+01:42:36,901 --> 01:42:41,190
+Cuando publiquemos la historia,
+necesitaré un comentario del Cardenal.
+
+1881
+01:42:43,491 --> 01:42:45,903
+Hablamos después.
+Buenas noches, Robby.
+
+1882
+01:42:46,077 --> 01:42:47,692
+Buenas noches, Pete.
+
+1883
+01:42:58,005 --> 01:42:59,245
+Robby.
+
+1884
+01:43:00,758 --> 01:43:01,758
+¿Qué?
+
+1885
+01:43:02,760 --> 01:43:04,876
+No me digas, ¿cuándo?
+
+1886
+01:43:06,889 --> 01:43:08,880
+De acuerdo. Sí.
+
+1887
+01:43:11,936 --> 01:43:13,096
+¡Oigan!
+
+1888
+01:43:14,105 --> 01:43:15,436
+¿Qué pasó?
+
+1889
+01:43:16,607 --> 01:43:18,438
+Sweeney falló a favor nuestro.
+
+1890
+01:43:18,943 --> 01:43:20,934
+Falló que se abrieran los documentos.
+
+1891
+01:43:22,697 --> 01:43:23,697
+¡Cielos!
+
+1892
+01:43:27,618 --> 01:43:29,108
+La Iglesia ya apeló.
+
+1893
+01:43:29,286 --> 01:43:32,278
+Pero el fallo del juzgado suele
+mantenerse firme en estos temas.
+
+1894
+01:43:32,957 --> 01:43:34,868
+Y ¿cuándo conseguiríamos
+los documentos?
+
+1895
+01:43:35,876 --> 01:43:39,585
+Cohen tardará unas semanas en fallar,
+luego hay un proceso de redacción.
+
+1896
+01:43:40,589 --> 01:43:43,581
+Supongo que se harán públicos
+a mediados de enero.
+
+1897
+01:43:44,301 --> 01:43:45,381
+- Bien.
+- Muy bien.
+
+1898
+01:43:45,594 --> 01:43:46,594
+- Gracias, Jon.
+- De nada.
+
+1899
+01:43:46,762 --> 01:43:47,877
+- Buen trabajo.
+- Gracias.
+
+1900
+01:43:48,639 --> 01:43:50,300
+Metro debería publicar algo, Marty.
+
+1901
+01:43:50,766 --> 01:43:52,097
+No podemos publicar esto
+a lo grande.
+
+1902
+01:43:52,893 --> 01:43:55,635
+¿Por qué no? Es un gran triunfo
+de la Primera Enmienda.
+
+1903
+01:43:55,813 --> 01:43:58,099
+Sin mencionar
+que una jueza católica irlandesa...
+
+1904
+01:43:58,274 --> 01:43:59,480
+...falla contra la Iglesia.
+
+1905
+01:43:59,650 --> 01:44:01,106
+Es todo un precedente.
+
+1906
+01:44:02,236 --> 01:44:04,272
+No queremos que el <i>Herald</i>
+vaya a fondo con esto.
+
+1907
+01:44:05,114 --> 01:44:06,114
+¿Por qué?
+
+1908
+01:44:08,284 --> 01:44:10,275
+Vas a tener que retirarte, Peter.
+
+1909
+01:44:10,494 --> 01:44:11,984
+No me voy a retirar.
+
+1910
+01:44:20,296 --> 01:44:21,296
+Peter.
+
+1911
+01:44:36,020 --> 01:44:37,976
+- ¿Cuándo...?
+- Hace un par de semanas.
+
+1912
+01:44:38,189 --> 01:44:39,679
+¿Un par de semanas?
+
+1913
+01:44:39,857 --> 01:44:41,438
+- Sí.
+- ¿Y nos lo dices ahora?
+
+1914
+01:44:41,609 --> 01:44:43,190
+Son contundentes.
+
+1915
+01:44:44,320 --> 01:44:46,527
+Muestran claramente
+que Law actuó con negligencia.
+
+1916
+01:44:47,364 --> 01:44:49,821
+Necesito más tiempo.
+Quiero seguir investigando.
+
+1917
+01:44:50,201 --> 01:44:51,611
+¿Para qué? Esta es la historia.
+
+1918
+01:44:51,786 --> 01:44:52,866
+No toda la historia.
+
+1919
+01:44:53,037 --> 01:44:54,698
+Mala suerte.
+Estamos contra reloj ahora.
+
+1920
+01:44:55,039 --> 01:44:56,199
+Aunque no publiquemos el fallo...
+
+1921
+01:44:56,373 --> 01:44:58,364
+...otro periódico podría cagar
+la historia.
+
+1922
+01:44:58,542 --> 01:45:00,624
+Coincido. Pero si publicamos
+solo las cartas...
+
+1923
+01:45:00,795 --> 01:45:04,037
+...Law se disculpará, dirá que fue
+un caso aislado. Puede enterrarlo.
+
+1924
+01:45:04,465 --> 01:45:07,207
+¿Cómo? Esto claramente demuestra
+que se enteró y no hizo nada.
+
+1925
+01:45:07,343 --> 01:45:10,380
+Estoy cerca de historias
+sobre 70 curas.
+
+1926
+01:45:11,055 --> 01:45:13,671
+Si hacemos bien eso, más esas cartas...
+
+1927
+01:45:13,849 --> 01:45:16,556
+...es prueba de que esto
+va más allá de Law.
+
+1928
+01:45:17,311 --> 01:45:18,721
+Es todo el sistema.
+
+1929
+01:45:19,730 --> 01:45:22,221
+¿Hay fuentes múltiples
+que confirmen a todos esos curas?
+
+1930
+01:45:23,067 --> 01:45:24,728
+De algunos. Puedo conseguir más.
+
+1931
+01:45:24,902 --> 01:45:27,735
+Es demasiado arriesgado.
+Si no tenemos pruebas para cada uno...
+
+1932
+01:45:27,905 --> 01:45:29,236
+...la Iglesia nos hará pedazos.
+
+1933
+01:45:31,325 --> 01:45:33,657
+Creo que puedo conseguir
+a alguien del otro bando.
+
+1934
+01:45:34,203 --> 01:45:35,739
+¿Alguien de adentro de la Iglesia?
+
+1935
+01:45:36,705 --> 01:45:37,705
+Sí, un abogado.
+
+1936
+01:45:38,374 --> 01:45:39,580
+¿Va a constar en el expediente?
+
+1937
+01:45:40,376 --> 01:45:42,742
+Es una fuente reservada.
+Pero muy sólida.
+
+1938
+01:45:46,590 --> 01:45:48,501
+Rezendes necesita tiempo
+para crear la historia.
+
+1939
+01:45:49,093 --> 01:45:51,584
+No queremos que se publique en Navidad,
+no luego del 9/11.
+
+1940
+01:45:53,013 --> 01:45:54,719
+Podríamos publicarlo
+después de Año Nuevo...
+
+1941
+01:45:55,266 --> 01:45:57,507
+...antes de que liberen
+el resto de los documentos.
+
+1942
+01:46:01,230 --> 01:46:02,230
+De acuerdo.
+
+1943
+01:46:03,399 --> 01:46:05,890
+Dígale a Canellos
+que esconda el fallo en Metro.
+
+1944
+01:46:07,778 --> 01:46:09,188
+Tiene seis semanas.
+
+1945
+01:46:10,030 --> 01:46:11,611
+Gracias.
+
+1946
+01:46:11,949 --> 01:46:13,940
+Díle a Mike que quiero un borrador
+para Navidad.
+
+1947
+01:46:14,577 --> 01:46:16,238
+Y necesitamos
+una respuesta de Lake Street.
+
+1948
+01:46:16,412 --> 01:46:18,619
+¿Quién hace las RRPP del Cardenal?
+¿Sigue John Walsh?
+
+1949
+01:46:18,789 --> 01:46:21,781
+No, alguien nuevo, Donna Morrisey.
+Vino de la TV. Es joven.
+
+1950
+01:46:22,126 --> 01:46:23,126
+Consigue una cita.
+
+1951
+01:46:23,294 --> 01:46:24,955
+Precisamos algo de Law
+para ser imparcial.
+
+1952
+01:46:25,129 --> 01:46:27,290
+Robby, la próxima vez, avísame.
+
+1953
+01:46:27,464 --> 01:46:28,704
+Sí, claro.
+
+1954
+01:46:31,160 --> 01:46:32,966
+INFORME ESPECIAL - ARTÍCULO N°1
+DE SPOTLIGHT - CARTAS DE GEOGHAN
+
+1955
+01:46:33,137 --> 01:46:34,137
+Casi siempre, sus víctimas eran
+niños de la clase de gramática.
+
+1956
+01:46:34,305 --> 01:46:35,565
+Uno tenía apenas 4 años.
+
+1957
+01:46:44,815 --> 01:46:45,915
+Plazo: 21 días y 4 horas
+
+1958
+01:46:47,943 --> 01:46:49,604
+autoridades de la iglesia
+nunca le dijeron por qué...
+
+1959
+01:47:07,171 --> 01:47:08,251
+Plazo: 8 días y 2 horas
+
+1960
+01:47:14,678 --> 01:47:17,795
+¿Cómo vamos con tu fuente?
+Se acaba el plazo. Ben.
+
+1961
+01:47:52,341 --> 01:47:54,047
+Robby, qué linda sorpresa.
+
+1962
+01:47:54,885 --> 01:47:56,375
+Pasa.
+
+1963
+01:48:02,893 --> 01:48:05,555
+Hola, cariño,
+mira a quién encontré afuera.
+
+1964
+01:48:08,816 --> 01:48:10,022
+Karen, ¿nos das un minuto?
+
+1965
+01:48:12,361 --> 01:48:13,396
+Sí, claro.
+
+1966
+01:48:14,071 --> 01:48:15,186
+Me alegra verte, Karen.
+
+1967
+01:48:18,325 --> 01:48:19,325
+¿Qué pasa?
+
+1968
+01:48:34,842 --> 01:48:36,423
+Se me agotó el tiempo, Jim.
+
+1969
+01:48:37,678 --> 01:48:40,420
+Tenemos historias de ocultamiento
+sobre 70 curas...
+
+1970
+01:48:40,889 --> 01:48:45,053
+...pero el jefe no va a publicarlo salvo
+que reciba la confirmación de tu lado.
+
+1971
+01:48:47,271 --> 01:48:49,057
+¿Te volviste loco?
+
+1972
+01:48:49,231 --> 01:48:51,438
+Vamos. Es nuestra ciudad, Jimmy.
+
+1973
+01:48:51,900 --> 01:48:55,688
+Todos sabían que pasaba algo,
+y nadie hizo nada.
+
+1974
+01:48:56,905 --> 01:48:57,905
+Tenemos que ponerle fin.
+
+1975
+01:48:58,282 --> 01:49:00,273
+No me digas lo que tengo que hacer.
+
+1976
+01:49:01,035 --> 01:49:03,868
+Sí, ayudé a defender a estos canallas,
+pero es mi trabajo, Robby.
+
+1977
+01:49:04,079 --> 01:49:06,115
+¡Hacía mi trabajo!
+
+1978
+01:49:07,374 --> 01:49:08,374
+Sí.
+
+1979
+01:49:09,710 --> 01:49:11,120
+Tú y todos los demás.
+
+1980
+01:49:19,970 --> 01:49:21,551
+Fuera de mi casa.
+
+1981
+01:49:32,566 --> 01:49:33,566
+¡Oye!
+
+1982
+01:49:35,652 --> 01:49:38,064
+¿Vienes a mi casa
+y me tiras toda esta mierda?
+
+1983
+01:49:39,323 --> 01:49:40,654
+Tenías razón, Robby.
+
+1984
+01:49:41,492 --> 01:49:43,608
+Todos sabíamos que pasaba algo.
+
+1985
+01:49:44,369 --> 01:49:45,779
+Y ¿dónde estabas tú?
+
+1986
+01:49:46,955 --> 01:49:48,536
+¿Por qué te demoraste tanto?
+
+1987
+01:49:55,005 --> 01:49:56,836
+No lo sé, Jim.
+
+1988
+01:50:01,720 --> 01:50:02,755
+Dame la lista.
+
+1989
+01:50:59,653 --> 01:51:01,109
+Larry, la edición termina
+en seis horas.
+
+1990
+01:51:01,280 --> 01:51:03,566
+Donna Morrisey llamó
+con una cita de Law hace horas.
+
+1991
+01:51:03,740 --> 01:51:05,731
+- Eso pensé.
+- ¿Cuándo hablaste con ella?
+
+1992
+01:51:06,368 --> 01:51:07,699
+De acuerdo, Larry.
+
+1993
+01:51:08,370 --> 01:51:10,110
+Sí, es bueno saberlo.
+
+1994
+01:51:10,747 --> 01:51:12,487
+- Gracias, Pete.
+- ¿Novedades?
+
+1995
+01:51:13,083 --> 01:51:15,916
+Conley dijo que Donna Morrisey
+debió llamar, dejó Lake Street.
+
+1996
+01:51:16,086 --> 01:51:17,951
+Sí, Rasky dijo lo mismo.
+
+1997
+01:51:18,130 --> 01:51:19,995
+Ridículo. Uno pensaría
+que quieren adelantarse.
+
+1998
+01:51:20,174 --> 01:51:21,789
+Serían idiotas si no lo hicieran.
+
+1999
+01:51:22,426 --> 01:51:25,543
+Me encantaría ver sus caras
+cuando lean esto.
+
+2000
+01:51:25,721 --> 01:51:27,712
+El domingo es la fiesta de la Epifanía.
+
+2001
+01:51:28,390 --> 01:51:29,721
+Parece apropiado.
+
+2002
+01:51:36,023 --> 01:51:37,023
+Mike Rezendes.
+
+2003
+01:51:38,984 --> 01:51:40,144
+Hola, Donna.
+
+2004
+01:51:40,611 --> 01:51:44,445
+Gracias por llamar. Tenía unas preguntas
+si tienes un minuto.
+
+2005
+01:51:46,366 --> 01:51:47,366
+¿Qué?
+
+2006
+01:51:48,994 --> 01:51:51,155
+- ¿Qué?
+- Otro adjetivo.
+
+2007
+01:51:52,998 --> 01:51:54,954
+- ¿Novedades?
+- Law acaba de rechazarnos.
+
+2008
+01:51:55,125 --> 01:51:56,456
+Santos cielos.
+
+2009
+01:51:56,627 --> 01:51:59,118
+Acabo de colgar con Donna Morrisey.
+Dijo, y cito:
+
+2010
+01:51:59,296 --> 01:52:01,958
+"No queremos saber cuáles
+son las preguntas", fin de la cita.
+
+2011
+01:52:02,132 --> 01:52:04,043
+- ¿En serio dijo eso?
+- Sí.
+
+2012
+01:52:04,301 --> 01:52:05,301
+Eso es suficiente.
+
+2013
+01:52:05,469 --> 01:52:06,834
+"A la Iglesia no le interesó...
+
+2014
+01:52:07,012 --> 01:52:10,004
+...saber cuáles serían
+las preguntas del <i>Globe</i>".
+
+2015
+01:52:11,350 --> 01:52:13,682
+Métanlo antes del salto de página.
+¿Algo más?
+
+2016
+01:52:14,144 --> 01:52:17,477
+Matt quiere subir las cartas a Internet,
+así pueden verlas los lectores.
+
+2017
+01:52:17,940 --> 01:52:19,931
+Podemos publicar la URL
+en el pie del artículo.
+
+2018
+01:52:20,108 --> 01:52:21,894
+- Es bastante directo.
+- Bien.
+
+2019
+01:52:22,069 --> 01:52:24,151
+Y ponemos la línea directa
+de Spotlight al final...
+
+2020
+01:52:24,321 --> 01:52:25,436
+...así la gente puede llamar.
+
+2021
+01:52:25,614 --> 01:52:26,899
+Va directo a nuestra oficina.
+
+2022
+01:52:27,157 --> 01:52:29,318
+Matt y yo podemos ir temprano
+por si llaman.
+
+2023
+01:52:29,493 --> 01:52:31,575
+Sí, me preocupan más
+los teléfonos de recepción.
+
+2024
+01:52:31,745 --> 01:52:34,828
+Con lo de Porter, los centros
+de mensajes se abarrotaron por semanas.
+
+2025
+01:52:34,998 --> 01:52:36,829
+- Es un gran problema.
+- Hubo piqueteros también.
+
+2026
+01:52:37,125 --> 01:52:38,125
+Muchos.
+
+2027
+01:52:38,293 --> 01:52:40,705
+Hablaré con Richard
+sobre la seguridad y los teléfonos.
+
+2028
+01:52:41,421 --> 01:52:43,377
+¿Cómo vamos
+con la historia de seguimiento?
+
+2029
+01:52:44,341 --> 01:52:46,832
+Tenemos varias historias
+sobre 70 curas.
+
+2030
+01:52:48,053 --> 01:52:49,053
+¿Sobre los 70?
+
+2031
+01:52:49,763 --> 01:52:52,300
+Y con la confirmación
+de la fuente de Robby, estamos listos.
+
+2032
+01:52:52,474 --> 01:52:53,509
+En una semana
+está el borrador.
+
+2033
+01:52:53,684 --> 01:52:57,597
+Robby, ¿podemos reconsiderar
+esa fuente tuya?
+
+2034
+01:53:00,148 --> 01:53:01,228
+Lo veo difícil.
+
+2035
+01:53:01,400 --> 01:53:04,608
+Pero él ayuda a la Iglesia a proteger
+a curas degenerados sin problemas.
+
+2036
+01:53:04,778 --> 01:53:07,394
+- El tipo es un canalla.
+- Es abogado, hace su trabajo.
+
+2037
+01:53:07,572 --> 01:53:09,984
+- Es cómplice de la Iglesia.
+- Él sabía y no hizo nada.
+
+2038
+01:53:10,158 --> 01:53:12,399
+Pudo haber dicho algo hace años.
+Quizá salvado vidas.
+
+2039
+01:53:12,577 --> 01:53:13,817
+¿Y nosotros?
+
+2040
+01:53:15,289 --> 01:53:16,324
+¿Qué quiere decir?
+
+2041
+01:53:16,832 --> 01:53:20,074
+Teníamos todas las piezas.
+¿Por qué no lo publicamos antes?
+
+2042
+01:53:20,460 --> 01:53:21,460
+No teníamos todas las piezas.
+
+2043
+01:53:21,628 --> 01:53:24,615
+Teníamos a Saviano,
+a Barrett, a Geoghan.
+
+2044
+01:53:24,715 --> 01:53:26,080
+Teníamos los directorios
+en el sótano.
+
+2045
+01:53:26,550 --> 01:53:27,550
+Lo tenemos ahora.
+
+2046
+01:53:27,718 --> 01:53:29,800
+Robby, la historia necesitaba
+de Spotlight.
+
+2047
+01:53:30,637 --> 01:53:32,969
+Spotlight existe desde 1970.
+
+2048
+01:53:33,223 --> 01:53:36,335
+Y ¿qué? No pudimos ver el alcance
+de esto. Nadie pudo.
+
+2049
+01:53:36,435 --> 01:53:38,596
+Robby, esto empezó
+con un maldito cura.
+
+2050
+01:53:41,398 --> 01:53:44,105
+Macleish nos envió una carta
+sobre 20 curas, hace años.
+
+2051
+01:53:44,276 --> 01:53:45,982
+Sacha encontró la nota.
+
+2052
+01:53:46,737 --> 01:53:48,193
+¿Bromeas? ¿20 sacerdotes?
+
+2053
+01:53:48,822 --> 01:53:49,857
+¿Cuándo?
+
+2054
+01:53:51,616 --> 01:53:53,948
+Después de Porter. En diciembre del 93.
+
+2055
+01:53:54,286 --> 01:53:56,527
+Enterramos la historia en Metro.
+No hubo seguimiento.
+
+2056
+01:53:57,956 --> 01:53:59,287
+Fuiste tu.
+
+2057
+01:54:01,293 --> 01:54:02,328
+Tu estabas en Metro.
+
+2058
+01:54:03,587 --> 01:54:05,578
+Sí. Fui yo.
+
+2059
+01:54:06,465 --> 01:54:08,877
+Acababa de entrar. No lo recuerdo bien.
+
+2060
+01:54:10,427 --> 01:54:11,758
+Pero sí...
+
+2061
+01:54:16,725 --> 01:54:19,216
+¿Puedo decir algo?
+
+2062
+01:54:20,896 --> 01:54:22,432
+A veces es fácil olvidar...
+
+2063
+01:54:22,606 --> 01:54:25,348
+...que pasamos la mayoría del tiempo
+dando tumbos en la oscuridad.
+
+2064
+01:54:26,526 --> 01:54:30,815
+De pronto, se enciende una luz, y hay
+una gran parte de culpa para todos.
+
+2065
+01:54:32,949 --> 01:54:35,235
+No puedo decir qué pasó
+antes de que llegara, pero...
+
+2066
+01:54:37,037 --> 01:54:39,699
+...todos ustedes han hecho
+una muy buena cobertura.
+
+2067
+01:54:40,624 --> 01:54:43,610
+Cobertura que creo
+que va a tener un impacto inmediato...
+
+2068
+01:54:43,710 --> 01:54:46,702
+...y considerable en nuestros lectores.
+
+2069
+01:54:48,423 --> 01:54:51,665
+Para mí, este tipo de historia es
+el motivo por el cual hacemos esto.
+
+2070
+01:54:52,427 --> 01:54:55,385
+Habiendo dicho eso, el cardenal Law
+y la comunidad católica...
+
+2071
+01:54:55,555 --> 01:54:57,796
+...van a tener una respuesta
+muy fuerte a esto.
+
+2072
+01:54:59,142 --> 01:55:01,133
+Así que si necesitan un tiempo...
+
+2073
+01:55:02,062 --> 01:55:03,062
+...se lo han ganado.
+
+2074
+01:55:05,524 --> 01:55:07,634
+Pero los necesito aquí de vuelta
+el lunes temprano...
+
+2075
+01:55:07,734 --> 01:55:11,147
+...concentrados y listos
+para hacer su trabajo.
+
+2076
+01:55:19,371 --> 01:55:20,371
+¿Se va?
+
+2077
+01:55:21,248 --> 01:55:22,248
+Sí.
+
+2078
+01:55:28,004 --> 01:55:30,416
+Acabo de recibir
+una llamada del Cardenal.
+
+2079
+01:55:30,799 --> 01:55:32,630
+¿En serio? ¿Por qué?
+
+2080
+01:55:32,759 --> 01:55:35,592
+Quería decirme en persona
+que decidió no hacer comentarios.
+
+2081
+01:55:36,304 --> 01:55:40,798
+Dijo que quería extenderme
+esa cortesía.
+
+2082
+01:55:41,017 --> 01:55:43,759
+Dios, qué pelotas tiene ese tipo.
+¿Qué le dijo?
+
+2083
+01:55:44,521 --> 01:55:47,966
+Le dije que cometía un error, y que
+igualmente publicaríamos la historia.
+
+2084
+01:55:48,066 --> 01:55:49,647
+Claro que la vamos a publicar.
+
+2085
+01:56:14,718 --> 01:56:16,583
+Sacha, ¿me darías un poco de agua?
+
+2086
+01:56:17,804 --> 01:56:19,544
+Sí. Claro, abuela.
+
+2087
+01:56:31,443 --> 01:56:32,774
+¿Puedo quedarme con esto?
+
+2088
+01:56:34,279 --> 01:56:35,359
+Sí, claro.
+
+2089
+01:56:36,239 --> 01:56:37,979
+Pensé que debía verlo primero.
+
+2090
+01:56:38,116 --> 01:56:39,606
+Gracias por traerlo.
+
+2091
+01:56:42,537 --> 01:56:45,028
+Tengo que atender algunos clientes.
+
+2092
+01:57:03,141 --> 01:57:04,802
+Los dos niños sufrieron abuso.
+
+2093
+01:57:05,352 --> 01:57:07,343
+Jamaica Plain. Hace dos semanas.
+
+2094
+01:57:09,356 --> 01:57:13,019
+Siga haciendo su trabajo, Sr. Rezendes.
+
+2095
+01:57:14,778 --> 01:57:16,609
+- Hola.
+- Hola.
+
+2096
+01:57:16,947 --> 01:57:19,359
+- ¿Cómo están?
+- Bien.
+
+2097
+01:57:19,824 --> 01:57:20,824
+Bien.
+
+2098
+01:57:21,201 --> 01:57:23,362
+The Boston Globe
+DIARIO - DOMINGO
+
+2099
+01:57:43,016 --> 01:57:43,816
+
+
+2100
+01:57:44,716 --> 01:57:47,716
+LA IGLESIA ENCUBRE ABUSO
+DE CURA POR AÑOS
+
+2101
+01:58:07,706 --> 01:58:09,697
+- Hola.
+- Buenos días.
+
+2102
+01:58:10,417 --> 01:58:11,577
+¿Cómo dormiste?
+
+2103
+01:58:12,419 --> 01:58:14,000
+No muy bien. ¿Y tú?
+
+2104
+01:58:14,212 --> 01:58:16,043
+No duermo bien desde hace meses.
+
+2105
+01:58:17,632 --> 01:58:20,044
+Gracias. Empecé a escribir.
+
+2106
+01:58:20,802 --> 01:58:22,954
+- ¿A escribir?
+- Sí, he estado escribiendo un libro.
+
+2107
+01:58:23,054 --> 01:58:24,794
+Me da algo más en qué enfocarme.
+
+2108
+01:58:24,973 --> 01:58:26,213
+¿Qué clase de libro?
+
+2109
+01:58:26,474 --> 01:58:27,474
+De terror.
+
+2110
+01:58:34,816 --> 01:58:35,896
+Spotlight.
+
+2111
+01:58:37,277 --> 01:58:41,111
+Sí. Por supuesto.
+¿Me daría su nombre, por favor?
+
+2112
+01:58:57,797 --> 01:58:59,253
+Sabes que es domingo, ¿no?
+
+2113
+01:58:59,424 --> 01:59:01,005
+No conseguí turno para jugar.
+
+2114
+01:59:04,054 --> 01:59:05,919
+- No hay piqueteros.
+- Sí.
+
+2115
+01:59:06,556 --> 01:59:08,296
+Probablemente siguen en la iglesia.
+
+2116
+01:59:10,685 --> 01:59:12,095
+Hola, Linda.
+
+2117
+01:59:12,312 --> 01:59:13,312
+Está tranquilo, ¿no?
+
+2118
+01:59:13,480 --> 01:59:15,604
+Sí, las horas extras
+más relajadas de mi vida.
+
+2119
+01:59:15,704 --> 01:59:19,607
+El teléfono no sonó ni una vez.
+Marty envió a dos míos a Spotlight.
+
+2120
+01:59:23,365 --> 01:59:25,196
+- Buen artículo, muchachos.
+- Gracias.
+
+2121
+01:59:25,909 --> 01:59:27,069
+¿Spotlight?
+
+2122
+01:59:53,645 --> 01:59:55,101
+Los teléfonos sonaron toda la mañana.
+
+2123
+01:59:57,941 --> 01:59:59,522
+- Mike, ¿puedes atender esa llamada?
+- Sí.
+
+2124
+02:00:00,860 --> 02:00:02,851
+Casi todas son víctimas, Robby.
+
+2125
+02:00:05,323 --> 02:00:06,813
+Lamento haberle hecho esperar.
+
+2126
+02:00:10,161 --> 02:00:11,492
+Es muy duro hablar, lo sé...
+
+2127
+02:00:11,663 --> 02:00:13,199
+Sí, puede ubicarme aquí...
+
+2128
+02:00:14,124 --> 02:00:15,455
+Spotlight.
+
+2129
+02:00:30,974 --> 02:00:32,054
+Spotlight.
+
+2130
+02:00:37,939 --> 02:00:39,507
+Durante el año 2002...
+
+2131
+02:00:39,607 --> 02:00:43,316
+...el equipo de Spotlight publicó cerca
+de 600 historias sobre el escándalo.
+
+2132
+02:00:44,446 --> 02:00:47,779
+249 curas y hermanos fueron acusados
+de abuso en la Arquidiócesis de Boston.
+
+2133
+02:00:47,949 --> 02:00:50,649
+Se estima que el número
+de sobrevivientes en Boston...
+
+2134
+02:00:50,749 --> 02:00:52,549
+...supera los 1.000.
+
+2135
+02:00:54,539 --> 02:00:57,781
+En diciembre de 2002, el cardenal Law
+renunció a la Arquidiócesis de Boston.
+
+2136
+02:00:57,959 --> 02:01:00,371
+Lo reasignaron a la Basílica
+di Santa Maria Maggiore en Roma...
+
+2137
+02:01:00,545 --> 02:01:03,457
+...una de las iglesias católicas romanas
+de más alto rango del mundo.
+
+2138
+02:01:04,466 --> 02:01:08,709
+Escándalos mayores de abuso han sido
+descubiertos en los siguientes lugares:
